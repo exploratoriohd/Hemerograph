@@ -1,0 +1,792 @@
+NombreR,NumContrib,Colaborador,Roles,Seudonimo,PaisOrigen,Titulo,NumFasciculo,Fecha,Fecha-ISO,Traduccion,Traductor,Lengua,LenguaOriginal,Tipo,TipoIndice,Dedicatoria,ObrasResenadas,CantidadPaginas,Paginacion
+Alpha,1,"Carrasquilla, Tomás",Creador,NA,Colombia,Homilia N.°I.,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa No Ficción,NA,Luis Cano. El banjamín de la Partida,NA,14.5,1-15
+Alpha,2,"Schiller, Friedrich",Creador,NA,Alemania,El guante,Año I. Número 1,marzo de 1906,1906-03-01,Sí,"Latorre, Gabriel",Español,Alemán,Poesía,NA,NA,NA,2,16-17
+Alpha,3,"Villiers de L'Isle-Adam, Auguste de",Creador,Villiers de L'Isle-Adam,Francia,Vox Populi,Año I. Número 1,marzo de 1906,1906-03-01,Sí,"Restrepo Restrepo, Carlos Eugenio",Español,Francés,Prosa Ficción,NA,Leconte de L´isle,NA,3,18-21
+Alpha,4,"Uribe, Joaquín Antonio",Creador,NA,Colombia,Cuadros de la Naturaleza. Las Hormigas,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,22-23
+Alpha,5,"Gaviria, José A.",Creador,"Gaviria, J.A., Nápoles",Colombia,Napoles (de una cartera de viajes),Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3,24-27
+Alpha,6,"Altenberg, Peter",Creador,NA,Austria,Doce Años,Año I. Número 1,marzo de 1906,1906-03-01,Sí,Anónimo,Español,Alemán,Prosa Ficción,NA,NA,NA,01.5,28-29
+Alpha,7,"Montoya, José",Creador,NA,Colombia,Crónica literaria: Esta Omega del Alpha,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa No Ficción,Crónica literaria,NA,NA,0.5,30
+Alpha,8,"Montoya, José",Creador,NA,Colombia,Crónica literaria: Gabriel Latorre,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Reseña,Crónica literaria,NA,Kundry de Gabriel Latorre,03.5,30-34
+Alpha,9,"Montoya, José",Creador,NA,Colombia,Crónica literaria: Sebastián Hoyos,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Reseña,Crónica literaria,NA,Hija espiritual de Alfonso Castro,01.5,34-35
+Alpha,10,"Montoya, José",Creador,NA,Colombia,Crónica literaria: Sebastián Hoyos,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa No Ficción,Conferencia,NA,NA,0.5,36
+Alpha,11,"Montoya, José",Creador,NA,Colombia,Crónica literaria: Abel Farina,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Reseña,Crónica literaria,NA,Crisálidas de Abel Farina,01.8,36-38
+Alpha,12,"Montoya, José",Creador,NA,Colombia,Crónica literaria: La novela Diego Velasco,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Reseña,Crónica literaria,NA,Diego Velasco de Máximo Lorenzana,01.3,38-40
+Alpha,13,"Montoya, José",Creador,NA,Colombia,Crónica literaria: El centro artístico,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa No Ficción,Crónica literaria,NA,NA,0.7,40
+Alpha,14a,"Ospina Vásquez, Mariano",Director,La Dirección,NA,Para empezar,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,01.5,41-42
+Alpha,14b,"Cano, Antonio José",Director,La Dirección,NA,Para empezar,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,01.5,41-42
+Alpha,14c,"Greiff, Luis de",Director,La Dirección,NA,Para empezar,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,01.5,41-42
+Alpha,15,"Restrepo, Saturnino",Reseñista,NA,Colombia,La Revista Contemporánea,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Reseña de revista,Notas editoriales,NA,Revista Contemporánea,1,42-43
+Alpha,16a,"Ospina Vásquez, Mariano",Director,La Dirección,NA,Homenaje,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,0.5,43-44
+Alpha,16b,"Cano, Antonio José",Director,La Dirección,NA,Homenaje,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,0.5,43-44
+Alpha,16c,"Greiff, Luis de",Director,La Dirección,NA,Homenaje,Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,0.5,43-44
+Alpha,17,Anónimo,Creador,NA,NA,"""Lectura y Arte""",Año I. Número 1,marzo de 1906,1906-03-01,No,NA,Español,NA,Prosa Ficción,Notas editoriales,NA,NA,0.5,44
+Alpha,18,"Martínez Sierra, Gregorio",Crítico,NA,España,La tristeza del  Quijote,Año I. Número 2,abril de 1906,1906-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,9,45-54
+Alpha,19,"Restrepo Restrepo, Antonio María",Creador,Abel Farina,Colombia,El monologo de todos los días,Año I. Número 2,abril de 1906,1906-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,55-56
+Alpha,20,"Maragall, Juan",Crítico,NA,España,Escritor,Año I. Número 2,abril de 1906,1906-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,57-60
+Alpha,21,"Restrepo, Saturnino",Creador,NA,Colombia,El enemigo (Fragmento),Año I. Número 2,abril de 1906,1906-04-01,No,NA,Español,NA,Prosa No Ficción,Fragmento,NA,NA,9,61-70
+Alpha,22,"Jaramillo, Bernardo",Creador,NA,Colombia,Serenata,Año I. Número 2,abril de 1906,1906-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,71-72
+Alpha,23,"Cano Gutiérrez, Fidel",Crítico,NA,Colombia,Carneros emisarios,Año I. Número 2,abril de 1906,1906-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,73-78
+Alpha,24,"Medina, Vicente",Creador,NA,Colombia,¡To Pomporica!,Año I. Número 2,abril de 1906,1906-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,79-80
+Alpha,25,"Restrepo, Saturnino",Creador,NA,NA,Desfile de alumnos,Año I. Número 2,abril de 1906,1906-04-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,02.8,81-84
+Alpha,26,Anónimo,Creador,NA,NA,Nota importante,Año I. Número 2,abril de 1906,1906-04-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,0.4,84
+Alpha,27,Anónimo,Reseñista,NA,NA,Un libro útil,Año I. Número 2,abril de 1906,1906-04-01,No,NA,Español,NA,Reseña,Notas editoriales,NA,Primer directorio general de la ciudad de Medellín,0.4,84
+Alpha,28,"Grillo, Maximiliano",Crítico,NA,Colombia,Contra-Homilia,Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4,85-89
+Alpha,29,"Poe, Edgar Allan",Creador,NA,Estados Unidos,A Elena,Año I. Número 3,mayo de 1906,1906-05-01,Sí,"Latorre, Gabriel",Español,Inglés,Poesía,NA,NA,NA,3,90-92
+Alpha,30,"Rendón, Francisco de Paula",Creador,"F. de P., Rendón",Colombia,El palacio de la felicidad,Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,11,93-104
+Alpha,31,"Ospina Vásquez, Mariano",Creador,Moi,Colombia,Talvez…,Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,105
+Alpha,32,"Ospina Vásquez, Mariano",Creador,Moi,Colombia,Tregua,Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,105
+Alpha,33,"Uribe, Joaquín Antonio",Creador,NA,Colombia,Cuadros de la Naturaleza. Los pájaros,Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,01.7,106-107
+Alpha,34,"Villegas, Aquilino",Creador,NA,Colombia,Balbuceos primaverales,Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,108-109
+Alpha,35,"Wilde, Oscar",Creador,NA,Irlanda,El ermitaño,Año I. Número 3,mayo de 1906,1906-05-01,Sí,Anónimo,Español,Alemán,Prosa Ficción,NA,(traducido del Alemán para Alpha),NA,3,110-113
+Alpha,36,"Blasco Ibáñez, Vicente",Creador,NA,España,Apoteosis del mármol,Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4,114-118
+Alpha,37,"Soto Borda, Clímaco",Creador,NA,Colombia,Bien Faire et laisser dire,Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Poesía,NA,"Restrepo, Carlos E",NA,1,119
+Alpha,38,"Restrepo, Saturnino",Creador,NA,Colombia,J.M. de Heredia,Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,1.5,120-121
+Alpha,39,"Restrepo, Saturnino",Creador,NA,Colombia,Marcel Schwob,Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,1,121-122
+Alpha,40,"Restrepo, Saturnino",Crítico,NA,Colombia,Los libros y el crimen,Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,2,122-124
+Alpha,41,Anónimo,Creador,NA,NA,"""Entrañas de niño""",Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,0.2,124
+Alpha,42,Anónimo,Creador,NA,NA,Gracias,Año I. Número 3,mayo de 1906,1906-05-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,0.3,124
+Alpha,43,"Betancourt Villegas, Félix",Creador,NA,Colombia,Sobre sociotecnia,Año I. Número 4,junio de 1906,1906-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8,125-133
+Alpha,44,"Ospina Vásquez, Mariano",Creador,M.O.V,Colombia,Febrero antioqueño (Sensación de paisaje),Año I. Número 4,junio de 1906,1906-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,132
+Alpha,45,"Carrasquilla, Tomás",Creador,NA,Colombia,Estrañas de niño,Año I. Número 4,junio de 1906,1906-06-01,No,NA,Español,NA,Prosa Ficción,Novela,NA,NA,08.5,135-144
+Alpha,46,"Robledo, Eusebio",Creador,NA,Colombia,Sibila,Año I. Número 4,junio de 1906,1906-06-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,4,145-149
+Alpha,47,"Castro, Alfonso",Crítico,NA,Colombia,De crítica,Año I. Número 4,junio de 1906,1906-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7,150-157
+Alpha,48,"Montoya Pérez, Rafael",Creador,NA,NA,Rayo de sol,Año I. Número 4,junio de 1906,1906-06-01,No,NA,Español,NA,Prosa Ficción,NA,Ismael Peña,NA,2,158-160
+Alpha,49,"Restrepo, Saturnino",Creador,NA,Colombia,"La tierra ""maternal""",Año I. Número 4,junio de 1906,1906-06-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,2,161-162
+Alpha,50,"Restrepo, Saturnino",Creador,NA,Colombia,El espectro,Año I. Número 4,junio de 1906,1906-06-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,1,163
+Alpha,51,Anónimo,Crítico,NA,NA,Arte nacional,Año I. Número 4,junio de 1906,1906-06-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,0.6,164
+Alpha,52,Anónimo,Creador,NA,NA,Centro Artístico,Año I. Número 4,junio de 1906,1906-06-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,0.1,164
+Alpha,53,Anónimo,Creador,NA,NA,Publicaciones recibidas,Año I. Número 4,junio de 1906,1906-06-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,0.3,164
+Alpha,54,"Carrasquilla, Tomás",Creador,NA,Colombia,Entrañas de niño II,Año I. Número 5-6,julio de 1906,1906-07-01,No,NA,Español,NA,Prosa Ficción,Novela,NA,NA,11,165-176
+Alpha,55a,"Cano Gutiérrez, Fidel",Creador,NA,Colombia,Concursos de 1906. Informe del jurado calificador,Año I. Número 5-6,julio de 1906,1906-07-01,No,NA,Español,NA,Prosa No Ficción,Informe,NA,NA,8,177-185
+Alpha,55b,"Hoyos, Sebastián",Creador,NA,Colombia,Concursos de 1906. Informe del jurado calificador,Año I. Número 5-6,julio de 1906,1906-07-01,No,NA,Español,NA,Prosa No Ficción,Informe,NA,NA,8,177-185
+Alpha,55c,"Betancourt Villegas, Félix",Creador,NA,Colombia,Concursos de 1906. Informe del jurado calificador,Año I. Número 5-6,julio de 1906,1906-07-01,No,NA,Español,NA,Prosa No Ficción,Informe,NA,NA,8,177-185
+Alpha,56,"Cruz, Jorge de la",Creador,NA,Colombia,Baldosas y terrones,Año I. Número 5-6,julio de 1906,1906-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,8,186-204
+Alpha,57,"Cano, Antonio José",Creador,NA,Colombia,Sendero de llanto,Año I. Número 5-6,julio de 1906,1906-07-01,No,NA,Español,NA,Poesía,NA,"Cano, Francisco A",NA,1,205
+Alpha,58,"Restrepo, Saturnino",Creador,NA,Colombia,La oveja descarriada,Año I. Número 5-6,julio de 1906,1906-07-01,No,NA,Español,NA,Prosa No Ficción,NA,"Olano, Ricardo, fundador de ALPHA",NA,25,206-231
+Alpha,59,"Cruz, Efraím de la",Creador,NA,Colombia,Anima,Año I. Número 5-6,julio de 1906,1906-07-01,No,NA,Español,NA,Poesía,NA,"Cano, Luis",NA,2,232-233
+Alpha,60,"Villegas, Luis Eduardo",Creador,NA,Colombia,Carta,Año I. Número 5-6,julio de 1906,1906-07-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,3,234-237
+Alpha,61,"Jaramillo MTZ, José María",Creador,J. M.ª. J. MTZ.,NA,Conmociones terrestres,Año I. Número 5-6,julio de 1906,1906-07-01,Sí,J. M. J. MTZ,Español,Inglés,Prosa No Ficción,Notas editoriales,NA,NA,02.5,238-241
+Alpha,62,"Restrepo, Saturnino",Creador,NA,Colombia,M. Curie,Año I. Número 5-6,julio de 1906,1906-07-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,2,241-243
+Alpha,63,"Restrepo, Saturnino",Creador,NA,Colombia,"""Homo sapiens.""",Año I. Número 5-6,julio de 1906,1906-07-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,1,243-244
+Alpha,64,Anónimo,Creador,NA,NA,Centro Artístico,Año I. Número 5-6,julio de 1906,1906-07-01,No,NA,Español,NA,Prosa No Ficción,Notas editoriales,NA,NA,0.5,244
+Alpha,65,"Carrasquilla, Tomás",Creador,NA,Colombia,Entrañas de niño III,Año I. Número 7,agosto de 1906,1906-08-01,No,NA,Español,NA,Prosa Ficción,Novela,NA,NA,10,245-255
+Alpha,66,"Cano, Luis",Creador,NA,Colombia,Sucesos de todos los días,Año I. Número 7,agosto de 1906,1906-08-01,No,NA,Español,NA,Poesía,NA,"Carrasquilla, Tomás",NA,1,256
+Alpha,67,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,Martín Rua,Año I. Número 7,agosto de 1906,1906-08-01,No,NA,Español,NA,Prosa Ficción,Cuento,"Echavarría, Pablo",NA,9,257-266
+Alpha,68,"Marín, Abel",Creador,NA,Colombia,¿…...,Año I. Número 7,agosto de 1906,1906-08-01,No,NA,Español,NA,Prosa Ficción,NA,"Moya, Rodríguez",NA,1,267
+Alpha,69,"Novicow, F.",Creador,F. Novicow,NA,La felicidad de las sociedades humanas,Año I. Número 7,agosto de 1906,1906-08-01,Sí,Anónimo,Español,NA,Prosa Ficción,NA,NA,NA,7,268-275
+Alpha,70,"Velásquez García, José",Creador,"Vives Guerra, Julio",Colombia,La araña de los jardines.( Versión de una leyenda bretona),Año I. Número 7,agosto de 1906,1906-08-01,No,NA,Español,NA,Poesía,NA,"Quirós, José Manuel",NA,2,276-277
+Alpha,71,"Villegas, Aquilino",Creador,NA,Colombia,Un animal canta,Año I. Número 7,agosto de 1906,1906-08-01,No,NA,Español,NA,Prosa Ficción,NA,"Restrepo, Saturnino",NA,2,278-279
+Alpha,72,"Carrasquilla, Tomás",Creador,NA,Colombia,Carta,Año I. Número 7,agosto de 1906,1906-08-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,01.5,280-282
+Alpha,73,"Botero Guerra, Camilo",Creador,NA,Colombia,Instituto Isaacs,Año I. Número 7,agosto de 1906,1906-08-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,1,282-283
+Alpha,74,Anónimo,Creador,Alpha,NA,Tercer certamen industrial,Año I. Número 7,agosto de 1906,1906-08-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1,283-284
+Alpha,75,"Carrasquilla, Tomás",Creador,NA,Colombia,Homilia N°. 2°. En contestación y acatamiento al hermano Max Grillo,Año I. Número 8-9,septiembre de 1906,1906-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,28.5,285-314
+Alpha,76,"Jaramillo, Bernardo",Creador,NA,Colombia,¡Oh madre!,Año I. Número 8-9,septiembre de 1906,1906-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,315
+Alpha,77,"Carrasquilla L., Juan de Dios",Creador,NA,Colombia,Estudios prehistóricos,Año I. Número 8-9,septiembre de 1906,1906-09-01,No,NA,Español,NA,Prosa No Ficción,Artículos,NA,NA,07.5,316-324
+Alpha,78,"Carrasquilla, Tomás",Creador,NA,Colombia,Entrañas de niño IV,Año I. Número 8-9,septiembre de 1906,1906-09-01,No,NA,Español,NA,Prosa Ficción,Novela,NA,NA,07.5,325-333
+Alpha,79,"Ospina Vásquez, Mariano",Creador,Moi,Colombia,El silencio,Año I. Número 8-9,septiembre de 1906,1906-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,333
+Alpha,80,"Gaviria, José A.",Creador,"Gaviria, J.A., Nápoles",Colombia,Nobleza obliga. I. El león,Año I. Número 8-9,septiembre de 1906,1906-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,21,334-355
+Alpha,81,"Gaviria, José A.",Creador,NA,Colombia,"Epílogo. De Lamus, Rincón & C.",Año I. Número 8-9,septiembre de 1906,1906-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,356
+Alpha,82,"Sanín Cano, Baldomero",Crítico,NA,Colombia,Sr. D. Arcesio Aragón,Año I. Número 8-9,septiembre de 1906,1906-09-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,6,356-363
+Alpha,83,"Restrepo, Saturnino",Creador,NA,Colombia,7 de agosto,Año I. Número 8-9,septiembre de 1906,1906-09-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1,363-364
+Alpha,84,"Restrepo, Saturnino",Creador,NA,Colombia,"""Obscuro y claro""",Año I. Número 8-9,septiembre de 1906,1906-09-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,364-366
+Alpha,85,"Restrepo, Saturnino",Crítico,NA,Colombia,Pax vobis,Año I. Número 8-9,septiembre de 1906,1906-09-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,266-268
+Alpha,86,"Triana, Miguel",Creador,NA,Colombia,"Del ""Viaje al Putumayo"" (Capítulo de un libro inédito)",Año I. Número 10,octubre de 1906,1906-10-01,No,NA,Español,NA,Prosa Ficción,Capítulo de libro,NA,NA,4,269-373
+Alpha,87,"Jaramillo P., Escipión",Creador,NA,NA,Las hormigas,Año I. Número 10,octubre de 1906,1906-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,374-375
+Alpha,88,"Carrasquilla, Tomás",Creador,NA,Colombia,Entrañas de niño. V,Año I. Número 10,octubre de 1906,1906-10-01,No,NA,Español,NA,Prosa Ficción,Novela,NA,NA,17,376-393
+Alpha,89,"Restrepo Restrepo, Antonio María",Creador,AB. Farina,Colombia,6 de mayo,Año I. Número 10,octubre de 1906,1906-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,394-396
+Alpha,90,"Gartner, Hugo",Creador,NA,NA,En los témpanos,Año I. Número 10,octubre de 1906,1906-10-01,No,NA,Español,NA,Prosa Ficción,NA,Alpha,NA,02.5,397-399
+Alpha,91,"Carvajal, Manuel Antonio",Creador,M.A. Carvajal,Colombia,Divagación,Año I. Número 10,octubre de 1906,1906-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,399
+Alpha,92,"Restrepo Restrepo, Carlos Eugenio",Creador,"Restrepo, C.E",Colombia,El primer personaje,Año I. Número 10,octubre de 1906,1906-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.5,400-401
+Alpha,93,"Jaloux, Edmond",Creador,NA,Francia,La indiferente,Año I. Número 10,octubre de 1906,1906-10-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,2,402-404
+Alpha,94,"Restrepo, Saturnino",Crítico,NA,Colombia,Prosas líricas,Año I. Número 10,octubre de 1906,1906-10-01,No,NA,Español,NA,Reseña,Notas,NA,Prosas Líricas de Rodríguez Moya,2,405-406
+Alpha,95,"Restrepo, Saturnino",Creador,NA,Colombia,A propósito de Dreyfus,Año I. Número 10,octubre de 1906,1906-10-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,01.6,407-408
+Alpha,96,Anónimo,Reseñista,NA,NA,Trofeos,Año I. Número 10,octubre de 1906,1906-10-01,No,NA,Español,NA,Reseña de revista,Notas,NA,NA,0.4,408
+Alpha,97,"Carrasquilla, Tomás",Creador,NA,Colombia,Entrañas de niño. VIII,Año I. Número 11,noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa Ficción,Novela,NA,NA,16.5,409-426
+Alpha,98,"Ospina Vásquez, Mariano",Creador,Moi,Colombia,Pasas…,Año I. Número 11,noviembre de 1906,1906-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,426
+Alpha,99,"Triana, Miguel",Creador,NA,Colombia,Capítulo de un libro inédito,Año I. Número 11,noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa Ficción,Capítulo de libro,NA,NA,05.3,427-433
+Alpha,100,"Carvajal, Manuel Antonio",Creador,M.A. Carvajal,Colombia,Paisaje de aldea,Año I. Número 11,noviembre de 1906,1906-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,433
+Alpha,101,"Ospina Vásquez, Tulio",Creador,Tulio Ospina,Colombia,Riqueza filológica,Año I. Número 11,octubre de 1906,1906-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,434-437
+Alpha,102,"Cano, Luis",Creador,NA,Colombia,Sucesos de todos los días,Año I. Número 11,octubre de 1906,1906-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,438
+Alpha,103,"Restrepo, Saturnino",Creador,NA,Colombia,El terremoto en California,Año I. Número 11,octubre de 1906,1906-10-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,NA,NA,NA,3,439-442
+Alpha,104,"Restrepo, Saturnino",Crítico,NA,Colombia,Zolá en el Panteón,Año I. Número 11,octubre de 1906,1906-10-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,3,443-445
+Alpha,105,"Restrepo, Saturnino",Crítico,NA,Colombia,La luna,Año I. Número 11,octubre de 1906,1906-10-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,01.7,446-447
+Alpha,106,Anónimo,Reseñista,NA,NA,"""El correo del Valle""",Año I. Número 11,octubre de 1906,1906-10-01,No,NA,Español,NA,Reseña de revista,Notas,NA,NA,0.8,447-448
+Alpha,107,Anónimo,Creador,Alpha,NA,Camilo Arturo Escobar,Año I. Número 11,octubre de 1906,1906-10-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.3,448
+Alpha,108,Anónimo,Creador,NA,NA,Del programa,Año I. Número 11,octubre de 1906,1906-10-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.2,448
+Alpha,109,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,Copia fiel,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,03.3,449-453
+Alpha,110,"Jaramillo Medina, Francisco",Creador,NA,Colombia,En su baño,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Poesía,NA,"Merizalde, Antonio",NA,0.7,453
+Alpha,111,"Carrasquilla, Tomás",Creador,NA,Colombia,Entrañas de niño IX,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Prosa Ficción,Novela,NA,NA,29.3,454-484
+Alpha,112,"Carvajal, Alberto",Creador,NA,Colombia,Ritmos breves,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Poesía,NA,A una novicia,NA,01.7,484-485
+Alpha,113,"Pérez Triana, Santiago",Creador,NA,Colombia,La traslación de la familia chimp a la ciudad,Año I. Número 12,diciembre de 1906,1906-12-01,Sí,"Eastman, Tomás Oziel",Español,Inglés,Prosa Ficción,Cuento,NA,NA,6,486-492
+Alpha,114,"Carrasquilla, Tomás",Creador,NA,Colombia,Albirradium,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,01.4,493-494
+Alpha,115,"Solano Patiño, José",Creador,NA,NA,Acuarela de abanico. [poemas cortos],Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,01.6,194-395
+Alpha,116,"Restrepo, Saturnino",Creador,NA,Colombia,Míster Roosevelt,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.5,496-498
+Alpha,117,"Nieto, Ricardo",Creador,NA,Colombia,Causerie,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.5,498-500
+Alpha,118,Anónimo,Creador,NA,NA,Publicaciones recibidas,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.5,500-501
+Alpha,119,Anónimo,Creador,NA,NA,Edición,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.3,501
+Alpha,120a,"Ospina Vásquez, Mariano",Director,LL. RR.,NA,Año Nuevo,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.6,501
+Alpha,120b,"Cano, Antonio José",Director,LL. RR.,NA,Año Nuevo,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.6,501
+Alpha,120c,"Cruz, Jorge de la",Director,LL. RR.,NA,Año Nuevo,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.6,501
+Alpha,121,Anónimo,Director,NA,NA,Indice del año primero,Año I. Número 12,diciembre de 1906,1906-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Alpha,122,"Vives, Luis",Creador,NA,Colombia,Desvelado,Año II. Número 13,enero de 1907,1907-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,505-506
+Alpha,123,"Cano Gutiérrez, Fidel",Creador,NA,Colombia,Preces de navidad,Año II. Número 13,enero de 1907,1907-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,3.3,507-510
+Alpha,124,"Cano, Antonio José",Creador,NA,Colombia,Hebras de luz,Año II. Número 13,enero de 1907,1907-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,510
+Alpha,125,"Bahr, Hermann",Creador,NA,Austria,El pudor de la condesa,Año II. Número 13,enero de 1907,1907-01-01,Sí,Anónimo,Español,Alemán,Prosa Ficción,NA,NA,NA,02.5,511-513
+Alpha,126,"Jaramillo, Bernardo",Creador,NA,Colombia,"""12 de Octubre""",Año II. Número 13,enero de 1907,1907-01-01,No,NA,Español,NA,Poesía,NA,"Restrepo, Saturnino",NA,1,514
+Alpha,127,"Uribe Gómez, Pedro",Creador,NA,Colombia,Impresiones. El monumento á Maupassant,Año II. Número 13,enero de 1907,1907-01-01,No,NA,Español,NA,Prosa Ficción,NA,"Caro, Alfonso",NA,6,515-521
+Alpha,128,"Carrasquilla, Tomás",Creador,NA,Colombia,Salutaris Hostia,Año II. Número 13,enero de 1907,1907-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,522
+Alpha,129,"Ospina Vásquez, Mariano",Creador,Moi,Colombia,Hablas…,Año II. Número 13,enero de 1907,1907-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,522
+Alpha,130,"Brooks, Adam",Creador,NA,NA,"Fragmento. De ""La ley de la civilización y de la decadencia""",Año II. Número 13,enero de 1907,1907-01-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,NA,NA,NA,7,523-530
+Alpha,131,"Montoya Pérez, Rafael",Creador,R. Montoya Pérez,NA,Hojas,Año II. Número 13,enero de 1907,1907-01-01,No,NA,Español,NA,Poesía,NA,"Cano, Luis",NA,3,231-233
+Alpha,132,"Escobar Rojo, Severo",Creador,NA,Colombia,Por las letras,Año II. Número 13,enero de 1907,1907-01-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,01.5,534-535
+Alpha,133,"Restrepo, Saturnino",Crítico,S.R.,Colombia,Tomás Carrasquilla,Año II. Número 13,enero de 1907,1907-01-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,535-537
+Alpha,134,"Restrepo, Saturnino",Crítico,S.R.,Colombia,Las facciones literarias,Año II. Número 13,enero de 1907,1907-01-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,537-539
+Alpha,135,"Uribe, Basiliso",Creador,NA,NA,Neurosis,Año II. Número 13,enero de 1907,1907-01-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1.6,539-540
+Alpha,136,"Maeterlinck, Maurice",Creador,NA,Bélgica,En la muerte de un perro,Año II. Número 14,febrero de 1907,1907-02-01,Sí,Anónimo,Español,Inglés,Prosa Ficción,NA,NA,NA,11,541-552
+Alpha,137,"Soto Borda, Clímaco",Creador,NA,Colombia,Salmo de invierno,Año II. Número 14,febrero de 1907,1907-02-01,No,NA,Español,NA,Poesía,NA,"Cano, Antonio J",NA,2,553-554
+Alpha,138,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,Dares y tomares,Año II. Número 14,febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,2,555-557
+Alpha,139,"Restrepo Restrepo, Antonio María",Creador,AB. Farina,Colombia,Sátiras breves II,Año II. Número 14,febrero de 1907,1907-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,558
+Alpha,140,"Vives, Luis",Creador,NA,Colombia,Noche de luna,Año II. Número 14,febrero de 1907,1907-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,2.3,559-561
+Alpha,141,"Gómez Restrepo, Antonio",Creador,NA,Colombia,Toledo (inédito),Año II. Número 14,febrero de 1907,1907-02-01,No,NA,Español,NA,Poesía,NA,"Ferrari, Emilio",NA,0.7,561
+Alpha,142,Rachilde,Creador,NA,Francia,La colación del perro (Anarquismo),Año II. Número 14,febrero de 1907,1907-02-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,"Colliere, Marcel",NA,04.3,562-566
+Alpha,143,"Déubel, Leon",Creador,NA,Francia,Silencio!,Año II. Número 14,febrero de 1907,1907-02-01,Sí,"Restrepo Restrepo, Carlos Eugenio",Español,Francés,Poesía,NA,NA,NA,0.7,566
+Alpha,144,"Barbier, Auguste",Creador,NA,Francia,La cavale,Año II. Número 14,febrero de 1907,1907-02-01,Sí,"Nieto, Ricardo",Español,Francés,Poesía,NA,NA,NA,2,567-568
+Alpha,145,"Restrepo, Saturnino",Crítico,NA,Colombia,Lugares comunes,Año II. Número 14,febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.7,569-571
+Alpha,146,"Restrepo, Saturnino",Crítico,NA,Colombia,Caín y Abel,Año II. Número 14,febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,3,571-574
+Alpha,147,"Posada Arango, Andrés",Creador,NA,Colombia,El murrapo (A la Academia Antioqueña de historia),Año II. Número 14,febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,A la Academia Antioqueña de Historia,NA,2,574-576
+Alpha,148a,"Ospina Vásquez, Mariano",Director,LL. RR.,Colombia,Enquête,Año II. Número 14,febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1,577
+Alpha,148b,"Cano, Antonio José",Director,LL. RR.,Colombia,Enquête,Año II. Número 14,febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1,577
+Alpha,148c,"Cruz, Jorge de la",Director,LL. RR.,Colombia,Enquête,Año II. Número 14,febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1,577
+Alpha,149,"Carvajal, Manuel Antonio",Creador,M.A. Carvajal,Colombia,Sol de Domingo,Año II. Número 14,febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa Ficción,Notas,"Perlaza, José María",NA,2,578-479
+Alpha,150,"Carrasquilla, Tomás",Creador,NA,Colombia,Mirra I,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa Ficción,NA,"Castro, Alfonso",NA,6,581-587
+Alpha,151,"Pardo Farelo, Enrique",Creador,"Tablanca, Luis",Colombia,En la galeria,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Poesía,NA,Alpha,NA,01.3,588-589
+Alpha,152,"Escobar Rojo, Severo",Creador,Severo Escobar R.,Colombia,Postal,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Poesía,NA,"Arango V, María Teresa",NA,0.7,589
+Alpha,153,"Restrepo, Saturnino",Creador,NA,Colombia,El perro,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3,590-593
+Alpha,154,"Merizalde Uribe, Antonio",Creador,NA,Colombia,¡Corazón!,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,594
+Alpha,155,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,El secreto del tío,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3,595-598
+Alpha,156,"Velásquez, Edmundo",Creador,NA,Colombia,El viento,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,599-600
+Alpha,157,"Restrepo Euse, Álvaro",Creador,NA,Colombia,Nacimiento de la ciudad de Medellín,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,601-606
+Alpha,158,"Gide, André",Creador,NA,Francia,El parque,Año II. Número 15,marzo de 1907,1907-03-01,Sí,"Latorre, Gabriel",Español,Francés,Poesía,NA,NA,NA,1,607
+Alpha,159,"Barrès, Maurice",Creador,NA,Francia,"Del ""Viaje a Esparta""",Año II. Número 15,marzo de 1907,1907-03-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,3,608-611
+Alpha,160,"Restrepo, Saturnino",Crítico,NA,Colombia,La versión poética,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,3.5,612-615
+Alpha,161,"Restrepo, Saturnino",Crítico,NA,Colombia,La opinión pública,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,3,615-618
+Alpha,162a,"Ospina Vásquez, Mariano",Director,LL. RR.,Colombia,Enquête,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.3,618
+Alpha,162b,"Cano, Antonio José",Director,LL. RR.,Colombia,Enquête,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.3,618
+Alpha,162c,"Cruz, Jorge de la",Director,LL. RR.,Colombia,Enquête,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.3,618
+Alpha,163,"Vallés, L.",Creador,L. Vallés,NA,Más allá de la física,Año II. Número 15,marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.5,618-620
+Alpha,164,"Rendón, Francisco de Paula",Creador,"Francisco de P., Rendón",Colombia,Lenguas y corazones,Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,58,621-679
+Alpha,165,"Cano, Luis",Creador,NA,Colombia,"El zagal, dice:",Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,680-681
+Alpha,166,"Restrepo Restrepo, Carlos Eugenio",Creador,"Carlos E., Restrepo",Colombia,El padre Victor,Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,13.3,682-696
+Alpha,167,"Jaramillo, Bernardo",Creador,NA,Colombia,Agua pérfida,Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,696
+Alpha,168,"Vives, Luis",Creador,NA,Colombia,El espíritu santo,Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa Ficción,NA,"Piedrahíta V, César",NA,01.5,697-698
+Alpha,169,"Olano, Ricardo",Creador,NA,Colombia,Ofrenda,Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,698
+Alpha,170,"Jaramillo Medina, Francisco",Creador,NA,Colombia,Invernal,Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,699
+Alpha,171,"Mesa Jaramillo, José María",Creador,J. M. Mesa Jaramillo,Colombia,El padre y la casa de  Girardot,Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,NA,Sociedad de mejoras públicas,NA,04.3,700-705
+Alpha,172,"Soto, Aquilino",Creador,A. Soto,NA,Generación espontánea,Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.7,705-706
+Alpha,173,"Restrepo, Saturnino",Crítico,S.R.,Colombia,Historia patria,Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,707-709
+Alpha,174,Anónimo,Creador,Alpha,NA,Alpha,Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.3,709
+Alpha,175a,"Ospina Vásquez, Mariano",Director,La Dirección,NA,"""Arte""",Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.4,709
+Alpha,175b,"Cano, Antonio José",Director,La Dirección,NA,"""Arte""",Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.4,709
+Alpha,176c,"Cruz, Jorge de la",Director,La Dirección,NA,"""Arte""",Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.4,709
+Alpha,176,Anónimo,Reseñista,NA,NA,Libros recibidos,Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Reseña,Notas,NA,"Tratado de Puntuación y Acentuación castellanas, por Januario Henao",1,709-710
+Alpha,177,Anónimo,Reseñista,NA,NA,Libros recibidos,Año II. Número 16-17,Abril-Mayo de 1907,1907-05-01,No,NA,Español,NA,Reseña,Notas,NA,Proceso de Cristo y Siluetas de la Pasión por Joaquín M°Arbeláez,0.3,710
+Alpha,178,"Uribe Gómez, Pedro",Creador,NA,Colombia,Ignis Ardens,Año II. Número 18,junio de 1907,1907-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,13,711-724
+Alpha,179,"Velásquez García, José",Creador,"Vives Guerra, Julio",Colombia,El barquero del amor,Año II. Número 18,junio de 1907,1907-06-01,No,NA,Español,NA,Poesía,NA,Ana,NA,2,725-726
+Alpha,180,"Betancourt Villegas, Félix",Creador,Félix Betancourt,Colombia,"Estado de la mujer en el matrimonio, costumbres y legislación. Capítulo IV",Año II. Número 18,junio de 1907,1907-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,10.5,727-737
+Alpha,181,"Cano, Antonio José",Creador,"Antonio J., Cano",Colombia,Hablaron nuestras manos,Año II. Número 18,junio de 1907,1907-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,738
+Alpha,182,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,Los mártires de pluma,Año II. Número 18,junio de 1907,1907-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3,739-741
+Alpha,183,"Bonilla, Manuel Antonio",Creador,"Manuel A., Bonilla",Colombia,Ofelia,Año II. Número 18,junio de 1907,1907-06-01,No,NA,Español,NA,Poesía,NA,"Nieto, Ricardo",NA,2,742-744
+Alpha,184,"Restrepo, Saturnino",Creador,NA,Colombia,Atenas contra Sócrates,Año II. Número 18,junio de 1907,1907-06-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,745-747
+Alpha,185,"Restrepo, Saturnino",Creador,NA,Colombia,La polémica con los poetas,Año II. Número 18,junio de 1907,1907-06-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,478-750
+Alpha,186,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,Un padre de la patria,Año II. Número 19,julio de 1907,1907-07-01,No,NA,Español,NA,Prosa No Ficción,NA,"Uribe Uribe, Rafael",NA,24,751-775
+Alpha,187,"Rodríguez Moya, Francisco",Creador,F. Rodríguez Moya,Colombia,De cómo pasé una tarde en la sala de los dioses,Año II. Número 19,julio de 1907,1907-07-01,No,NA,Español,NA,Poesía,NA,"Jaramillo, José María",NA,2,776-778
+Alpha,188,"Montoya, José",Creador,NA,NA,Alma de amor,Año II. Número 19,julio de 1907,1907-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,779-780
+Alpha,189,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,Fuina,Año II. Número 19,julio de 1907,1907-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,01.5,781-783
+Alpha,190,"Jaramillo Medina, Francisco",Creador,F. Jaramillo Medina,Colombia,Espinas del sueño,Año II. Número 19,julio de 1907,1907-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,783
+Alpha,191,Anónimo,Creador,NA,NA,M.y Mme. Berthelot,Año II. Número 19,julio de 1907,1907-07-01,Sí,"Escobar, Severo",Español,Inglés,Prosa No Ficción,Notas,NA,NA,2,784-785
+Alpha,192,"Restrepo, Saturnino",Creador,S.R.,Colombia,Pobiedonostzev,Año II. Número 19,julio de 1907,1907-07-01,Sí,"Restrepo, Saturnino",Español,Inglés,Prosa No Ficción,Notas,NA,NA,01.2,785-786
+Alpha,193,"Parville, Henry de",Creador,NA,Francia,Los colores y nuestros ojos,Año II. Número 19,julio de 1907,1907-07-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,Notas,NA,NA,3,786-789
+Alpha,194,"Escobar Rojo, Severo",Creador,NA,Colombia,La conferencia de Valle-Inclán,Año II. Número 19,julio de 1907,1907-07-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,01.5,789-790
+Alpha,195,"Martínez Sierra, Gregorio",Creador,NA,España,El madrigal nuevo,Año II. Número 20,agosto de 1907,1907-08-01,No,NA,Español,NA,Reseña de revista,Conferencia,NA,NA,22,791-812
+Alpha,196,"Jaramillo Medina, Francisco",Creador,F. Jaramillo Medina,Colombia,Los visionarios,Año II. Número 20,agosto de 1907,1907-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,7,813-819
+Alpha,197,"Gourmont, Remy de",Creador,NA,Francia,Un nuevo filósofo. Julio de Gaultier,Año II. Número 20,agosto de 1907,1907-08-01,Sí,"Gómez Restrepo, Antonio",Español,NA,Prosa Ficción,NA,NA,NA,4.5,820-824
+Alpha,198,"Ospina Vásquez, Mariano",Creador,Moi,Colombia,A jamais,Año II. Número 20,agosto de 1907,1907-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,824
+Alpha,199,"Vives, Luis",Creador,NA,Colombia,De feminismo,Año II. Número 20,agosto de 1907,1907-08-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,02.3,825-827
+Alpha,200,"Cruz, Jorge de la",Creador,NA,Colombia,Dietario. XXI,Año II. Número 20,agosto de 1907,1907-08-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.7,827
+Alpha,201,"Restrepo, Saturnino",Creador,NA,Colombia,El sufragio femenino,Año II. Número 20,agosto de 1907,1907-08-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,3,828-830
+Alpha,202,"Montoya, José",Creador,NA,NA,GELA,Año II. Número 21,septiembre de 1907,1907-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.5,831-834
+Alpha,203,"Restrepo Restrepo, Antonio María",Creador,Abel Farina,Colombia,Evangelios. El juicio de Dios. Cristo y la sombra,Año II. Número 21,septiembre de 1907,1907-09-01,No,NA,Español,NA,Poesía,NA,"Gonzaga, Sor",NA,2,835-836
+Alpha,204,"Cruz, Jorge de la",Creador,NA,Colombia,Dietario. IX,Año II. Número 21,septiembre de 1907,1907-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,837
+Alpha,205,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,La cuelga de papa,Año II. Número 21,septiembre de 1907,1907-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4,838-841
+Alpha,206,"Cano, Antonio José",Creador,"Antonio J., Cano",Colombia,Diálogos de las brisas,Año II. Número 21,septiembre de 1907,1907-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,842
+Alpha,207,"Pardo Farelo, Enrique",Creador,NA,Colombia,El frío de la tarde,Año II. Número 21,septiembre de 1907,1907-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3,843-845
+Alpha,208,"Gide, André",Creador,NA,Francia,Montañas,Año II. Número 21,septiembre de 1907,1907-09-01,Sí,"Latorre, Gabriel",Español,Francés,Poesía,NA,NA,NA,1,846
+Alpha,209,Anónimo,Director,Alpha,NA,"""Alpha se complace en ofrecer...""",Año II. Número 21,septiembre de 1907,1907-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,847
+Alpha,210,"Hearn, Lafcadio",Creador,NA,Grecia,La historia de Ito Norisuké,Año II. Número 21,septiembre de 1907,1907-09-01,Sí,"Gómez Restrepo, Antonio",Español,NA,Prosa No Ficción,NA,NA,NA,10,847-857
+Alpha,211,Anónimo,Creador,NA,NA,"""Lacafdio Hearn...""",Año II. Número 21,septiembre de 1907,1907-09-01,Sí,Anónimo,Español,NA,Prosa No Ficción,NA,NA,NA,1,857-858
+Alpha,212,"Betancourt Villegas, Félix",Crítico,Félix Betancourt,Colombia,Párrafos de una carta á Francisco de P. Rendón,Año II. Número 21,septiembre de 1907,1907-09-01,No,NA,Español,NA,Prosa No Ficción,Opiniones literarias,NA,NA,8,859-866
+Alpha,213,"Restrepo, Saturnino",Crítico,S.R.,Colombia,Al rededor de Rousseau,Año II. Número 21,septiembre de 1907,1907-09-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,4,867-870
+Alpha,214,"Restrepo Euse, Álvaro",Creador,NA,Colombia,Anales. De la conquista de Colombia,Año II. Número 22,octubre de 1907,1907-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,871-875
+Alpha,215,"Velásquez García, José",Creador,"Vives Guerra, Julio",Colombia,¡Arrea cochero!,Año II. Número 22,octubre de 1907,1907-10-01,No,NA,Español,NA,Poesía,NA,"Latorre, Luis E",NA,02.5,876-878
+Alpha,216,"Cruz, Jorge de la",Creador,NA,Colombia,Dietario. XXIII,Año II. Número 22,octubre de 1907,1907-10-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,879-880
+Alpha,217,Arbós y Góngora,Creador,NA,NA,Nube blanca,Año II. Número 22,octubre de 1907,1907-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,881
+Alpha,218,"Posada Arango, Andrés",Creador,NA,Colombia,Las águilas,Año II. Número 22,octubre de 1907,1907-10-01,No,NA,Español,NA,Prosa No Ficción,Ciencias,NA,NA,3,882-884
+Alpha,219,"Velásquez, Edmundo",Creador,NA,Colombia,Egloga de la tarde,Año II. Número 22,octubre de 1907,1907-10-01,No,NA,Español,NA,Poesía,NA,"Moreno Alba, Miguel",NA,01.5,885-886
+Alpha,220,"Moreno Alba, Miguel",Creador,Moreno Alba,Colombia,Capullos de mujer,Año II. Número 22,octubre de 1907,1907-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,886
+Alpha,221,"Correa, Ramón",Creador,NA,Colombia,Eduardo Leyton,Año II. Número 22,octubre de 1907,1907-10-01,No,NA,Español,NA,Prosa No Ficción,Episodios históricos,"de Larroche, J.J.",NA,11,887-897
+Alpha,222,"Abella-Nouvrac, Louis",Creador,L. Abella-Nouvrac,NA,Bebé,Año II. Número 22,octubre de 1907,1907-10-01,No,Anónimo,Español,NA,Prosa Ficción,NA,NA,NA,1,898
+Alpha,223,"Villiers de L'Isle-Adam, Auguste de",Creador,NA,Francia,Flores de las tinieblas,Año II. Número 22,octubre de 1907,1907-10-01,Sí,Anónimo,Español,Francés,Poesía,NA,"Dierx, León",NA,2,899-900
+Alpha,224,"Londoño, Víctor Manuel",Creador,V.M.L.,Colombia,Los abogados de Sócrates,Año II. Número 22,octubre de 1907,1907-10-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.7,901-903
+Alpha,225,"Restrepo, Saturnino",Crítico,S.R.,Colombia,Atenas contra Sócrates. II,Año II. Número 22,octubre de 1907,1907-10-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.3,903-906
+Alpha,226,Anónimo,Creador,Le Temps,NA,Extractos: Elvecio,Año II. Número 22,octubre de 1907,1907-10-01,Sí,"Escobar, Severo",Español,NA,Prosa No Ficción,Notas,NA,NA,2,907-908
+Alpha,227,"López Restrepo, Alejandro",Creador,Alejandro López,Colombia,De la prensa científica. El Giroscopio,Año II. Número 22,octubre de 1907,1907-10-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,909-910
+Alpha,228,"Uribe Ángel, Manuel",Creador,NA,Colombia,De Lima al bajo Chocó-1849. Recuerdo de un viaje. El Dr. Beltran,Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,29,911-939
+Alpha,229,"Velásquez García, José",Creador,"Vives Guerra, Julio",Colombia,"De ""Las piedras viejas""",Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Poesía,NA,"Tirado Macías, Ricardo",NA,2,940-941
+Alpha,230,"Restrepo Restrepo, Carlos Eugenio",Creador,"C. E., Restrepo",Colombia,A propósito…Y apogeo,Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.5,942-944
+Alpha,231,"Louÿs, Pierre",Creador,NA,Francia,Apogeo,Año II. Número 23-24,diciembre de 1907,1907-12-01,Sí,"Restrepo Restrepo, Carlos Eugenio",Español,Francés,Poesía,NA,A la heroína de una novela futura,NA,01.5,944-945
+Alpha,232,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,Rara avis…..XXXIII,Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,8,946-953
+Alpha,233,"Medina, Vicente",Creador,NA,España,La danza,Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.7,954
+Alpha,234,"Medina, Vicente",Creador,NA,España,Venus dolorosa,Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.7,954-955
+Alpha,235,"Medina, Vicente",Creador,NA,España,La cadena,Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.7,955
+Alpha,236,"Montoya, José",Creador,NA,NA,Paisaje matinal (En Loreto),Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4.3,956-960
+Alpha,237,"Rollinat, Maurice",Creador,NA,Francia,El piano,Año II. Número 23-24,diciembre de 1907,1907-12-01,Sí,"Cano, Antonio José",Español,Francés,Poesía,NA,"Vidal, Teresita",NA,0.7,960
+Alpha,238,"Cruz, Efraím de la",Creador,NA,Colombia,Yo te bendigo!,Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,01.3,961-962
+Alpha,239,"Vélez, Victoriano",Creador,NA,Colombia,El sauce,Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,962
+Alpha,240,"Maeterlinck, Maurice",Creador,NA,Bélgica,Aladina y Palomides,Año II. Número 23-24,diciembre de 1907,1907-12-01,Sí,Anónimo,Español,Inglés,Teatro,NA,NA,NA,21.3,963-984
+Alpha,241,"Bonilla, Manuel Antonio",Creador,NA,Colombia,Bibliografía,Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Prosa No Ficción,Bibliografía,NA,NA,0.7,984
+Alpha,242,Anónimo,Creador,Alpha,NA,"""Alpha""",Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,01.3,985-986
+Alpha,243,"Velásquez García, José",Creador,"Vives Guerra, Julio",Colombia,Teresita Vidal,Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.7,986-988
+Alpha,244,Anónimo,Director,NA,NA,Índice del año segundo,Año II. Número 23-24,diciembre de 1907,1907-12-01,No,NA,Español,NA,Prosa No Ficción,Índice,NA,NA,2,NA
+Alpha,245,"Uribe Gómez, Pedro",Creador,NA,Colombia,Por España. Impresiones,Año III. Número 25,enero de 1908,1908-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,16,1-16
+Alpha,246,"Pichardo S., Manuel",Creador,"Manuel S., Pichardo",Cuba,Ofélidas,Año III. Número 25,enero de 1908,1908-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,17-18
+Alpha,247,"Marín, Abel",Creador,NA,Colombia,Balada,Año III. Número 25,enero de 1908,1908-01-01,No,NA,Español,NA,Poesía,NA,"Montoya Pérez, R.",NA,2,19-20
+Alpha,248,"Restrepo Euse, Álvaro",Creador,NA,Colombia,Historia Nacional. Pedro de Ursúa,Año III. Número 25,enero de 1908,1908-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.5,21-25
+Alpha,249,"Escobar Rojo, Severo",Creador,Severo Escobar R.,Colombia,Añoranza,Año III. Número 25,enero de 1908,1908-01-01,No,NA,Español,NA,Poesía,NA,El Negro Cano,NA,1,26
+Alpha,250,"Restrepo Rivera, Jesús",Creador,"J., Restrepo Rivera",Colombia,Initio Noctis,Año III. Número 25,enero de 1908,1908-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,27
+Alpha,251,"Restrepo, Saturnino",Creador,NA,Colombia,La Haya (Japonerías),Año III. Número 25,enero de 1908,1908-01-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.3,28-30
+Alpha,252,"Restrepo, Saturnino",Creador,NA,Colombia,La Haya (Colombia),Año III. Número 25,enero de 1908,1908-01-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1.5,30-31
+Alpha,253,"Jaramillo, Emilio",Creador,"Dr. E., Jaramillo",Colombia,Las alquimias del radio,Año III. Número 25,enero de 1908,1908-01-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,4,31-35
+Alpha,254,"Darío, Rubén",Creador,NA,Nicaragua,Rubén Darío (Habla el poeta),Año III. Número 25,enero de 1908,1908-01-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,35-37
+Alpha,255,"Escobar Rojo, Severo",Creador,El maniquí,Colombia,De la ingenuidad mal dirigida,Año III. Número 25,enero de 1908,1908-01-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,2,37-39
+Alpha,256,"López Restrepo, Alejandro",Creador,"López Alejandro, I.C.",Colombia,De la prensa científica,Año III. Número 25,enero de 1908,1908-01-01,Sí,Anónimo,Español,NA,Prosa No Ficción,Notas,NA,NA,0.4,39
+Alpha,257,Anónimo,Creador,NA,Colombia,Tracción eléctrica,Año III. Número 25,enero de 1908,1908-01-01,Sí,"López Restrepo, Alejandro",Español,NA,Prosa No Ficción,Notas,NA,NA,1,39-40
+Alpha,258,Anónimo,Creador,Alpha,Colombia,"""Susana""",Año III. Número 25,enero de 1908,1908-01-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.2,40
+Alpha,259,"Latorre, Gabriel",Creador,NA,Colombia,Susana. Drama en tres actos y en prosa,Año III. Número 26-27,Febrero y Marzo de 1908,1908-03-01,No,NA,Español,NA,Teatro,Teatro,NA,NA,87,41-128
+Alpha,260,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,El cortijo,Año III. Número 28,abril de 1908,1908-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,6,129-134
+Alpha,261,"Gómez Restrepo, Antonio",Creador,NA,Colombia,Amor Cristiano,Año III. Número 28,abril de 1908,1908-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,135
+Alpha,262,"Altenberg, Peter",Creador,NA,Austria,El crepúsculo de los ídolos,Año III. Número 28,abril de 1908,1908-04-01,Sí,Anónimo,Español,Alemán,Prosa Ficción,NA,NA,NA,2,136-137
+Alpha,263,"Vélez, Victoriano",Creador,NA,Colombia,La cruz del camino,Año III. Número 28,abril de 1908,1908-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,138
+Alpha,264,"Sánchez, Alberto",Creador,NA,Colombia,Tedio del domingo,Año III. Número 28,abril de 1908,1908-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,02.5,139-141
+Alpha,265,"Marín, Abel",Creador,NA,Colombia,El triunfo de la muerte,Año III. Número 28,abril de 1908,1908-04-01,No,NA,Español,NA,Poesía,NA,"Hoyos V, Jaime",NA,0.5,141
+Alpha,266,"Hearn, Lafcadio",Creador,NA,Grecia,La historia de Mimi-Nashi-Oishi,Año III. Número 28,abril de 1908,1908-04-01,Sí,Anónimo,Español,NA,Prosa Ficción,NA,NA,NA,8,142-149
+Alpha,267,"Velásquez, Edmundo",Creador,NA,Colombia,Canción ingenua,Año III. Número 28,abril de 1908,1908-04-01,No,NA,Español,NA,Poesía,NA,"Marín, Abel",NA,1,150
+Alpha,268,"Jaramillo, Bernardo",Creador,NA,Colombia,Balsero,Año III. Número 28,abril de 1908,1908-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,151
+Alpha,269,"Restrepo Restrepo, Carlos Eugenio",Creador,NA,Colombia,Por la Justicia y por la Ley,Año III. Número 28,abril de 1908,1908-04-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,01.5,152-153
+Alpha,270,"Restrepo, Antonio José",Creador,"A. J., Restrepo",Colombia,Sr.Dr. Carlos E. Restrepo,Año III. Número 28,abril de 1908,1908-04-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1,153-154
+Alpha,271,"Hernández Catá, Alfonso",Crítico,NA,España,Ramón del Valle Inclán,Año III. Número 28,abril de 1908,1908-04-01,No,NA,Español,NA,Prosa No Ficción,crítica,NA,NA,03.4,154-158
+Alpha,272,"Restrepo, Saturnino",Crítico,S.R.,Colombia,Portugal,Año III. Número 28,abril de 1908,1908-04-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,01.6,158-160
+Alpha,273,"Metcnikoff, Elie de",Creador,NA,NA,Prolongación de la vida,Año III. Número 28,abril de 1908,1908-04-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,Extractos,NA,NA,4,160-164
+Alpha,274,Anónimo,Creador,NA,NA,Un nuevo evangelio,Año III. Número 28,abril de 1908,1908-04-01,Sí,Julio Nicole,Español,Griego,Prosa No Ficción,Extractos,NA,NA,01.5,164-165
+Alpha,275,"Gómez Carrillo, Enrique",Creador,NA,Guatemala,E. Pardo Bazán en París,Año III. Número 28,abril de 1908,1908-04-01,Sí,R.T.,Español,Francés,Prosa No Ficción,Extractos,NA,NA,3,166-168
+Alpha,276,"Eastman, Tomás Oziel",Creador,"Tomás O., Eastman",Colombia,Estudios de fonética,Año III. Número 29,mayo de 1908,1908-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,16,169-184
+Alpha,277,"Jaramillo, Bernardo",Creador,NA,Colombia,En la quietud del crepúsculo,Año III. Número 29,mayo de 1908,1908-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,185
+Alpha,278,"Gourmont, Remy de",Creador,NA,Francia,Phocas,Año III. Número 29,mayo de 1908,1908-05-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,6,186-191
+Alpha,279,"Cano Villegas, Gabriel",Creador,Gabriel Cano,Colombia,Diálogos,Año III. Número 29,mayo de 1908,1908-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,192
+Alpha,280,"Benavente, Jacinto",Creador,NA,España,La sonrisa de Giocconda,Año III. Número 29,mayo de 1908,1908-05-01,No,NA,Español,NA,Teatro,Teatro,NA,NA,10,193-202
+Alpha,281,"Restrepo, Saturnino",Crítico,S.R.,Colombia,El arte de ignorar,Año III. Número 29,mayo de 1908,1908-05-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,03.5,203-206
+Alpha,282,"Barzini, Luigi",Creador,NA,Italia,De Pekin a París,Año III. Número 29,mayo de 1908,1908-05-01,Sí,Anónimo,Español,Italiano (La traduccion de Alpha en del ingles pues la toman de la revista Brentanos Book Chat),Prosa Ficción,Extractos,NA,NA,2.5,206-208
+Alpha,283,"Eastman, Tomás Oziel",Creador,"Tomás O., Eastman",Colombia,Estudios de fonética V,Año III. Número 30,junio de 1908,1908-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,16,209-225
+Alpha,284,"Marquina, Eduardo",Creador,NA,España,Votos floridos,Año III. Número 30,junio de 1908,1908-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,226
+Alpha,285,"Vélez, Victoriano",Creador,NA,Colombia,Maestro-Jacinto,Año III. Número 30,junio de 1908,1908-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,227-229
+Alpha,286,"Creta, Ruy de",Creador,NA,NA,Almas,Año III. Número 30,junio de 1908,1908-06-01,No,NA,Español,NA,Poesía,NA,Alpha,NA,1,230
+Alpha,287,"Loti, Pierre",Creador,NA,Francia,"Vieja barca, viejo batelero",Año III. Número 30,junio de 1908,1908-06-01,Sí,"Pardo, León",Español,Francés,Prosa Ficción,NA,NA,NA,1,231
+Alpha,288,"Kipling, Rudyard",Creador,NA,Inglaterra,De caza…,Año III. Número 30,junio de 1908,1908-06-01,Sí,Anónimo,Español,Inglés,Prosa Ficción,Cuento,NA,NA,9,232-240
+Alpha,289,"Restrepo, Saturnino",Creador,S.R.,Colombia,Asuntos económicos,Año III. Número 30,junio de 1908,1908-06-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.7,241-243
+Alpha,290,"Gómez Barrientos, Estanislao",Creador,E.G.B.,Colombia,Remiscencias. Del DR. Ricardo de la Parra,Año III. Número 30,junio de 1908,1908-06-01,No,NA,Español,NA,Prosa No Ficción,Remiscencias,NA,NA,4,243-247
+Alpha,291,"Gómez Barrientos, Estanislao",Creador,E.G.B.,Colombia,El rey de Suecia,Año III. Número 30,junio de 1908,1908-06-01,No,NA,Español,NA,Prosa No Ficción,Remiscencias,NA,NA,01.3,247-248
+Alpha,292,"Palacio Muñoz, Obdulio",Creador,Obdulio Palacio M.,Colombia,La última edición de Cuervo,Año III. Número 31,julio de 1908,1908-07-01,No,NA,Español,NA,Prosa Ficción,NA,"Suárez, Marco Fidel, Isaza, Emiliano",NA,18,249-266
+Alpha,293,"Jaramillo Medina, Francisco",Creador,NA,Colombia,El último ideal,Año III. Número 31,julio de 1908,1908-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,267
+Alpha,294,"Delgado, Jorge E.",Creador,"Jorge E., Delgado",Colombia,Concepto (En un álbum),Año III. Número 31,julio de 1908,1908-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,268
+Alpha,295,"Nieto, Ricardo",Creador,NA,Colombia,Himno a la tierra,Año III. Número 31,julio de 1908,1908-07-01,No,NA,Español,NA,Poesía,NA,"Grillo, Max",NA,2,269-270
+Alpha,296,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,Letras giradas,Año III. Número 31,julio de 1908,1908-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4,271-274
+Alpha,297,"Sánchez, Alberto",Creador,NA,Colombia,Sois Belle,Año III. Número 31,julio de 1908,1908-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,275
+Alpha,298,"Merizalde Uribe, Antonio",Creador,NA,Colombia,La vejez del poeta,Año III. Número 31,julio de 1908,1908-07-01,No,NA,Español,NA,Poesía,NA,"Marín, Abel",NA,0.5,275
+Alpha,299,"Gourmont, Remy de",Creador,NA,Francia,Diálogo entre Harvedio y una sombra,Año III. Número 31,julio de 1908,1908-07-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,3,276-278
+Alpha,300,"Gómez Barrientos, Estanislao",Creador,E.G.B.,Colombia,Oidor íntegro y rey advertido,Año III. Número 31,julio de 1908,1908-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,03.5,279-282
+Alpha,301,"Restrepo, Saturnino",Crítico,S.R.,Colombia,Al margen,Año III. Número 31,julio de 1908,1908-07-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,01.8,283-284
+Alpha,302,"Restrepo, Saturnino",Crítico,S.R.,Colombia,El universo…etcétera,Año III. Número 31,julio de 1908,1908-07-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,284-286
+Alpha,303,"Restrepo Briceño, Fernando",Creador,NA,NA,Estatua al Dr. J. Félix de Restrepo.,Año III. Número 31,julio de 1908,1908-07-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,01.5,286-287
+Alpha,304,"Duque Uribe, Rafael",Creador,R. D`Oribe,Colombia,"El fracaso del ""Yo""",Año III. Número 31,julio de 1908,1908-07-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,01.3,287-288
+Alpha,305,"Carricarte, Arturo R. de",Creador,NA,Cuba,Caracteres predominantes de la actual lírica castellana,Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,"Tratado de Puntuación y Acentuación castellanas, por Januario Henao",17,289-305
+Alpha,306,"Bayona Posada, Jorge",Creador,NA,Colombia,Asimilaciones,Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Poesía,NA,Alpha,NA,1,306
+Alpha,307,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,El espectro,Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4,307-310
+Alpha,308,"Hearn, Lafcadio",Creador,NA,Grecia,El Leon,Año III. Número 32,agosto de 1908,1908-08-01,Sí,Anónimo,Español,NA,Prosa Ficción,NA,NA,NA,2,311-312
+Alpha,309,"Sánchez, Alberto",Creador,NA,Colombia,Paisaje reminiscente,Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,313
+Alpha,310,"Valcarce García, Javier",Creador,NA,España,Romance,Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,6,314-319
+Alpha,311,"Mejía Ángel, Gustavo",Creador,Gustavo Mejía A.,Colombia,Dualismo,Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,320
+Alpha,312,"Restrepo, Saturnino",Crítico,S.R.,Colombia,Italiano,Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,03.4,321-324
+Alpha,313,"Villegas, Luis Eduardo",Creador,NA,Colombia,¿Cuervo ó Palacio? A los maestros y profesores de lecgua castellana),Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1,324-325
+Alpha,314a,"Cuervo Márquez, Emilio",Creador,NA,Colombia,Juegos Florales en Bogotá,Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Prosa No Ficción,Notas,Al director de Alpha,NA,0.5,325
+Alpha,314b,"Uribe, Diego",Creador,NA,Colombia,Juegos Florales en Bogotá,Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Prosa No Ficción,Notas,Al director de Alpha,NA,0.5,325
+Alpha,315,"Vargas, Justo",Creador,NA,NA,A los poetas de la República,Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.8,325-326
+Alpha,316,"Restrepo, Saturnino",Reseñista,NA,Colombia,D. Miguel de Unamuno,Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Reseña,Bibliografía,NA,Recuerdos de niñez y mocedad de Miguel de Unamuno,1,326-327
+Alpha,317,"Pérez Triana, Santiago",Creador,NA,Colombia,"""Por el sur de Colombia"". Excursión pintoresa y científica al Putumayo por Miguel Triana",Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Prosa No Ficción,Bibliografía,NA,NA,01.5,327-328
+Alpha,318,"Restrepo, Saturnino",Reseñista,NA,Colombia,"Estudios Científicos del Doctor Andrés Posada A., seguidos de algunos otros escritos suyos, sobre diversos temas",Año III. Número 32,agosto de 1908,1908-08-01,No,NA,Español,NA,Reseña,Bibliografía,NA,"Estudios Científicos del Doctor Andrés Posada A., seguidos de algunos otros escritos suyos, sobre diversos temas",0.5,328
+Alpha,319,"Barrès, Maurice",Creador,NA,Francia,Una visita a Leonardo Da Vinci,Año III. Número 33,septiembre de 1908,1908-09-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,4.5,329-333
+Alpha,320,"Ospina Vásquez, Mariano",Creador,Moi,Colombia,Comentarios,Año III. Número 33,septiembre de 1908,1908-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,333
+Alpha,321,"Peláez, Aurelio",Creador,NA,Colombia,Arrayanes,Año III. Número 33,septiembre de 1908,1908-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,334
+Alpha,322,"Castro, Alfonso",Creador,NA,Colombia,De paseo,Año III. Número 33,septiembre de 1908,1908-09-01,No,NA,Español,NA,Prosa Ficción,Fragmento de novela,NA,NA,13,335-347
+Alpha,323,"Paláu R., Antonio M.",Creador,"Antonio M., Paláu R.",NA,Dulcinea,Año III. Número 33,septiembre de 1908,1908-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,348
+Alpha,324,"Uribe Gómez, Pedro",Creador,NA,Colombia,Hogar y campo,Año III. Número 33,septiembre de 1908,1908-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,06.5,349-355
+Alpha,325,"Villegas, Luis Eduardo",Creador,NA,Colombia,Ex trípode,Año III. Número 33,septiembre de 1908,1908-09-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,6,356-361
+Alpha,326,"Restrepo, Saturnino",Crítico,S.R.,Colombia,El papel de la tierra,Año III. Número 33,septiembre de 1908,1908-09-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.5,362-364
+Alpha,327,"Gourmont, Remy de",Creador,NA,Francia,NA,Año III. Número 33,septiembre de 1908,1908-09-01,Sí,Alpha,Español,Francés,Prosa No Ficción,Extractos,NA,NA,1,364-365
+Alpha,328,Review of Reviews,Creador,NA,NA,La marcha fúnebre de Chopin,Año III. Número 33,septiembre de 1908,1908-09-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,Extractos,NA,NA,0.5,365
+Alpha,329,Le Temps,Creador,NA,NA,El culto de Shelley,Año III. Número 33,septiembre de 1908,1908-09-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,Extractos,NA,NA,01.3,366-367
+Alpha,330,Anónimo,Creador,NA,NA,Los Japoneses y el Nuevo Mundo,Año III. Número 33,septiembre de 1908,1908-09-01,No,NA,Español,NA,Prosa No Ficción,Extractos,NA,NA,0.4,367
+Alpha,331,"Unamuno, Miguel de",Creador,NA,España,"Del prólogo á las Poesías de José A. Silva, editadas en Barcelona en el corriente año, extractamos",Año III. Número 33,septiembre de 1908,1908-09-01,No,NA,Español,NA,Prosa Ficción,Extractos,NA,NA,1,367-368
+Alpha,332,"Kipling, Rudyard",Creador,NA,Inglaterra,Mientras baja el rio,Año III. Número 34,octubre de 1908,1908-10-01,Sí,Anónimo,Español,Inglés,Prosa Ficción,NA,NA,NA,9,369-377
+Alpha,333,"Grillo, Maximiliano",Creador,Max Grillo,Colombia,Los dioses pálidos,Año III. Número 34,octubre de 1908,1908-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,3,378-380
+Alpha,334,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,Obras son amores,Año III. Número 34,octubre de 1908,1908-10-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,5,381-385
+Alpha,335,"Cano Gutiérrez, Fidel",Creador,"Ulano, F",Colombia,Noches de luna,Año III. Número 34,octubre de 1908,1908-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,386
+Alpha,336,"Maeterlinck, Maurice",Creador,NA,Bélgica,La intrusa. Drama en un acto,Año III. Número 34,octubre de 1908,1908-10-01,Sí,Anónimo,Español,Inglés,Teatro,Teatro,NA,NA,15,387-401
+Alpha,337,"Palacio Muñoz, Obdulio",Creador,O.P.M.,Colombia,No más trípodes ni más apellidos,Año III. Número 34,octubre de 1908,1908-10-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,4.5,402-406
+Alpha,338,"Arango Mejía, Gabriel",Creador,Gabriel Arango M.,NA,Alférez Real de Castropol,Año III. Número 34,octubre de 1908,1908-10-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.5,406-408
+Alpha,339,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,Un Zarathustra maicero,Año III. Número 35,noviembre de 1908,1908-11-01,No,NA,Español,NA,Prosa Ficción,NA,"Gutiérrez, Pablo",NA,17,409-425
+Alpha,340,"Restrepo Rivera, Jesús",Creador,"J., Restrepo Rivera",Colombia,Es noviembre…,Año III. Número 35,noviembre de 1908,1908-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,426
+Alpha,341,"Pardo Farelo, Enrique",Creador,Luis Tablanca,Colombia,Páginas regionales,Año III. Número 35,noviembre de 1908,1908-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,02.5,427-429
+Alpha,342,"Gómez Barrientos, Estanislao",Creador,NA,Colombia,Enseñanza de un centenario,Año III. Número 35,noviembre de 1908,1908-11-01,No,NA,Español,NA,Prosa Ficción,NA,"Cano, Antonio J",NA,01.7,430-431
+Alpha,343,"Gómez Barrientos, Estanislao",Creador,NA,Colombia,El centenario del Dr. Ospina,Año III. Número 35,noviembre de 1908,1908-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8.5,431-439
+Alpha,344,"Restrepo, Antonio José",Creador,"A.J., Restrepo",Colombia,Sr.Dr. Carlos E. Restrepo,Año III. Número 35,noviembre de 1908,1908-11-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,4.5,440-444
+Alpha,345,Anónimo,Creador,NA,NA,Exterminio de Polonia,Año III. Número 35,noviembre de 1908,1908-11-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2.5,444-446
+Alpha,346,"Sánchez, Alberto",Crítico,NA,Colombia,Crítica y críticos,Año III. Número 35,noviembre de 1908,1908-11-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,447-448
+Alpha,347,"Restrepo, Antonio José",Creador,NA,Colombia,Las obras completas de D. Francisco Antonio Zea deben publicarse para el centenario de la independencia. Carta Histórico-Literaria,Año III. Número 36,diciembre de 1908,1908-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,42,449-490
+Alpha,348a,"Díaz, Pedro Pablo",Creador,NA,Venezuela,"Copia. ""Varios discursos del ciudadano Francisco Antonio Zea. Caracas. Reimpresos en la Imprenta de Domingo Navas Spínola. 1825. Advertencia de los editores",Año III. Número 36,diciembre de 1908,1908-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.7,491-492
+Alpha,348b,"Ramos, José Luis",Creador,NA,Venezuela,"Copia. ""Varios discursos del ciudadano Francisco Antonio Zea. Caracas. Reimpresos en la Imprenta de Domingo Navas Spínola. 1825. Advertencia de los editores",Año III. Número 36,diciembre de 1908,1908-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.7,491-492
+Alpha,348c,"Navas Spínola, Domingo",Creador,NA,Venezuela,"Copia. ""Varios discursos del ciudadano Francisco Antonio Zea. Caracas. Reimpresos en la Imprenta de Domingo Navas Spínola. 1825. Advertencia de los editores",Año III. Número 36,diciembre de 1908,1908-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.7,491-492
+Alpha,349,Anónimo,Creador,NA,NA,Obras de Zea,Año III. Número 36,diciembre de 1908,1908-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Alpha,350,Anónimo,Director,NA,NA,Índice del año tercero,Año III. Número 36,diciembre de 1908,1908-12-01,No,NA,Español,NA,Prosa No Ficción,Índice,NA,NA,2,NA
+Alpha,351,"Pardo Farelo, Enrique",Creador,Luis Tablanca,Colombia,El sendero sombrío,Año IV. Número 37,enero de 1909,1909-01-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,27,1-26
+Alpha,352,"Carrasquilla, Tomás",Creador,NA,Colombia,Envio,Año IV. Número 37,enero de 1909,1909-01-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,27
+Alpha,353,"Vélez Barrientos, Lucrecio",Creador,Gaspar Chaverra,Colombia,Idilio,Año IV. Número 37,enero de 1909,1909-01-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3,28-30
+Alpha,354,"Castro, Eugenio de",Creador,NA,Portugal,La fuente abandonada,Año IV. Número 37,enero de 1909,1909-01-01,Sí,"Latorre, Gabriel",Español,Portugués,Poesía,Soneto,"Restrepo, Saturnino",NA,0.5,31
+Alpha,355,"Castro, Eugenio de",Creador,NA,Portugal,La hora perdida,Año IV. Número 37,enero de 1909,1909-01-01,Sí,"Latorre, Gabriel",Español,Portugués,Poesía,Soneto,"Restrepo, Saturnino",NA,0.5,31
+Alpha,356,"Castro, Eugenio de",Creador,NA,Portugal,Al amor de la lumbre,Año IV. Número 37,enero de 1909,1909-01-01,Sí,"Latorre, Gabriel",Español,Portugués,Poesía,Soneto,"Restrepo, Saturnino",NA,0.5,32
+Alpha,357,"Restrepo Uribe, Pedro",Creador,P. R. U.,NA,Misterios de la ciencia,Año IV. Número 37,enero de 1909,1909-01-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,5,33-37
+Alpha,358,"Restrepo, Saturnino",Creador,S.R.,Colombia,La civilización,Año IV. Número 37,enero de 1909,1909-01-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,38-39
+Alpha,359,"Tumiati, Domenico",Creador,NA,Italia,Antigua y nueva caballería,Año IV. Número 37,enero de 1909,1909-01-01,Sí,Anónimo,Español,Italiano,Prosa No Ficción,Extractos,NA,NA,0.8,40
+Alpha,360,"D'Orleans, Luis",Creador,NA,Francia,El clero y la política,Año IV. Número 37,enero de 1909,1909-01-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,Extractos,NA,NA,0.5,40
+Alpha,361,"Blasco Ibáñez, Vicente",Creador,NA,España,La revolución turca. El favorito del sultan,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,9,41-49
+Alpha,362,"Castro, Eugenio de",Creador,NA,Portugal,Sagramor (fragmento),Año IV. Número 38,febrero de 1909,1909-02-01,Sí,"López G., Samuel",Español,Portugués,Poesía,NA,NA,NA,2,50-51
+Alpha,363,"Vélez, Victoriano",Creador,NA,Colombia,Vox Populi,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Prosa Ficción,Cuento,"Villegas, Luis Eduardo",NA,5,52-56
+Alpha,364,"Villafañe, Carlos",Creador,NA,Colombia,Visión de los camino,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,57-58
+Alpha,365,"Delgado, Jorge E.",Creador,NA,Colombia,Isaacs,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,59
+Alpha,366,"Delgado, Jorge E.",Creador,NA,Colombia,Jorge Isaacs,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,59
+Alpha,367,"Gourmont, Remy de",Creador,NA,Francia,La ciencia de Leonardo Da Vinci,Año IV. Número 38,febrero de 1909,1909-02-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,4,60-63
+Alpha,368,"Kipling, Rudyard",Creador,NA,Inglaterra,La rebelión de Moti Guj,Año IV. Número 38,febrero de 1909,1909-02-01,Sí,Anónimo,Español,Inglés,Prosa Ficción,NA,NA,NA,7,64-70
+Alpha,369,"Restrepo, Saturnino",Creador,S.R.,Colombia,La república de Turquia,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2.1,71-73
+Alpha,370,"Melguizo, Carlos",Creador,NA,NA,Luis Ma Drago y S. Pérez Ttriana,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,3.6,73-76
+Alpha,371,"Guaraya y Lezema, Antonio",Creador,NA,NA,Sr. Dr. Carlos E. Restrepo,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1.8,76-78
+Alpha,372,"Salazar, Juan de",Creador,NA,NA,Licencia,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.6,78-79
+Alpha,373,"Aimayaga, Juan de",Creador,NA,NA,Otro certificado,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.3,79
+Alpha,374,"Arango Mejía, Gabriel",Creador,G. Arango M.,NA,Otro,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.6,79
+Alpha,375,"Cuervo, Rufino José",Creador,R. J. Cuervo,Colombia,Carta,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Prosa No Ficción,Carta,NA,NA,1,80
+Alpha,376,Anónimo,Anunciante,NA,NA,NA,Año IV. Número 38,febrero de 1909,1909-02-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Alpha,377,"Velásquez García, José",Creador,Julio Vives Guerra,Colombia,Amore e Morte. El señor cura,Año IV. Número 39,marzo de 1909,1909-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4,81-84
+Alpha,378,"Restrepo Restrepo, Antonio María",Creador,AB. Farina,Colombia,Tríptico,Año IV. Número 39,marzo de 1909,1909-03-01,No,NA,Español,NA,Poesía,NA,"Greiff, Jaime de",NA,2,85-86
+Alpha,379,Anónimo,Creador,NA,NA,Bakawali,Año IV. Número 39,marzo de 1909,1909-03-01,Sí,Anónimo,Español,NA,Prosa Ficción,NA,NA,NA,5,87-91
+Alpha,380,"Bayona Posada, Jorge",Creador,NA,Colombia,Reflorescencias,Año IV. Número 39,marzo de 1909,1909-03-01,No,NA,Español,NA,Poesía,NA,Alpha,NA,1.5,92-93
+Alpha,381,"Gourmont, Remy de",Creador,NA,Francia,La ciudad de las esfinges,Año IV. Número 39,marzo de 1909,1909-03-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,4,94-97
+Alpha,382,"Jaramillo G., Hernando",Creador,Hernando Jaramillo G.,NA,"Fragmento de la novela ""Para un príncipe…!""",Año IV. Número 39,marzo de 1909,1909-03-01,No,NA,Español,NA,Prosa Ficción,Fragmento de novela,NA,NA,23,98-120
+Alpha,383,"Restrepo, Saturnino",Creador,S.R.,Colombia,Política,Año IV. Número 39,marzo de 1909,1909-03-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,121-122
+Alpha,384,Anónimo,Creador,Alpha,NA,Extracto,Año IV. Número 39,marzo de 1909,1909-03-01,No,NA,Español,NA,Prosa No Ficción,Extractos,NA,NA,0.3,123
+Alpha,385,Review of Reviews,Creador,NA,NA,La aurora de los esclavos,Año IV. Número 39,marzo de 1909,1909-03-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,Extractos,NA,NA,2,124-125
+Alpha,386,Anónimo,Anunciante,NA,NA,NA,Año IV. Número 39,marzo de 1909,1909-03-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Alpha,387,"Rendón, Francisco de Paula",Creador,Francisco de P. Rendón,Colombia,Sol,Año IV. Número 40-41,abril de 1909,1909-04-01,No,NA,Español,NA,Prosa Ficción,Novela corta,"Olano, Ricardo ",NA,53,126-177
+Alpha,388,"Junqueiro, Guerra",Creador,NA,Portugal,Oración al pan,Año IV. Número 40-41,abril de 1909,1909-04-01,Sí,"Marquina, Eduardo",Español,Portugués,Poesía,NA,NA,NA,4,178-181
+Alpha,389,"Betancourt Villegas, Félix",Creador,Félix Betancourt,Colombia,Sobre cuestiones de arte,Año IV. Número 40-41,abril de 1909,1909-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11,182-192
+Alpha,390,"Jaramillo Medina, Francisco",Creador,Jaramillo Medina,Colombia,Epílogo,Año IV. Número 40-41,abril de 1909,1909-04-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,2,193-194
+Alpha,391,"Samper, Emilio",Creador,NA,Colombia,José Asunción Silva,Año IV. Número 40-41,abril de 1909,1909-04-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2.5,195-197
+Alpha,392,"Restrepo, Saturnino",Creador,S. Restrepo,Colombia,Libertad de prensa,Año IV. Número 40-41,abril de 1909,1909-04-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,197-199
+Alpha,393,Anónimo,Creador,NA,NA,San Pablo y Nerón,Año IV. Número 40-41,abril de 1909,1909-04-01,No,NA,Español,NA,Prosa No Ficción,Extractos,NA,NA,2.8,200-202
+Alpha,394,"Rasmussen, Knud",Creador,NA,Dinamarca,Los moradores del norte polar,Año IV. Número 40-41,abril de 1909,1909-04-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,Extractos,NA,NA,1.2,202-203
+Alpha,395,Anónimo,Creador,NA,NA,Don M.A. Caro,Año IV. Número 40-41,abril de 1909,1909-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,204
+Alpha,396,Anónimo,Anunciante,NA,NA,NA,Año IV. Número 40-41,abril de 1909,1909-04-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Alpha,397,"Vélez Barrientos, Lucrecio",Creador,Gaspar Chaverra,Colombia,Reciprocidad,Año IV. Número 42,junio de 1909,1909-06-01,No,NA,Español,NA,Prosa Ficción,NA,"Velásquez Vélez, Francisco",NA,5,205-209
+Alpha,398,"Mac Douall, Roberto",Creador,NA,Colombia,Danza macabra,Año IV. Número 42,junio de 1909,1909-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.7,210-211
+Alpha,399,"Eça de Queirós, José Maria",Creador,Fradiquemendes,Portugal,Epistolario. Añ Sr. E. Mollinert (director de la revistas de Biografía y de Historia,Año IV. Número 42,junio de 1909,1909-06-01,Sí,Anónimo,Español,Portugués,Prosa Ficción,NA,NA,NA,5.3,212-217
+Alpha,400,"Vélez, Victoriano",Creador,NA,Colombia,El despertar del bosque,Año IV. Número 42,junio de 1909,1909-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,217
+Alpha,401,"Olano, Ricardo",Creador,NA,Colombia,Juventud,Año IV. Número 42,junio de 1909,1909-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,218
+Alpha,402,"Kipling, Rudyard",Creador,NA,Inglaterra,Fuera del palo,Año IV. Número 42,junio de 1909,1909-06-01,Sí,Anónimo,Español,Inglés,Prosa Ficción,Cuento,NA,NA,6,219-224
+Alpha,403,"Moréas, Jean",Creador,NA,Grecia,Estancias,Año IV. Número 42,junio de 1909,1909-06-01,Sí,"Jaramillo, Bernardo",Español,Francés,Poesía,NA,NA,NA,1,225
+Alpha,404,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,"De ""El diario de Pedro"" (Libro en preparación)",Año IV. Número 42,junio de 1909,1909-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,226-227
+Alpha,405,"Jaramillo, Emilio",Creador,NA,Colombia,La fuente de Cano,Año IV. Número 42,junio de 1909,1909-06-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,3.8,228-231
+Alpha,406,"Restrepo, Saturnino",Creador,S.R.,Colombia,Del patriotismo,Año IV. Número 42,junio de 1909,1909-06-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2.7,231-234
+Alpha,407,"Restrepo, Saturnino",Creador,S.R.,Colombia,Nietzsche,Año IV. Número 42,junio de 1909,1909-06-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,3,234-237
+Alpha,408,"Restrepo, Saturnino",Creador,S.R.,Colombia,La pena de muerte,Año IV. Número 42,junio de 1909,1909-06-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2.5,237-239
+Alpha,409,"Lang, Andrew",Creador,NA,Reino Unido,Las sagas,Año IV. Número 42,junio de 1909,1909-06-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,Extractos,NA,NA,3.3,240-243
+Alpha,410,Anónimo,Creador,NA,NA,Bibliografía,Año IV. Número 42,junio de 1909,1909-06-01,No,NA,Español,NA,Prosa No Ficción,Bibliografía,NA,NA,1,244
+Alpha,411,Anónimo,Anunciante,NA,NA,NA,Año IV. Número 42,junio de 1909,1909-06-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Alpha,412,"Castro, Alfonso",Creador,NA,Colombia,El alfiler de oro. Crónicas de viejos tiempos,Año IV. Número 43,julio de 1909,1909-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,12,245-256
+Alpha,413,"Carvajal, Manuel Antonio",Creador,M.A. Carvajal,Colombia,Anemona,Año IV. Número 43,julio de 1909,1909-07-01,No,NA,Español,NA,Poesía,Poesía,Jaramillo Medina,NA,5,257-261
+Alpha,414,"Valle-Inclán, Ramón del",Creador,NA,España,Mi hermana Antonia,Año IV. Número 43,julio de 1909,1909-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,15,262-276
+Alpha,415,"Pardo Farelo, Enrique",Creador,Luis Tablanca,Colombia,Glosario trivial,Año IV. Número 43,julio de 1909,1909-07-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,277
+Alpha,416,"Restrepo, Saturnino",Creador,S.R.,Colombia,El palacio de la felicidad,Año IV. Número 43,julio de 1909,1909-07-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2.4,278-280
+Alpha,417,Anónimo,Creador,NA,NA,El cenáculo de la musa francesa,Año IV. Número 43,julio de 1909,1909-07-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,Extractos,NA,NA,1.7,281-282
+Alpha,418,"Jaramillo Medina, Francisco",Creador,Jaramillo Medina,Colombia,Sol,Año IV. Número 43,julio de 1909,1909-07-01,No,NA,Español,NA,Prosa No Ficción,Extractos,NA,NA,2,282-284
+Alpha,419,"Hearn, Lafcadio",Creador,NA,Grecia,La índole de la civilización japonesa,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,Sí,Anónimo,Español,Griego,Prosa No Ficción,NA,NA,NA,15,285-299
+Alpha,420,"Verlaine, Paul",Creador,NA,Francia,A une dame de Bogota,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Francés,Francés,Poesía,Poesía,NA,NA,1,300
+Alpha,421,"Vélez Barrientos, Lucrecio",Creador,"Chaverra, Gaspar",Colombia,Regalo de novia,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,6,301-306
+Alpha,422,"Villegas, Aquilino",Creador,NA,Colombia,?...?...?,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,3,307-309
+Alpha,423,"Darío, Rubén",Creador,NA,Nicaragua,Marinetti y el futurismo,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,310-314
+Alpha,424,"López de Haro, Rafael",Creador,NA,España,El peregrino,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,315-316
+Alpha,425,"Trigo, Felipe",Creador,NA,España,La toga,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.5,317-319
+Alpha,426,"Jaramillo Medina, Francisco",Creador,Jaramillo Medina,Colombia,Sabiduría de tus manos,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Poesía,Poesía,Vives Guerra,NA,2,320-321
+Alpha,427,"Eça de Queirós, José Maria",Creador,Eça de Queiroz,Portugal,Epistolario de Fradique Mendes,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,Sí,Anónimo,Español,Portugués,Prosa Ficción,NA,Benito de S,NA,7,322-328
+Alpha,428,"Cano Gutiérrez, Fidel",Creador,Fidel Cano,Colombia,Talisman,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Poesía,Poesía,El árbol de navida de 1903,NA,3,329-331
+Alpha,429,Arbós y Góngora,Creador,NA,NA,Ilusión estelar…,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,332
+Alpha,430,"Uribe Ángel, Manuel",Creador,NA,Colombia,De la Habana a México,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,17.5,333-350
+Alpha,431,"Regino Blanco, Antonio",Creador,A. B. C.,Colombia,Convención,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,5,351-355
+Alpha,432,"Jaramillo, Emilio",Creador,NA,Colombia,El supremo argumento,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,355-357
+Alpha,433,"Duque, Antonio de J.",Creador,A. de J. D.,Colombia,Edificios para escuelas,Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,6,357-363
+Alpha,434,El Domingo (periódico),Creador,NA,Colombia,"""Sol"" ",Año IV. Número 44-45,agosto y septiembre de 1909,1909-09-01,No,NA,Español,NA,Prosa No Ficción,Extractos,NA,NA,1,364
+Alpha,435,"Pardo Farelo, Enrique",Creador,Luis Tablanca,Colombia,Brasas y carbones. Paso de novelas,Año IV. Número 46,octubre de 1909,1909-10-01,No,NA,Español,NA,Prosa Ficción,Novela,NA,NA,32,365-396
+Alpha,436,"Restrepo Restrepo, Antonio María",Creador,AB. Farina,Colombia,En el estudio de Alicia,Año IV. Número 46,octubre de 1909,1909-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,397
+Alpha,437,"Velásquez García, José",Creador,Julio Vives Guerra,Colombia,"¡Dios te salve, mi tierra!",Año IV. Número 46,octubre de 1909,1909-10-01,No,NA,Español,NA,Poesía,NA,A mi amigo de la infancia,NA,5,398-402
+Alpha,438,"Restrepo, Saturnino",Creador,S.R.,Colombia,Con los yanquis en Nicaragua,Año IV. Número 46,octubre de 1909,1909-10-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,403-404
+Alpha,439,"Botero Saldarriaga, Roberto",Creador,Zoilo Expedito,Colombia,Sangre conquistadora,Año IV. Número 47,noviembre de 1909,1909-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,5,405-409
+Alpha,440,"Grillo, Maximiliano",Creador,Max Grillo,Colombia,Viendo pasar la vida…,Año IV. Número 47,noviembre de 1909,1909-11-01,No,NA,Español,NA,Poesía,Poesía,"Céspedes, Ángel M.",NA,1,410
+Alpha,441,"Obregón, Marcos de",Creador,NA,NA,Mojones,Año IV. Número 47,noviembre de 1909,1909-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4,411-414
+Alpha,442,"Jaramillo Medina, Francisco",Creador,Jaramillo Medina,Colombia,Salutación al nabi,Año IV. Número 47,noviembre de 1909,1909-11-01,No,NA,Español,NA,Poesía,Poesía,A la cordera querida,NA,2,415-416
+Alpha,443,"García Calderón, Francisco",Creador,García Calderón F.,Perú,Con el filólogo Cuervo,Año IV. Número 47,noviembre de 1909,1909-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.5,417-421
+Alpha,444,"Jaramillo, Bernardo",Creador,NA,Colombia,Poetas,Año IV. Número 47,noviembre de 1909,1909-11-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1.5,422-423
+Alpha,445,English Review,Creador,NA,NA,Costumbres de la India (un matrimonio hindú),Año IV. Número 47,noviembre de 1909,1909-11-01,Sí,Anónimo,Español,Inglés,Prosa Ficción,NA,NA,NA,9,424-432
+Alpha,446,"Peláez, Aurelio",Creador,NA,Colombia,El polo norte,Año IV. Número 47,noviembre de 1909,1909-11-01,No,NA,Español,NA,Poesía,Poesía,Capitán Cook,NA,3,433-435
+Alpha,447,"Soto, Aquilino",Creador,A. Soto,NA,Nostromanía,Año IV. Número 47,noviembre de 1909,1909-11-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,436-437
+Alpha,448,"Rodó, José Enrique",Creador,NA,Uruguay,"Del libro ""Motivos de Proteo""",Año IV. Número 47,noviembre de 1909,1909-11-01,No,NA,Español,NA,Prosa Ficción,Extractos,NA,NA,2,438-439
+Alpha,449,Marmaduke,Creador,NA,NA,Maximas de Marmaduke,Año IV. Número 47,noviembre de 1909,1909-11-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,Extractos,NA,NA,1,440
+Alpha,450,Anónimo,Anunciante,NA,NA,NA,Año IV. Número 47,noviembre de 1909,1909-11-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Alpha,451,"Pondal, Mario",Creador,Mario Pondal,NA,De mi tierra querida,Año IV. Número 48,diciembre de 1909,1909-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,27,441-467
+Alpha,452,"Betancourt, José Luis",Creador,"Ivanovitch, Dmitry",Colombia,Amor,Año IV. Número 48,diciembre de 1909,1909-12-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,468
+Alpha,453,"Dvaipayana, Rechi-krishma",Creador,NA,India,Tilottama,Año IV. Número 48,diciembre de 1909,1909-12-01,Sí,Anónimo,Español,NA,Prosa Ficción,NA,NA,NA,6,469-474
+Alpha,454,"Arce, Julio César",Creador,NA,Colombia,Evocación quimérica,Año IV. Número 48,diciembre de 1909,1909-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,475
+Alpha,455,"Vidal, Gonzalo",Creador,NA,Colombia,Centenario de Fedérico Chopin. El poeta del piano,Año IV. Número 48,diciembre de 1909,1909-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,476
+Alpha,456,"Melguizo, Carlos",Creador,NA,NA,La vida bogotana,Año IV. Número 48,diciembre de 1909,1909-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,477-478
+Alpha,457,Anónimo,Creador,NA,NA,Índice del año cuarto,Año IV. Número 48,diciembre de 1909,1909-12-01,No,NA,Español,NA,Prosa No Ficción,Índice,NA,NA,2,479-480
+Alpha,458,"Castro, Alfonso",Creador,NA,Colombia,Nido de odio,Año V. Número 49,mayo de 1910,1910-05-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3,1-3
+Alpha,459,"Betancourt, José Luis",Creador,"Ivanovitch, Dmitry",Colombia,Crepúsculo romántico,Año V. Número 49,mayo de 1910,1910-05-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,4,4-7
+Alpha,460,"Jaramillo G., Hernando",Creador,Hernando Jaramillo G.,NA,Para un príncipe…! (frafmento),Año V. Número 49,mayo de 1910,1910-05-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,21,8-28
+Alpha,461,"Escobar Sarmiento, Ricardo",Creador,Delio Seravile,Colombia,La trapera,Año V. Número 49,mayo de 1910,1910-05-01,No,NA,Español,NA,Poesía,NA,"Medina, Jaramillo",NA,1,29
+Alpha,462,"Smith William, Henry",Creador,NA,Estados Unidos,Progresos astronómicos del siglo XIX. Los cometas,Año V. Número 49,mayo de 1910,1910-05-01,Sí,L.E.J.M.,Español,Inglés,Prosa No Ficción,NA,NA,NA,5,30-34
+Alpha,463,"Jaramillo Medina, Francisco",Creador,Jaramillo Medina,Colombia,Una estatua,Año V. Número 49,mayo de 1910,1910-05-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,35-36
+Alpha,464,Anónimo,Creador,NA,NA,Los cometas,Año V. Número 49,mayo de 1910,1910-05-01,Sí,Anónimo,Español,"Italiano (no dicen de donde tomán el texto,pero sí mencionan que lo hacen de los períodicos de Milan)",Prosa No Ficción,Notas,NA,NA,4,37-40
+Alpha,465,Anónimo,Anunciante,NA,NA,NA,Año V. Número 49,mayo de 1910,1910-05-01,No,NA,Español,NA,Publicidad,NA,NA,NA,6,NA
+Alpha,466,"Benavente, Jacinto",Creador,NA,España,Los que se van,Año V. Número 50,junio de 1910,1910-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.5,41-44
+Alpha,467,"Robledo, Alfonso",Creador,NA,NA,Al cometa de Halley,Año V. Número 50,junio de 1910,1910-06-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1.5,45-46
+Alpha,468,"Macia, Carlos",Creador,NA,NA,Desgarrones,Año V. Número 50,junio de 1910,1910-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3,47-49
+Alpha,469,"Betancourt, José Luis",Creador,"Ivanovitch, Dmitry",NA,Vida futura,Año V. Número 50,junio de 1910,1910-06-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,3,50-52
+Alpha,470,"Wilde, Oscar",Creador,NA,Irlanda,La rosa roja,Año V. Número 50,junio de 1910,1910-06-01,Sí,Anónimo,Español,Inglés,Prosa Ficción,NA,NA,NA,1.5,53-54
+Alpha,471,"Rostand, Edmond",Creador,NA,Francia,De Rostand,Año V. Número 50,junio de 1910,1910-06-01,Sí,"Restrepo Restrepo, Carlos Eugenio",Español,Francés,Poesía,NA,NA,NA,1,55
+Alpha,472,"Ibsen, Henrik",Creador,Enrique Ibsen,Noruega,El rey y el poeta,Año V. Número 50,junio de 1910,1910-06-01,Sí,Anónimo,Español,NA,Poesía,NA,NA,NA,1.5,56-57
+Alpha,473,"Márquez Bravo, Tomás",Creador,Tomás Marquez,Colombia,Egloga,Año V. Número 50,junio de 1910,1910-06-01,No,NA,Español,NA,Poesía,NA,"Cano, Gabriel",NA,1,58
+Alpha,474,"Castro, Alfonso",Creador,Bretal Máximo,Colombia,Ánima expuesta,Año V. Número 50,junio de 1910,1910-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,59-60
+Alpha,475,"Vélez Barrientos, Lucrecio",Creador,Gaspar Chaverra,Colombia,Germen de estrago,Año V. Número 50,junio de 1910,1910-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.5,61-64
+Alpha,476,"Pardo Farelo, Enrique",Creador,Luis Tablanca,Colombia,Baladas nuevas,Año V. Número 50,junio de 1910,1910-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.5,65-66
+Alpha,477,"Turgenev, Ivan",Creador,Turgueneff,Rusia,Tres esbozos,Año V. Número 50,junio de 1910,1910-06-01,Sí,Anónimo,Español,Ruso,Prosa Ficción,NA,NA,NA,5,67-71
+Alpha,478,"Corral, Luis del",Creador,Luis del Corral,NA,Un album,Año V. Número 50,junio de 1910,1910-06-01,No,NA,Español,NA,Poesía,NA,"Restrepo, Fenita",NA,1.5,72-73
+Alpha,479,"Restrepo, Saturnino",Creador,S.R.,Colombia,De la legislación al progreso,Año V. Número 50,junio de 1910,1910-06-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2.5,74-77
+Alpha,480,T. P'ss Weekly,Creador,NA,NA,Extractos,Año V. Número 50,junio de 1910,1910-06-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,Extractos,NA,NA,4,77-80
+Alpha,481,Anónimo,Anunciante,NA,NA,NA,Año V. Número 50,junio de 1910,1910-06-01,No,NA,Español,NA,Publicidad,NA,NA,NA,10,NA
+Alpha,482,"Silva, José Asunción",Creador,J. A. Silva,Colombia,Al pie de la estatua,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Poesía,Poesía,Caracan,NA,7,81-87
+Alpha,483,"Ortiz, José Joaquín",Creador,"Ortiz, José J.",Colombia,Bolívar orador militar,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,14.5,88-102
+Alpha,484,Anónimo,Anunciante,NA,NA,NA,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Alpha,485,"Suárez, Marco Fidel",Creador,Marco F. Suárez,Colombia,Francisco A. Zea,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,16.5,103-119
+Alpha,486,"Ospina Vásquez, Tulio",Creador,Tulio Ospina,Colombia,El estudiante procer,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,120-121
+Alpha,487,"Ospina Rodríguez, Mariano",Creador,Mariano Ospina R.,Colombia,El doctor José Feliz de Restrepo y su época,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,40.5,122-162
+Alpha,488,"Mesa Jaramillo, José María",Creador,J.M. Mesa Jaramillo,Colombia,Cordoba. Palabras,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,163
+Alpha,489,"Restrepo Euse, Álvaro",Creador,NA,Colombia,Juan del Corral,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.5,164-165
+Alpha,490,"Gómez Barrientos, Estanislao",Creador,E. Gómez Barrientos,Colombia,"Algo sobre el SR. Aranzazu y sus contemporáneos. Apuntamientos de la Historia Patria, dedicados a D. Manuel A. Lalinde, director de la biblioteca Zea. El valle natal. La familia",Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,47,166-212
+Alpha,491,"Vélez, Marceliano",Creador,NA,Colombia,José M. Córdoba. En su centenario,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,Rionegro y Concepción,NA,3,213-215
+Alpha,492,"Gómez Barrientos, Estanislao",Creador,E. Gómez Barrientos,Colombia,Don Alejandro Vélez,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,12,216-227
+Alpha,493,"Henao, Januario",Creador,NA,NA,"D. Miguel Uribe Restrepo, (Párrafo para una biografía)",Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4,228-231
+Alpha,494,"Gómez Barrientos, Estanislao",Creador,Estanislao Gómez Barrientos,Colombia,Juan María Gómez. (Apuntamientos para la Academia Nacional de Historia),Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,22,232-253
+Alpha,495,"Vélez, Marceliano",Creador,NA,Colombia,Antonio Ricaurte,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.5,254-256
+Alpha,496,"Correa, Ramón",Creador,NA,Colombia,DR. Juan de Dios Morales,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,"Olano, Ricardo -El autor",NA,6.5,257-263
+Alpha,497,"Mesa Jaramillo, José María",Creador,J.M. Mesa Jaramillo,Colombia,José Miguel de la Calle,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,264-264
+Alpha,498,"Cano Gutiérrez, Fidel",Creador,Fidel Cano,Colombia,Liborio Mejía,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,265-268
+Alpha,499,"Mesa Jaramillo, José María",Creador,J.M. Mesa Jaramillo,Colombia,Ascendientes del historiador Restrepo. El Alferez,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7.5,269-276
+Alpha,500,"Zuleta Gaviria, Eduardo",Creador,Eduardo Zuleta,Colombia,Diálogos históricos,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,10.5,277-287
+Alpha,501,"Arango Mejía, Gabriel",Creador,NA,Colombia,Genealogías,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8,288-295
+Alpha,502,"Henao, Januario",Creador,NA,NA,NA,Año V. Número 51-52-53-54-55,julio de 1910,1910-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Alpha,503,"Velásquez García, José",Creador,Julio Vives Guerra,Colombia,Como la serpiente,Año V. Número 56,agosto de 1910,1910-08-01,No,NA,Español,NA,Poesía,Poesía,"Bolena, Lydia",NA,5,297-301
+Alpha,504,"Jaramillo Medina, Francisco",Creador,Jaramillo Medina,Colombia,La voz de la vida,Año V. Número 56,agosto de 1910,1910-08-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,4.5,302-306
+Alpha,505,"Cunninghame Graham, Robert Bontie",Creador,R.B. Cunninghame Graham,Escocia,El cuarto mago,Año V. Número 56,agosto de 1910,1910-08-01,Sí,Anónimo,Español,Inglés,Prosa Ficción,NA,NA,NA,10,307-316
+Alpha,506,"Castro, Alfonso",Creador,Máximo Bretal,Colombia,Ánima expuesta,Año V. Número 56,agosto de 1910,1910-08-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,317-318
+Alpha,507,"Restrepo, Saturnino",Creador,S.R.,Colombia,Diálogos ilusorios. (El rebelde y su sombra). En el centenario,Año V. Número 56,agosto de 1910,1910-08-01,No,NA,Español,NA,Prosa Ficción,NA,"Zuleta, E.",NA,3.5,319-322
+Alpha,508,"Restrepo, Saturnino",Creador,S.R.,Colombia,El contagio sugestivo,Año V. Número 56,agosto de 1910,1910-08-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,1.5,323-324
+Alpha,509,"Castro, Alfonso",Creador,NA,Colombia,Impresiones,Año V. Número 56,agosto de 1910,1910-08-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1.5,324-325
+Alpha,510,"Restrepo Restrepo, Carlos Eugenio",Reseñista,Carlos. E. Restrepo,Colombia,Educación social,Año V. Número 56,agosto de 1910,1910-08-01,No,NA,Español,NA,Reseña,Bibliografía,NA,Los humildes de Alfonso Castro,6,326-331
+Alpha,511,"Henao, Januario",Creador,J. Henao,Colombia,La lepra en Colombia,Año V. Número 56,agosto de 1910,1910-08-01,No,NA,Español,NA,Reseña,Bibliografía,NA,"La lepra en Colombia de Montoya y Flórez, Juan Bautista",2,332-333
+Alpha,512,"Duque, Antonio de J.",Creador,Antonio de J. Duque,Colombia,Por un libro. (Apuntaciones sobre Instrucción pública),Año V. Número 56,agosto de 1910,1910-08-01,No,NA,Español,NA,Prosa No Ficción,Bibliografía,NA,Apuntaciones sobre Instrucción Pública de Diego Mendoza Pérez,3,334-336
+Alpha,513,Anónimo,Anunciante,NA,NA,NA,Año V. Número 56,agosto de 1910,1910-08-01,No,NA,Español,NA,Publicidad,NA,NA,NA,6,NA
+Alpha,514,"Robledo, Eusebio",Creador,NA,Colombia,Humano,Año V. Número 57,septiembre de 1910,1910-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4,337-340
+Alpha,515,"Cano Gutiérrez, Fidel",Creador,"Ulano, F",Colombia,Serenata. (Dicha al pie de una ventana que fue),Año V. Número 57,septiembre de 1910,1910-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.5,341-342
+Alpha,516,"Darío, Rubén",Creador,NA,Nicaragua,El viaje a Nicaragua,Año V. Número 57,septiembre de 1910,1910-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8,343-350
+Alpha,517,"Betancourt, José Luis",Creador,"Ivanovitch, Dmitry",Colombia,Emoción lejana,Año V. Número 57,septiembre de 1910,1910-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,351
+Alpha,518,"Velásquez García, José",Creador,Julio Vives Guerra,Colombia,Esta es la justicia…!,Año V. Número 57,septiembre de 1910,1910-09-01,No,NA,Español,NA,Prosa Ficción,NA,"Carvajal, Alberto (literato y poeta)",NA,5,352-356
+Alpha,519,"Rasch Isla, Miguel",Creador,NA,Colombia,"De ""ondas secretas""",Año V. Número 57,septiembre de 1910,1910-09-01,No,NA,Español,NA,Poesía,NA,Alpha,NA,1.5,357-358
+Alpha,520,"Jaramillo, Bernardo",Creador,NA,Colombia,José Asunción Silva,Año V. Número 57,septiembre de 1910,1910-09-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2.5,359-361
+Alpha,521,"Castro, Alfonso",Crítico,NA,Colombia,Alrededor de un libro,Año V. Número 57,septiembre de 1910,1910-09-01,No,NA,Español,NA,Prosa No Ficción,Bibliografía,NA,La Lepra en Colombia de Montoya y Flórez,7.5,362-369
+Alpha,522,"Claretie, Jules",Creador,NA,Francia,Los literatos financieros,Año V. Número 57,septiembre de 1910,1910-09-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,Extractos,NA,NA,5.3,370-375
+Alpha,523,Anónimo,Creador,NA,NA,Los futuristas,Año V. Número 57,septiembre de 1910,1910-09-01,No,NA,Español,NA,Prosa No Ficción,Extractos,NA,NA,1.2,375-376
+Alpha,524,"Valencia, Guillermo",Creador,NA,Colombia,Discurso. Ante el cadáver de Don Miguel A. Caro,Año V. Número 58,octubre de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8.5,377-385
+Alpha,525,"Gamboa, Mateo",Creador,NA,Colombia,Paisajes caucanos,Año V. Número 58,octubre de 1910,1910-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,3,386-388
+Alpha,526,"Delgado, Jorge E.",Creador,Jorge E. Delgado,Colombia,Una velada literaria,Año V. Número 58,octubre de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,NA,"Restrepo de Uribe, Leonor",NA,1.5,389-390
+Alpha,527,"Huertos, Luis G.",Creador,Luis G. Huertos,NA,El solar de Castilla. Alma romáctica,Año V. Número 58,octubre de 1910,1910-10-01,No,NA,Español,NA,Poesía,NA,"Romero, Manuel de J.",NA,1.7,391-392
+Alpha,528,"Jaramillo Arango, Roberto",Creador,Roberto Jaramillo A.,Colombia,El zapatico blanco,Año V. Número 58,octubre de 1910,1910-10-01,No,NA,Español,NA,Prosa Ficción,NA,Negro Cano,NA,2,393-394
+Alpha,529,"Zarante Rhenals, Sergio",Creador,NA,NA,¿  ?....,Año V. Número 58,octubre de 1910,1910-10-01,No,NA,Español,NA,Poesía,NA,Alpha,NA,1,395
+Alpha,530,"Castro, Alfonso",Creador,NA,Colombia,Conferencia. Leída el 30 de octubre en la Sociedad Pedagógica,Año V. Número 58,octubre de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7,396-402
+Alpha,531,"Castro, Alfonso",Creador,Máximo Bretal,Colombia,Ánima expuesta,Año V. Número 58,octubre de 1910,1910-10-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,1.5,403-404
+Alpha,532,"Jaramillo, Emilio",Creador,E. Jaramillo,Colombia,República portuguesa,Año V. Número 58,octubre de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,3,404-407
+Alpha,533,"Maynial, Édouard",Creador,NA,Francia,La riqueza literaria de Maupassant,Año V. Número 58,octubre de 1910,1910-10-01,Sí,"Pardo, León",Español,Francés,Prosa No Ficción,Extractos,NA,NA,5.5,408-413
+Alpha,534,"Pardo Farelo, Enrique",Creador,Luis Tablanca,Colombia,Versos y mocedad,Año V. Número 58,octubre de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,Extractos,NA,NA,2,413-415
+Alpha,535,Anónimo,Creador,NA,NA,De Roosevelt,Año V. Número 58,octubre de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,Extractos,NA,NA,0.7,415-416
+Alpha,536,"Baring, Maurice",Creador,NA,Inglaterra,El vidrieron remendón,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,Sí,Anónimo,Español,Inglés,Prosa Ficción,NA,NA,NA,13,417-429
+Alpha,537,"Galán, Julio",Creador,NA,NA,Bajo el sol,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,2.5,430-432
+Alpha,538,"Castro, Alfonso",Creador,NA,Colombia,Ironías…,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,2.5,433-435
+Alpha,539,"Solano Patiño, José",Creador,NA,Colombia,A la bandera colombiana,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.5,436-437
+Alpha,540,"Betancourt Villegas, Félix",Creador,Félix Betancourt,Colombia,"Actuación de las ideas en Colombia, por Félix Betancourt",Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,25,438-462
+Alpha,541,"Márquez Bravo, Tomás",Creador,Tomás Marquez,Colombia,Alma de leyenda,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Poesía,NA,"Merizalde, Antonio",NA,1.5,463-464
+Alpha,542,"Restrepo Rivera, Jesús",Creador,J. Restrepo Rivera,Colombia,Alma de crepúsculo,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,464
+Alpha,543,"Hernández, Manuel A.",Creador,NA,NA,El preboste de Gonzalo Pizarro. Fragmento de la historia del Perú en el siglo XVI. 1525-1548,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,12,465-476
+Alpha,544,"Cano, Antonio José",Creador,Antonio J. Cano,Colombia,Parábola del sembrador,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,477
+Alpha,545,"González Posada, Adolfo",Creador,Posada Adolfo,España,La tolerancia. A propósito de una conferencia,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,6.5,478-484
+Alpha,546,"D'Annunzio, Gabriele",Creador,NA,Italia,"De ""Il Peccatto di Maggio""",Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,Sí,"Velásquez García, José",Español,Italiano,Poesía,NA,"Valencia,Guillermo",NA,1,485
+Alpha,547,"Unamuno, Miguel de",Creador,NA,España,Al llegar a mis cuarenta y seis años,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Poesía,Soneto,NA,NA,1,486
+Alpha,548,"Unamuno, Miguel de",Creador,NA,España,Carta de Unamuno,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1,487
+Alpha,549,"Castro, Alfonso",Creador,Máximo Bretal,Colombia,Ánima expuesta,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,2.5,488-490
+Alpha,550,"Darío, Rubén",Creador,NA,Nicaragua,Rostand o la felicidad,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Prosa No Ficción,Extractos,NA,NA,3.4,491-494
+Alpha,551,Anónimo,Creador,NA,NA,Índice del quinto año,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Alpha,552,Anónimo,Anunciante,NA,NA,NA,Año V. Número 59-60,noviembre y diciembre de 1910,1910-12-01,No,NA,Español,NA,Publicidad,NA,NA,NA,6,NA
+Alpha,553,Anónimo,Creador,NA,NA,NA,Año VI. Número 61-62,febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Alpha,554,"Pérez Triana, Santiago",Creador,S. Pérez Ttriana,Colombia,Justicia distributiva,Año VI. Número 61-62,febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa Ficción,NA,Alpha,NA,4,1-4
+Alpha,555,"Valencia, Guillermo",Creador,NA,Colombia,Sol poniente,Año VI. Número 61-62,febrero de 1911,1911-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,5
+Alpha,556,"González Posada, Adolfo",Creador,Adolfo Posada,España,Mi universidad,Año VI. Número 61-62,febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa No Ficción,NA,"V. González, Joaquín",NA,8.3,6-14
+Alpha,557,"Jaramillo Medina, Francisco",Creador,Jaramillo Medina,Colombia,Al través de tus canas,Año VI. Número 61-62,febrero de 1911,1911-02-01,No,NA,Español,NA,Poesía,NA,"Carvajal, M.A.",NA,2,15-16
+Alpha,558,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,Viendo fundir el busto de Girardot,Año VI. Número 61-62,febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.5,17-20
+Alpha,559,"Arce, Julio César",Creador,NA,Colombia,Mis versos (inédita),Año VI. Número 61-62,febrero de 1911,1911-02-01,No,NA,Español,NA,Poesía,NA,"Cano, A.J.",NA,1.4,21-22
+Alpha,560,"Ewers, Hanns Heinz",Creador,NA,Alemania,La salsa de tomates,Año VI. Número 61-62,febrero de 1911,1911-02-01,Sí,"Soto, A.",Español,Alemán,Prosa Ficción,NA,NA,NA,14,23-36
+Alpha,561,"Baena, Fernando E.",Creador,Fernando E. Baena,NA,Elogio de la vida,Año VI. Número 61-62,febrero de 1911,1911-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,37-38
+Alpha,562,"Richepin, Jean",Creador,NA,Algeria,Un cuento,Año VI. Número 61-62,febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.5,39-40
+Alpha,563,"Richepin, Jean",Creador,NA,Algeria,Estrella extinta,Año VI. Número 61-62,febrero de 1911,1911-02-01,Sí,Alpha,Español,Francés,Prosa Ficción,NA,NA,NA,3,40-43
+Alpha,564,"Gautier, Judith",Creador,NA,Francia,Poemas en prosa,Año VI. Número 61-62,febrero de 1911,1911-02-01,Sí,R.B.S.,Español,Francés,Poesía,Poesía,NA,NA,1,44
+Alpha,565,"González Fiol, Enrique",Creador,El bachiller corchuelo,España,Jacinto Benavente. Confesiones de su vida y de su obra,Año VI. Número 61-62,febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,33.3,45-78
+Alpha,566,"Castro, Alfonso",Creador,Máximo Bretal,Colombia,Ánima expuesta,Año VI. Número 61-62,febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,79-80
+Alpha,567,Anónimo,Anunciante,NA,NA,NA,Año VI. Número 61-62,febrero de 1911,1911-02-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,568,Anónimo,Anunciante,NA,NA,NA,Año VI. Número 63,marzo de 1911,1911-03-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,569,"Velásquez García, José",Creador,Julio Vives Guerra,Colombia,Y después…pa Tarugo,Año VI. Número 63,marzo de 1911,1911-03-01,No,NA,Español,NA,Prosa Ficción,NA,"Pineda, Luis F.",NA,4.5,81-85
+Alpha,570,"Ugarte, Manuel",Creador,NA,Argentina,Superstición galante,Año VI. Número 63,marzo de 1911,1911-03-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.5,86-87
+Alpha,571,"Maragall, Juan",Creador,NA,España,Elogio del vivir,Año VI. Número 63,marzo de 1911,1911-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,6.5,88-94
+Alpha,572,"Restrepo Rivera, Jesús",Creador,J. Restrepo Rivera,Colombia,Dulce amor,Año VI. Número 63,marzo de 1911,1911-03-01,No,NA,Español,NA,Poesía,NA,"Márquez, Tomás",NA,2,95-96
+Alpha,573,"Darío, Rubén",Creador,NA,Nicaragua,Films de París. I. A propósito de Mme. Segur,Año VI. Número 63,marzo de 1911,1911-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,6,97-102
+Alpha,574,"Mejía B., Manuel",Creador,NA,NA,De mi jardín,Año VI. Número 63,marzo de 1911,1911-03-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,103
+Alpha,575,"D'Annunzio, Gabriele",Creador,NA,Italia,Una rosa llevada al cielo,Año VI. Número 63,marzo de 1911,1911-03-01,Sí,Anónimo,Español,Italiano,Prosa Ficción,NA,NA,NA,12,104-115
+Alpha,576,"Valencia, Guillermo",Creador,NA,Colombia,Sr. D. Francisco A. Cano,Año VI. Número 63,marzo de 1911,1911-03-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1,116
+Alpha,577,Anónimo,Creador,NA,NA,Futurismo,Año VI. Número 63,marzo de 1911,1911-03-01,No,NA,Español,NA,Prosa No Ficción,Extractos,NA,NA,0.7,117
+Alpha,578a,"Boccioni, Umberto",Creador,NA,Italia,Manifiesto de los pintores futuristas,Año VI. Número 63,marzo de 1911,1911-03-01,Sí,Anónimo,Español,Italiano,Prosa No Ficción,Extractos,NA,NA,3.3,117-120
+Alpha,578b,"Carrà, Carlo",Creador,NA,Italia,Manifiesto de los pintores futuristas,Año VI. Número 63,marzo de 1911,1911-03-01,Sí,Anónimo,Español,Italiano,Prosa No Ficción,Extractos,NA,NA,3.3,117-120
+Alpha,578c,"Russolo, Luigi",Creador,NA,Italia,Manifiesto de los pintores futuristas,Año VI. Número 63,marzo de 1911,1911-03-01,Sí,Anónimo,Español,Italiano,Prosa No Ficción,Extractos,NA,NA,3.3,117-120
+Alpha,578d,"Severini, Gino",Creador,NA,Italia,Manifiesto de los pintores futuristas,Año VI. Número 63,marzo de 1911,1911-03-01,Sí,Anónimo,Español,Italiano,Prosa No Ficción,Extractos,NA,NA,3.3,117-120
+Alpha,578e,"Balla, Giacomo",Creador,NA,Italia,Manifiesto de los pintores futuristas,Año VI. Número 63,marzo de 1911,1911-03-01,Sí,Anónimo,Español,Italiano,Prosa No Ficción,Extractos,NA,NA,3.3,117-120
+Alpha,579,Anónimo,Anunciante,NA,NA,NA,Año VI. Número 63,marzo de 1911,1911-03-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,580,Anónimo,Anunciante,NA,NA,NA,Año VI. Número 64,abril de 1911,1911-04-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,581,"González Fiol, Enrique",Creador,El bachiller corchuelo,España,Vicente Blasco Ibáñez.I. Confesiones de su vida y de su obra,Año VI. Número 64,abril de 1911,1911-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,16,121-136
+Alpha,582,"Restrepo, Santiago",Creador,NA,NA,Ashaverus,Año VI. Número 64,abril de 1911,1911-04-01,No,NA,Español,NA,Poesía,Poesía,"Restrepo, alonso",NA,3,137-139
+Alpha,583,"Puaux, René",Creador,NA,Francia,Fogazaro ha muerto,Año VI. Número 64,abril de 1911,1911-04-01,Sí,"Melguizo, Manuel",Español,Francés,Prosa No Ficción,NA,NA,NA,4.5,140-144
+Alpha,584,"Jaramillo Arango, Bernardo",Creador,Bernardo Jaramillo A.,Colombia,La canción de mi idea,Año VI. Número 64,abril de 1911,1911-04-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,145
+Alpha,585,"González Blanco, Pedro",Creador,NA,España,La poesía y la ciencia,Año VI. Número 64,abril de 1911,1911-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.5,146-149
+Alpha,586,"Merizalde Uribe, Antonio",Creador,Antonio Merizalde,Colombia,Las rosas,Año VI. Número 64,abril de 1911,1911-04-01,No,NA,Español,NA,Poesía,Poesía,"Márquez, Tomás",NA,1.5,150-151
+Alpha,587,"Romero, Manuel de J.",Creador,NA,NA,Sombra de martirio,Año VI. Número 64,abril de 1911,1911-04-01,No,NA,Español,NA,Prosa Ficción,NA,"Velásquez García, José",NA,4.5,152-156
+Alpha,588,"Castro, Alfonso",Creador,Máximo Bretal,Colombia,Ánima expuesta,Año VI. Número 64,abril de 1911,1911-04-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,2,157-158
+Alpha,589a,"Marinetti, Filippo Tommaso",Creador,NA,Italia,Venecia futurista,Año VI. Número 64,abril de 1911,1911-04-01,Sí,Anónimo,Español,Italiano,Prosa Ficción,Extractos,NA,NA,0.7,159
+Alpha,589b,"Buzzi, Paolo",Creador,NA,Italia,Venecia futurista,Año VI. Número 64,abril de 1911,1911-04-01,Sí,Anónimo,Español,Italiano,Prosa Ficción,Extractos,NA,NA,0.7,159
+Alpha,589c,"Palazzeschi, Aldo",Creador,NA,Italia,Venecia futurista,Año VI. Número 64,abril de 1911,1911-04-01,Sí,Anónimo,Español,Italiano,Prosa Ficción,Extractos,NA,NA,0.7,159
+Alpha,589d,"Cavacchioli, Enrico",Creador,NA,Italia,Venecia futurista,Año VI. Número 64,abril de 1911,1911-04-01,Sí,Anónimo,Español,Italiano,Prosa Ficción,Extractos,NA,NA,0.7,159
+Alpha,589e,"Mazza, Armando",Creador,NA,Italia,Venecia futurista,Año VI. Número 64,abril de 1911,1911-04-01,Sí,Anónimo,Español,Italiano,Prosa Ficción,Extractos,NA,NA,0.7,159
+Alpha,589f,"Altomare, Libero",Creador,NA,Italia,Venecia futurista,Año VI. Número 64,abril de 1911,1911-04-01,Sí,Anónimo,Español,Italiano,Prosa Ficción,Extractos,NA,NA,0.7,159
+Alpha,589g,"Folgore, Luciano",Creador,NA,Italia,Venecia futurista,Año VI. Número 64,abril de 1911,1911-04-01,Sí,Anónimo,Español,Italiano,Prosa Ficción,Extractos,NA,NA,0.7,159
+Alpha,589h,"Carrieri, Giuseppe",Creador,NA,Italia,Venecia futurista,Año VI. Número 64,abril de 1911,1911-04-01,Sí,Anónimo,Español,Italiano,Prosa Ficción,Extractos,NA,NA,0.7,159
+Alpha,590,"Henao, Januario",Creador,NA,NA,Ferrocarril de Amagá. La 1° Locomotora en el Valle de Medellín,Año VI. Número 64,abril de 1911,1911-04-01,No,NA,Español,NA,Prosa Ficción,Extractos,NA,NA,1,159-160
+Alpha,591,Anónimo,Anunciante,NA,NA,NA,Año VI. Número 64,abril de 1911,1911-04-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,592,"Botero Saldarriaga, Roberto",Creador,R. Botero Sandarriaga,Colombia,Buhos y lechuzas (fragmento de una novela),Año VI. Número 65-66,junio de 1911,1911-06-01,No,NA,Español,NA,Prosa Ficción,fragmento de novela,NA,NA,4,161-164
+Alpha,593,"Jaramillo Medina, Francisco",Creador,Jaramillo Medina,Colombia,Nupcial,Año VI. Número 65-66,junio de 1911,1911-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,165
+Alpha,594,"González Fiol, Enrique",Creador,El bachiller corchuelo,España,Vicente Blasco Ibáñez.Confesiones de su vida y de su obra. IV.,Año VI. Número 65-66,junio de 1911,1911-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,17,166-182
+Alpha,595,"Machado, Manuel",Creador,Manuel Machado,España,Adelfos,Año VI. Número 65-66,junio de 1911,1911-06-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1.5,183-184
+Alpha,596,"Cano, Luis",Creador,Luis Cano,Colombia,Perdido en la viña,Año VI. Número 65-66,junio de 1911,1911-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,6,185-190
+Alpha,597,"Verlaine, Paul",Creador,NA,Francia,Pierrot,Año VI. Número 65-66,junio de 1911,1911-06-01,Sí,"González Martínez, Enrique",Español,Francés,Poesía,Poesía,NA,NA,1,191
+Alpha,598,Arbós y Góngora,Creador,NA,NA,Fragmentos...,Año VI. Número 65-66,junio de 1911,1911-06-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,2,192-193
+Alpha,599,"Pardo Farelo, Enrique",Creador,Luis Tablanca,Colombia,Bajo los almendros,Año VI. Número 65-66,junio de 1911,1911-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,43.3,194-237
+Alpha,600,"Blanco, Alfredo",Creador,NA,NA,Sonetos del odio II,Año VI. Número 65-66,junio de 1911,1911-06-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,238
+Alpha,601,"Castro, Alfonso",Creador,Máximo Bretal,Colombia,Ánima expuesta,Año VI. Número 65-66,junio de 1911,1911-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,239-240
+Alpha,602,Anónimo,Anunciante,NA,NA,NA,Año VI. Número 65-66,junio de 1911,1911-06-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,603,Anónimo,Anunciante,NA,NA,NA,Año VI. Número 67,julio de 1911,1911-07-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,604,"Velásquez García, José",Creador,Julio Vives Guerra,Colombia,Hacia arriba…hacia arriba…,Año VI. Número 67,julio de 1911,1911-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,5,253-257
+Alpha,605,"Betancourt, José Luis",Creador,"Ivanovitch, Dmitry",Colombia,Al margen,Año VI. Número 67,julio de 1911,1911-07-01,No,NA,Español,NA,Poesía,Poesía,"Vives Guerra, Julio (Velásquez García, José)",NA,2.5,258-260
+Alpha,606,"Duque, Antonio de J.",Creador,Antonio de J. Duque,Colombia,Proyecto de alianza por la educación (Para el congreso inernacional de estudiantes).,Año VI. Número 67,julio de 1911,1911-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.5,251-255
+Alpha,607,"Rasch Isla, Miguel",Creador,NA,Colombia,"De ""ondas secretas""",Año VI. Número 67,julio de 1911,1911-07-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,2,256-257
+Alpha,608,"Unamuno, Miguel de",Creador,NA,España,La literatura portuguesa contemporánea,Año VI. Número 67,julio de 1911,1911-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,6.5,258-264
+Alpha,609,"Palacio, Eduardo A.",Creador,Eduardo A. Palacio,Colombia,Llegas bajo las sombras,Año VI. Número 67,julio de 1911,1911-07-01,No,NA,Español,NA,Poesía,Poesía,"Váldes, Edmundo",NA,1,265
+Alpha,610,"Betancourt V., Pedro P.",Creador,Pedro P. Betancourt V.,Colombia,Enseñanza libresca,Año VI. Número 67,julio de 1911,1911-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8.5,266-274
+Alpha,611,"Castillo, Eduardo",Creador,NA,Colombia,Dilección,Año VI. Número 67,julio de 1911,1911-07-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,275
+Alpha,612,"López Restrepo, Alejandro",Creador,"Alejandro López, I.C.",Colombia,El ferrocarril de Antioquia,Año VI. Número 67,julio de 1911,1911-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,276-277
+Alpha,613,"Eastman, Tomás Oziel",Creador,"Tomás O., Eastman",Colombia,Notas,Año VI. Número 67,julio de 1911,1911-07-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,5,278-282
+Alpha,614,Anónimo,Anunciante,NA,NA,NA,Año VI. Número 67,julio de 1911,1911-07-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,615,"Betancourt, José Luis",Creador,"Ivanovitch, Dmitry",Colombia,Cartas inéditas,Año VI. Número 68,agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa No Ficción,Cartas,NA,NA,16,283-298
+Alpha,616,"Valle-Inclán, Ramón del",Creador,NA,España,Voces de Gesta. Poema trágico en tres jornadas,Año VI. Número 68,agosto de 1911,1911-08-01,No,NA,Español,NA,Teatro,Poema trágico,NA,NA,19.3,299-318
+Alpha,617,"Jaramillo Medina, Francisco",Creador,Jaramillo Medina,Colombia,Elogio del teatro (I),Año VI. Número 68,agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa No Ficción,Conferencia,"Olano, Ricardo",NA,4,319-322
+Alpha,618,Anónimo,Anunciante,NA,NA,NA,Año VI. Número 68,agosto de 1911,1911-08-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,619,Anónimo,Anunciante,NA,NA,NA,Año VI. Número 69-70,septiembre de 1911,1911-09-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,620,"Uribe Gómez, Pedro",Creador,NA,Colombia,Por Francia y por España,Año VI. Número 69-70,septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8.3,323-331
+Alpha,621,"Palacio, Eduardo A.",Creador,Eduardo A. Palacio,Colombia,Matinal,Año VI. Número 69-70,septiembre de 1911,1911-09-01,No,NA,Español,NA,Poesía,Poesía,Alpha,NA,1,332
+Alpha,622,"Más y Pi, Juan",Creador,Juan Mas y Pi,Argentina,La vida maravillosa de Lafcadio Hearn,Año VI. Número 69-70,septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,32.2,333-365
+Alpha,623,"López, Luis Carlos",Creador,"Luis C., López",Colombia,El día de San Idelfonso,Año VI. Número 69-70,septiembre de 1911,1911-09-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,366
+Alpha,624,"Bellom, Maurice M.",Creador,NA,Francia,Economía industrial. El rol económico y social del ingeniero,Año VI. Número 69-70,septiembre de 1911,1911-09-01,Sí,"López Restrepo, Alejandro",Español,Francés,Prosa No Ficción,NA,NA,NA,22,367-387
+Alpha,625,"Merizalde Uribe, Antonio",Creador,Antonio Merizalde,Colombia,Musicales de monte,Año VI. Número 69-70,septiembre de 1911,1911-09-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,388
+Alpha,626,"Latorre, Gabriel",Creador,NA,Colombia,Sociedad Pedagógica. De la pereza intelectual (conferencia),Año VI. Número 69-70,septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa No Ficción,Conferencia,NA,NA,9.3,389-399
+Alpha,627,"Restrepo, Saturnino",Creador,S.R.,Colombia,Piotz Stolypin,Año VI. Número 69-70,septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,400-401
+Alpha,628,"Pardo Farelo, Enrique",Creador,Luis Tablanca,Colombia,"""Volanderas…y tal""",Año VI. Número 69-70,septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,1,402
+Alpha,629,Anónimo,Anunciante,NA,NA,NA,Año VI. Número 69-70,septiembre de 1911,1911-09-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,630,"Castro, Alfonso",Creador,NA,Colombia,Discurso,Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Prosa No Ficción,Discurso,NA,NA,14,403-416
+Alpha,631,"Arce, Julio César",Creador,NA,Colombia,Dominical,Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Poesía,Poesía,Alpha,NA,1,417
+Alpha,632,"Uribe, Enrique",Creador,NA,NA,Discurso,Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Prosa No Ficción,Discurso,NA,NA,6,418-423
+Alpha,633,"Agudelo, Miguel",Creador,NA,Colombia,Por ti,Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Poesía,Poesía,Srta. E. M.,NA,1,424
+Alpha,634,"Rendón, Francisco de Paula",Creador,F. DE. P. Rendon,Colombia,Necrología,Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,14,425-438
+Alpha,635,"Pineda, Luis F.",Creador,"Luis F., Pineda",NA,Versos de vida,Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Poesía,Poesía,"Tablanca, Luis",NA,1,439
+Alpha,636,Arbós y Góngora,Creador,NA,NA,Su silueta negra...,Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,2.5,440-442
+Alpha,637,"Romero, Manuel de J.",Creador,NA,NA,Caso de leyenda,Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,4,443-446
+Alpha,638,"Restrepo Rivera, Jesús",Creador,J. Restrepo Rivera,Colombia,La santa Genoveva de Puvis de Chavanens,Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,447
+Alpha,639,"Hawthorne, Nathaniel",Creador,Julian Hawthorne,Estados Unidos,Una raza que desaparece,Año VI. Número 71-72,diciembre de 1911,1911-12-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,NA,NA,NA,8,448-455
+Alpha,640,"Jaramillo Medina, Francisco",Creador,Jaramillo Medina,Colombia,Recuerdo del centenario. (De libro inédito Los númenes de la raza),Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Poesía,Poesía,"Greiff, Oscar de",NA,3.4,456-459
+Alpha,641,"Albert, Caterina",Creador,Víctor Català,España,Cruz y raya,Año VI. Número 71-72,diciembre de 1911,1911-12-01,Sí,Anónimo,Español,Catalán,Prosa Ficción,Cuento,NA,NA,8,460-467
+Alpha,642,"Peláez, Aurelio",Creador,NA,Colombia,"El poeta humilde, dice:",Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,2,468-469
+Alpha,643,"Henao, Januario",Creador,NA,NA,Estudios de Fonética. (A la Academia de la lengua de Medellín),Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Prosa No Ficción,NA,A la Academia de lenguas de Medellín,NA,6.5,470-476
+Alpha,644,"Castro, Alfonso",Creador,Máximo Bretal,Colombia,Ánima expuesta,Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,2,477-478
+Alpha,645,Anónimo,Creador,NA,NA,Indice del año sexto,Año VI. Número 71-72,diciembre de 1911,1911-12-01,No,NA,Español,NA,Prosa No Ficción,Índice,NA,NA,2,NA
+Alpha,646,Anónimo,Anunciante,NA,NA,NA,Año VII. Número 73,enero de 1912,1912-01-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,647,"Velásquez García, José",Creador,Julio Vives Guerra,Colombia,El turno bravo,Año VII. Número 73,enero de 1912,1912-01-01,No,NA,Español,NA,Poesía,Poesía,"López, Libardo",NA,3.5,1-4
+Alpha,648,"Pineda, Luis F.",Creador,"Luis F., Pineda",NA,Versos de vida,Año VII. Número 73,enero de 1912,1912-01-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,5
+Alpha,649,"Burton, Francis",Creador,NA,Inglaterra,Economía industrial. El gerente,Año VII. Número 73,enero de 1912,1912-01-01,Sí,"López Restrepo, Alejandro",Español,Inglés,Prosa No Ficción,NA,NA,NA,9.3,6-15
+Alpha,650,"Betancourt, José Luis",Creador,"Ivanovitch, Dmitry",Colombia,A Cartagena de Indias,Año VII. Número 73,enero de 1912,1912-01-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,11.5,16-27
+Alpha,651,"Restrepo, Saturnino",Creador,NA,Colombia,Discurso del Sr. D. Saturnino Restrepo ante la tumba del Dr. Santiago Pérez en nombre de la colonia colombiana de Londres,Año VII. Número 73,enero de 1912,1912-01-01,No,NA,Español,NA,Prosa No Ficción,Discurso,NA,NA,5.3,28-33
+Alpha,652,"Chocano, José Santos",Creador,NA,Perú,El rapto de la Gioconda,Año VII. Número 73,enero de 1912,1912-01-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,3,34-36
+Alpha,653,"Castro, Alfonso",Creador,Máximo Bretal,Colombia,Ánima expuesta,Año VII. Número 73,enero de 1912,1912-01-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,1.5,37-38
+Alpha,654,"Reynolds, Rothay",Creador,NA,Inglaterra,Lo que piensan los rusos,Año VII. Número 73,enero de 1912,1912-01-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,Extractos,NA,NA,2,39-40
+Alpha,655,Anónimo,Anunciante,NA,NA,NA,Año VII. Número 73,enero de 1912,1912-01-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,656,Anónimo,Anunciante,NA,NA,NA,Año VII. Número 74,febrero de 1912,1912-02-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,657,"Jaramillo, Emilio",Creador,NA,Colombia,Sociedad Pedagógica. El valor de la cátedra,Año VII. Número 74,febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa No Ficción,Conferencia,NA,NA,10,41-50
+Alpha,658,"Prudhomme, Sully",Creador,NA,Francia,Oración a la primavera,Año VII. Número 74,febrero de 1912,1912-02-01,Sí,"Cano Gutiérrez, Fidel",Español,Francés,Poesía,Poesía,NA,NA,1,51
+Alpha,659,"Vélez Barrientos, Lucrecio",Creador,Gaspar Chaverra,Colombia,De cómo salimos del error el párroco de Pancorbo y yo,Año VII. Número 74,febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.5,52-54
+Alpha,660,"Grillo, Maximiliano",Creador,Max Grillo,Colombia,Crepúsculos de La Paz,Año VII. Número 74,febrero de 1912,1912-02-01,No,NA,Español,NA,Poesía,Poesía,M. le baron d'Avril,NA,1.3,55-56
+Alpha,661,"Betancourt Villegas, Félix",Creador,Félix Betancourt,Colombia,Evolución de las ideas,Año VII. Número 74,febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,15,57-71
+Alpha,662,"Betancourt, José Luis",Creador,"Ivanovitch, Dmitry",Colombia,Saludo a la reina,Año VII. Número 74,febrero de 1912,1912-02-01,No,NA,Español,NA,Poesía,Poesía,Alpha,NA,3,72-74
+Alpha,663,"Márquez Bravo, Tomás",Creador,Tomás Marquez,Colombia,La poesía,Año VII. Número 74,febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,4.5,75-79
+Alpha,664,"Jaramillo Medina, Francisco",Creador,Jaramillo Medina,Colombia,Sr.Dr. Alfonso Castro,Año VII. Número 74,febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1,79-80
+Alpha,665,Anónimo,Anunciante,NA,NA,NA,Año VII. Número 74,febrero de 1912,1912-02-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Alpha,666,Anónimo,Creador,NA,NA,"Nuevo colaborador de ""Alpha""",Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,81
+Alpha,667,"Ory y Sevilla, Eduardo de",Crítico,NA,España,El divino Silva (Especial para Alpha),Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa No Ficción,comentario crítico,NA,NA,6,82-87
+Alpha,668,"Betancourt, José Luis",Creador,"Ivanovitch, Dmitry",Colombia,Los dos ensueños,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,88
+Alpha,669,"Rubió y Lluch, Antonio",Creador,A. Rubio y Lluch,España,Menézdez Pelayo y las letras hispanoamericanas. Impresiones y recuerdos,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa No Ficción,comentario crítico,NA,NA,15,89-103
+Alpha,670,"Velásquez, Edmundo",Creador,NA,Colombia,Francisco de Asís,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1.3,104-105
+Alpha,671,"Betancourt Villegas, Félix",Creador,Félix Betancourt,Colombia,De Antioquia,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,23,106-128
+Alpha,672,"Ory y Sevilla, Eduardo de",Creador,NA,España,A los poetas,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Poesía,Poesía,"Cano, Antonio J",NA,1,129
+Alpha,673,"Castro, Alfonso",Creador,NA,Colombia,Práctica y teoría,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8.5,130-138
+Alpha,674,"Pascoli, Giovanni",Creador,NA,Italia,Los dos niños,Año VII. Número 75-76,agosto de 1912,1912-08-01,Sí,"Valencia, Guillermo",Español,Italiano,Poesía,Poesía,NA,NA,2,139-140
+Alpha,675,"Vélez Barrientos, Lucrecio",Creador,Gaspar Chaverra,Colombia,La Rosa y la cancana,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.3,141-143
+Alpha,676,"Restrepo, Santiago",Creador,NA,NA,"Las campanas de la tarde . Preludio del libro inédito ""Las campanas de la tarde""",Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,2.3,144-146
+Alpha,677,"Castro, Alfonso",Creador,Máximo Bretal,Colombia,Ánima expuesta,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,1.5,147-148
+Alpha,678,"Sanín Villa, Gabriel",Creador,G. Sanín Villa,NA,Nuestras leyendas,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,2.2,148-150
+Alpha,679,Anónimo,Creador,NA,NA,Juegos Florales,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.3,150
+Alpha,680,"Betancourt Villegas, Félix",Creador,Félix Betancourt,Colombia,Erratas,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.3,151
+Alpha,681,"Márquez Bravo, Tomás",Reseñista,Tomás Marquez,Colombia,Dos novelas,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Reseña,comentario crítico,NA,Abismo sociales de Alfonso Castro y Madre Glotona de Alfonso Javier Gómez,6.7,151-157
+Alpha,682,Anónimo,Creador,NA,NA,Cuadros de la naturaleza,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,Cuadros de la naturaleza de Joaquín A. Uribe,0.3,158
+Alpha,683,Anónimo,Creador,NA,NA,Arrayanes,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,Arrayanes de Aurelio Pelaez,0.3,158
+Alpha,684,Anónimo,Creador,NA,NA,"Vade Mecum ortográfico"", suplemento a la ortografía de D. José Manuel Marroquín",Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,"Vade Mecum ortográfico"", suplemento a la ortografía de D. José Manuel Marroquín por Justo Montoya A.",0.5,158-159
+Alpha,685,Anónimo,Creador,NA,NA,La escuela del funcionario,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,La escuela del funcionario de José V. Restrepo E.,0.8,159-160
+Alpha,686,"Balbin de Unquera, Antonio",Creador,NA,España,Momentos de Vida,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,Momentos de vida de Miguel Agudelo,0.4,160
+Alpha,687,Anónimo,Creador,NA,NA,Pensamiento y vida,Año VII. Número 75-76,agosto de 1912,1912-08-01,No,NA,Español,NA,Reseña de revista,De libros,NA,Pensamiento y Vida (Revista Literaria),0.3,160
+Alpha,688,"Maynial, Édouard",Creador,NA,Francia,La enfermedad de Mauppassant. Extracto,Año VII. Número 77-78,septiembre de 1912,1912-09-01,Sí,"Pardo, León",Español,Francés,Prosa No Ficción,NA,NA,NA,28.5,161-189
+Alpha,689,"Valencia, Guillermo",Creador,NA,Colombia,Dijo la lechuza…,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,190
+Alpha,690,"Villegas, Luis Eduardo",Creador,NA,Colombia,Analectas del Quijote,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,191-193
+Alpha,691,"Arce, Julio César",Creador,NA,Colombia,Rosas (inédita),Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Poesía,NA,"Olano, Ricardo",NA,1,194
+Alpha,692,"Vélez Barrientos, Lucrecio",Creador,Gaspar Chaverra,Colombia,Las conferencias del Dr. Ox,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,4,195-198
+Alpha,693,"Pardo Farelo, Enrique",Creador,Luis Tablanca,Colombia,En la muerte de Rafael Pombo,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,199
+Alpha,694,"Chalarca, Antoño",Creador,NA,NA,El machete,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,18.3,200-218
+Alpha,695,"Restrepo Rivera, Jesús",Creador,J. Restrepo Rivera,Colombia,Es un paisaje triste,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Poesía,Poesía,"Mejía, Gustavo",NA,1.3,219-220
+Alpha,696,"Henao, Januario",Creador,NA,Colombia,Construcciones anómalas del verbo ser (Muestra de un trabajo sobre el lenguaje castellano),Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,221-225
+Alpha,697,"Uribe, Jesús",Creador,NA,NA,Santo!,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,226
+Alpha,698,"Silva, José Asunción",Creador,José A. Silva,Colombia,¡Poeta yo!,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,227-228
+Alpha,699,"Cifuentes R., Manuel",Creador,Manuel Cifuentes R.,NA,Sueños de oro,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Poesía,NA,"Ospina G., José Ignacio",NA,1,229
+Alpha,700,"Abella-Nouvrac, Louis",Creador,Louis Abella-Nouvrac,NA,La vida en la muerte,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4.5,230-234
+Alpha,701,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,¿Sodones?,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,3,235-237
+Alpha,702,Anónimo,Creador,NA,NA,Prosas de amor y dolor,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,Prosas de amor y dolor de José Montoya,0.5,238
+Alpha,703,Anónimo,Creador,NA,NA,Caro y su obra,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,Caro y su obra. Con motivo del tercer aniversario de su muerte por Alfonso Robledo,0.5,238
+Alpha,704,"Terreros, José",Creador,NA,NA,Páginas históricas colombianas,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,Páginas históricas colombianas de Ricardo Castro,1.5,239-240
+Alpha,705,"Ibáñez, Pedro María",Creador,"Pedro M., ibañez",Colombia,Academia Nacional de Historia,Año VII. Número 77-78,septiembre de 1912,1912-09-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,NA,0.5,240
+Alpha,706,"Duque, Antonio de J.",Creador,Antonio de J. Duque,Colombia,Ideales patrio-educativos,Año VII. Número 79-80,octubre de 1912,1912-10-01,No,NA,Español,NA,Prosa No Ficción,NA,Alpha,NA,16.5,241-257
+Alpha,707,"Verlaine, Paul",Creador,NA,Francia,Unos y otras. Comedio de un acto y en verso,Año VII. Número 79-80,octubre de 1912,1912-10-01,Sí,"Restrepo Restrepo, Antonio María",Español,Francés,Teatro,NA,NA,NA,23.5,258-281
+Alpha,708,"Villegas, Luis Eduardo",Creador,NA,Colombia,Analectas del Quijote. Trozos literarios selectos,Año VII. Número 79-80,octubre de 1912,1912-10-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,10.3,282-292
+Alpha,709,"Maeterlinck, Maurice",Creador,NA,Bélgica,La infiel,Año VII. Número 79-80,octubre de 1912,1912-10-01,Sí,"Betancourt, José Luis",Español,NA,Poesía,Poesía,NA,NA,1,293
+Alpha,710,"Márquez Bravo, Tomás",Creador,Bel-Ami,Colombia,"Soledad (Mención honorífica en el concurso de ""Progreso"")",Año VII. Número 79-80,octubre de 1912,1912-10-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,6,294-299
+Alpha,711,"Bayona Posada, Jorge",Creador,J. Bayona Posada,Colombia,Arte,Año VII. Número 79-80,octubre de 1912,1912-10-01,No,NA,Español,NA,Poesía,NA,Alpha,NA,1,300
+Alpha,712,"Vélez Barrientos, Lucrecio",Creador,Gaspar Chaverra,Colombia,Las alegrías de la vida,Año VII. Número 79-80,octubre de 1912,1912-10-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,3,301-303
+Alpha,713,"Toro, Julio",Creador,NA,NA,Esa noche,Año VII. Número 79-80,octubre de 1912,1912-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,304
+Alpha,714,"López Restrepo, Alejandro",Creador,"Alejandro López, I.C.",Colombia,"Economía Insdustrial. Administración, introducción",Año VII. Número 79-80,octubre de 1912,1912-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8,305-312
+Alpha,715,"Claretie, Jules",Creador,Jules Clarette,Francia,Oscar Wilde,Año VII. Número 79-80,octubre de 1912,1912-10-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,comentario crítico,NA,NA,6,313-318
+Alpha,716,"Castro, Alfonso",Creador,Máximo Bretal,Colombia,Ánima expuesta,Año VII. Número 79-80,octubre de 1912,1912-10-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,319-320
+Alpha,717,"Melguizo, Carlos",Creador,NA,NA,Una vista al Canal de Panamá,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,22,321-342
+Alpha,718,"Peláez, Aurelio",Creador,NA,Colombia,Del viaje,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.2,342-343
+Alpha,719,"Peláez, Aurelio",Creador,NA,Colombia,Del libro,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,344-345
+Alpha,720,"Peláez, Aurelio",Creador,NA,Colombia,Del pasado,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,346-346
+Alpha,721,"Duque, Antonio de J.",Creador,Antonio de J. Duque,Colombia,"Cuadro sin marcos (Mención honorifica en el Concurso de ""Progreso"")",Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,21.3,347-368
+Alpha,722,"Nervo, Amado",Creador,NA,México,Triste,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,369
+Alpha,723,"Karr, Carmen",Creador,NA,España,De educación femenina,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,12.5,370-382
+Alpha,724,"Betancourt, José Luis",Creador,"Ivanovitch, Dmitry",Colombia,La gloria de las rimas,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,383
+Alpha,725,"Vélez Barrientos, Lucrecio",Creador,Gaspar Chaverra,Colombia,La llave del convento,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,3.5,384-387
+Alpha,726,"Ory y Sevilla, Eduardo de",Creador,NA,España,A un triste,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Poesía,NA,"Ivanovitch, Dmitri",NA,1,388
+Alpha,727,"Faguet, Émile",Creador,NA,Francia,Despedida de Héctor y Dean en la Iliada,Año VII. Número 81-82,noviembre de 1912,1912-11-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,8.5,389-397
+Alpha,728,Anónimo,Creador,NA,NA,Por la vida abajo,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,Por la vida abajo de Jorge Mateus,0.3,398
+Alpha,729,Anónimo,Creador,NA,NA,Lacas y dorados,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,"Lacas y dorados de Noah H., Gans",0.2,398
+Alpha,730,Anónimo,Creador,Alpha,NA,Memorandum de bolsillo,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,Memorandum de bolsillo de Antonio J. Duque,0.5,398
+Alpha,731,Anónimo,Creador,NA,NA,Las siegas,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,Las siegas de Santiago restrepo,0.2,399
+Alpha,732,"Henao, Januario",Creador,NA,Colombia,M.A. Caro y su obra,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Prosa No Ficción,De libros,NA,M.A. Caro y su obra de Alfonso Robledo,0.8,399
+Alpha,733,M. S.,Creador,NA,NA,Bibliografía,Año VII. Número 81-82,noviembre de 1912,1912-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,400
+Alpha,734,"Betancourt, Pedro Pablo",Creador,NA,Colombia,Informe sobre el Instituto de Bellas artes,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,10,401-410
+Alpha,735,"Ramón y Cajal, Santiago",Creador,S. Ramón y Cajal,España,Preocupaciones principales. Devoción y administración a la obra de los grandes investigadores,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,15.4,411-425
+Alpha,736,"Palacio, Eduardo A.",Creador,Eduardo A. Palacio,Colombia,Se apagaba tu voz,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,426
+Alpha,737,"Faguet, Émile",Creador,NA,Francia,Víctor Hugo. El Sembrado,Año VII. Número 83-84,diciembre de 1912,1912-12-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,5,427-433
+Alpha,738,"Hugo, Victor",Creador,NA,Francia,La Semeur,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Francés,Francés,Poesía,Poesía,NA,NA,0.8,427
+Alpha,739,"Hugo, Victor",Creador,NA,Francia,El sembrador,Año VII. Número 83-84,diciembre de 1912,1912-12-01,Sí,"Cano, Antonio José",Español,Francés,Poesía,Poesía,NA,NA,0.5,428
+Alpha,740,"Vélez Barrientos, Lucrecio",Creador,Gaspar Chaverra,Colombia,El santo,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,4.3,434-438
+Alpha,741,"Junqueiro, Guerra",Creador,NA,Portugal,Los pordioseros,Año VII. Número 83-84,diciembre de 1912,1912-12-01,Sí,"Marquina, Eduardo",Español,Portugués,Poesía,Poesía,NA,NA,2,439-440
+Alpha,742,"Louÿs, Pierre",Creador,NA,Francia,Diálogo a la puesta del sol,Año VII. Número 83-84,diciembre de 1912,1912-12-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,5,441-445
+Alpha,743,"Sanín Cano, Baldomero",Creador,B. Sanín Cano,Colombia,Guillermo Valencia,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,9.3,446-455
+Alpha,744,"Lugones, Leopoldo",Creador,NA,Argentina,Endecha,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,4,456-459
+Alpha,745,"Márquez Bravo, Tomás",Creador,Tomás Marquez,Colombia,Juan de Dios Uribe,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Prosa No Ficción,comentario crítico,NA,NA,4,460-463
+Alpha,746,"Otero d’Costa, Enrique",Creador,NA,Colombia,El patio de brujas. Cuento popular. Primer premio de la Academia Colombiana,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,6.5,464-470
+Alpha,747,"Velásquez García, José",Creador,Julio Vives Guerra,Colombia,Había un labrador…,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Poesía,Poesía,"Posada Pérez, Clara",NA,1.5,471-472
+Alpha,748,"Castro, Alfonso",Creador,Máximo Bretal,Colombia,Ánima expuesta,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,1.5,473-474
+Alpha,749,"Duque, Antonio de J.",Creador,A. De J. Duque,Colombia,Escuela de vacaciones,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Prosa No Ficción,Notas,Ministerio de I.P.,NA,3,474-477
+Alpha,750,"Gómez de Baquero, Eduardo",Creador,E.Gómez de Baquero,España,Vidas intensas,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,1.5,477-478
+Alpha,751,Anónimo,Creador,NA,NA,Índice del año septimo,Año VII. Número 83-84,diciembre de 1912,1912-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.5,NA
+Alpha,752,"Valle-Inclán, Ramón del",Creador,NA,España,Mi bisabuelo,Año VIII. Número 86,abril de 1915,1915-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,5.3,41-46
+Alpha,753,"López, Luis Carlos",Creador,"Luis C., López",Colombia,En la ventana,Año VIII. Número 86,abril de 1915,1915-04-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,47
+Alpha,754,"Gómez, Javier Alfonso",Creador,Alfonso Javier Gómez,NA,El poder de los humildes,Año VIII. Número 86,abril de 1915,1915-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,7,48-54
+Alpha,755,"Blanco Fombona, Rufino",Creador,R. Blanco Fombona,Venezuela,Julio Herrera Reissig,Año VIII. Número 86,abril de 1915,1915-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,19.5,55-74
+Alpha,756,"Herrera y Reissig, Julio",Creador,NA,Uruguay,Los peregrinos de piedra. Sepelio,Año VIII. Número 86,abril de 1915,1915-04-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.7,75
+Alpha,757,"Herrera y Reissig, Julio",Creador,NA,Uruguay,Los peregrinos de piedra. Expiación,Año VIII. Número 86,abril de 1915,1915-04-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.5,75-76
+Alpha,758,"Herrera y Reissig, Julio",Creador,NA,Uruguay,Los peregrinos de piedra. La reconciliación,Año VIII. Número 86,abril de 1915,1915-04-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.7,76
+Alpha,759,Anónimo,Creador,NA,NA,Hombres y cosas. Fuente de sangre,Año VIII. Número 86,abril de 1915,1915-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,77
+Alpha,760,Anónimo,Creador,NA,NA,Inmovilidad administrativa: la teoría,Año VIII. Número 86,abril de 1915,1915-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,78-79
+Alpha,761,Anónimo,Creador,NA,NA,"""Revista Moderna""",Año VIII. Número 86,abril de 1915,1915-04-01,No,NA,Español,NA,Reseña de revista,NA,NA,Revista Moderna,0.2,80
+Alpha,762,Anónimo,Creador,NA,NA,Concurso,Año VIII. Número 86,abril de 1915,1915-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,80
+Alpha,763,Anónimo,Anunciante,NA,NA,NA,Año VIII. Número 86,abril de 1915,1915-04-01,No,NA,Español,NA,Publicidad,NA,NA,NA,29,NA

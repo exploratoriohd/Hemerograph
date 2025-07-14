@@ -1,0 +1,398 @@
+NombreR,NumContrib,Colaborador,Roles,Seudonimo,PaisOrigen,Titulo,NumFasciculo,Fecha,Fecha-ISO,Traduccion,Traductor,Lengua,LenguaOriginal,Tipo,TipoIndice,Dedicatoria,ObrasResenadas,CantidadPaginas,Paginacion
+Cvltura. Revista mensual,1,"López de Mesa, Luis",Director,NA,Colombia,PROBLEMAS METAFISICOS,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,19,1-20
+Cvltura. Revista mensual,2,"Gómez Restrepo, Antonio",Creador,NA,Colombia,EN EL PALACIO LEOPARDI,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,21
+Cvltura. Revista mensual,3,"Pérez-Galdós, Benito",Creador,NA,España,MONÓLOGO DE PULIDO EL MENDIGO,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,22
+Cvltura. Revista mensual,4,"Hawthorne, Nathaniel",Creador,NA,Estados Unidos,EL VELLOCINO DE ORO,1,"FEBRERO, MCMXV",1915-02-01,Sí,"Coradine, Alberto",Español,Inglés,Prosa Ficción,NA,NA,NA,04.5,23-27
+Cvltura. Revista mensual,5,"Escobar Larrazábal, Melitón",Editor,"Escobar Larrazábal, M.",Colombia,LA TOPOGRAFIA DE LAS FRONTERAS. Ensayo sobre los elementos para una inteligencia en materia de limites,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,Ensayo,NA,NA,15.5,27-42
+Cvltura. Revista mensual,6,Anónimo,Creador,NA,NA,LAS DOS LOGICAS,1,"FEBRERO, MCMXV",1915-02-01,Sí,"Coradine, Alberto",Español,NA,Prosa No Ficción,NA,NA,NA,03.2,43-46
+Cvltura. Revista mensual,7,"Rivas, Raimundo",Editor,NA,Colombia,MEMORANDUM SOBRE LAS RELACIONES ENTRE COLOMBIA Y LA SANTA SEDE (Desde 1810),1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,18.8,46-64
+Cvltura. Revista mensual,8,"Lemaître, Jules",Creador,NA,Francia,ANNA SOROR,1,"FEBRERO, MCMXV",1915-02-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,7,65-71
+Cvltura. Revista mensual,9a,"Nieto Caballero, Agustín",Editor,NA,Colombia,CULTURA,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,72
+Cvltura. Revista mensual,9b,"Aparicio, Alberto",Editor,NA,Colombia,CULTURA,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,72
+Cvltura. Revista mensual,9c,"Coradine, Alberto",Editor,NA,Colombia,CULTURA,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,72
+Cvltura. Revista mensual,9d,"Paláu, Alfonso",Editor,NA,Colombia,CULTURA,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,72
+Cvltura. Revista mensual,9e,"Molina Garcés, Ciro",Editor,NA,Colombia,CULTURA,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,72
+Cvltura. Revista mensual,9f,"López de Mesa, Luis",Director,NA,Colombia,CULTURA,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,72
+Cvltura. Revista mensual,9g,"Carvajal, Manuel Antonio",Editor,NA,Colombia,CULTURA,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,72
+Cvltura. Revista mensual,9h,"Escobar Larrazábal, Melitón",Editor,NA,Colombia,CULTURA,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,72
+Cvltura. Revista mensual,9i,"Valencia, Miguel Santiago",Editor,NA,Colombia,CULTURA,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,72
+Cvltura. Revista mensual,9j,"Rivas, Raimundo",Editor,NA,Colombia,CULTURA,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,72
+Cvltura. Revista mensual,9k,"Rueda Vargas, Tomás",Editor,NA,Colombia,CULTURA,1,"FEBRERO, MCMXV",1915-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,72
+Cvltura. Revista mensual,10,"López de Mesa, Luis",Director,NA,Colombia,REFORMA PARLAMENTARIA,2,"MARZO, MCMXV",1915-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,73-74
+Cvltura. Revista mensual,11,Anónimo,Creador,NA,NA,LA VOLUNTAD DE VIVIR,2,"MARZO, MCMXV",1915-03-01,Sí,"Coradine, Alberto",Español,NA,Prosa No Ficción,NA,NA,NA,8,75- 82
+Cvltura. Revista mensual,12,"Castillo, Eduardo",Creador,"Castillo, E.",Colombia,ENCANTAMIENTO,2,"MARZO, MCMXV",1915-03-01,No,NA,Español,NA,Poesía,NA,"López de Mesa, Luis",NA,0.5,83
+Cvltura. Revista mensual,13,"D'Annunzio, Gabriele",Creador,NA,Italia,A LA JUVENTUD,2,"MARZO, MCMXV",1915-03-01,Sí,"Castillo, Eduardo",Español,Italiano,Poesía,NA,"Restrepo Rivera, José",NA,0.5,83
+Cvltura. Revista mensual,14,"Pardo Farelo, Enrique",Creador,"Tablanca, Luis",Colombia,DOBLE QUEBRANTO,2,"MARZO, MCMXV",1915-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,03.6,84-87
+Cvltura. Revista mensual,15,"Nieto Caballero, Agustín",Editor,NA,Colombia,EDUCACION DEL ESPIRITU,2,"MARZO, MCMXV",1915-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8,88-95
+Cvltura. Revista mensual,16,"Escobar Larrazábal, Melitón",Editor," M., Escobar Larrazábal",Colombia,LAS BASES DEL DERECHO TERRITORIAL,2,"MARZO, MCMXV",1915-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,21,96-116
+Cvltura. Revista mensual,17,"D'Ors, Eugenio",Creador,NA,España,PALACIO DE LOCO,2,"MARZO, MCMXV",1915-03-01,No,NA,Español,NA,Prosa Ficción,NA,"Massó y Torrents, Jaime",NA,03.5,117-120
+Cvltura. Revista mensual,18,"Asbjørnsen, Peter Christen",Creador,NA,Noruega,LOS HOMBRES NECIOS Y LAS MALAS COMADRES,2,"MARZO, MCMXV",1915-03-01,Sí,Anónimo,Español,Noruego,Prosa Ficción,NA,NA,NA,02.6,121-123
+Cvltura. Revista mensual,19,"Carvajal, Manuel Antonio",Editor,"Carvajal, M.A.",Colombia,EL MODERNISMO LITERARIO EN LA AMERICA LATINA,2,"MARZO, MCMXV",1915-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,12,124-135
+Cvltura. Revista mensual,20,"López de Mesa, Luis",Director,López de Mesa,Colombia,LO TRASCENDENTE,2,"MARZO, MCMXV",1915-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8,136-143
+Cvltura. Revista mensual,21,"Rivas, Raimundo",Editor,NA,Colombia,MEMORANDUM SOBRE LAS RELACIONES ENTRE COLOMBIA Y LA SANTA SEDE (Desde 1810),2,"MARZO, MCMXV",1915-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,144-146
+Cvltura. Revista mensual,22,"López de Mesa, Luis",Director,NA,Colombia,AL MARGEN,2,"MARZO, MCMXV",1915-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,147
+Cvltura. Revista mensual,23,"Paláu, Alfonso",Editor,NA,Colombia,LA CRISIS FISCAL Y LOS IMPUESTOS DE CONSUMO,3,"ABRIL, MCMXV",1915-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,149-151
+Cvltura. Revista mensual,24,"Rivas, Raimundo",Editor,NA,Colombia,CONSIDERACIONES SOBRE LA HISTORIA NACIONAL,3,"ABRIL, MCMXV",1915-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,10.5,152-162
+Cvltura. Revista mensual,25,Anónimo,Creador,NA,NA,LA VISION DE LAS RIQUEZAS,3,"ABRIL, MCMXV",1915-04-01,Sí,"Coradine, Alberto",Español,NA,Prosa No Ficción,Ensayo,NA,NA,06.5,163-169
+Cvltura. Revista mensual,26,"Mateus, Jorge",Creador,NA,NA,"EL REY INDIO, MI ABUELO",3,"ABRIL, MCMXV",1915-04-01,No,NA,Español,NA,Poesía,Poesía,"Coradine, Alberto",NA,2,170-171
+Cvltura. Revista mensual,27,Teócrito,Creador,NA,Grecia,LAS SIRACUSANAS (UNA FIESTA DE ADONIS),3,"ABRIL, MCMXV",1915-04-01,Sí,Anónimo,Español,Griego,Teatro,Teatro,NA,NA,4,172-175
+Cvltura. Revista mensual,28,"Prévost, Marcel",Creador,NA,Francia,El ''KRACH'' DE LA BELLEZA,3,"ABRIL, MCMXV",1915-04-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,4.5,176-180
+Cvltura. Revista mensual,29,"López de Mesa, Luis",Director,López de Mesa,Colombia,EVOLUCION DEL PENSAMIENTO ONTOLÓGICO,3,"ABRIL, MCMXV",1915-04-01,No,NA,Español,NA,Prosa No Ficción,Ensayo,NA,NA,13,181-193
+Cvltura. Revista mensual,30,"Garavito Armero, Julio",Creador,"Garavito A., Julio",Colombia,LA CUESTION ECONOMICO-SOCIAL,3,"ABRIL, MCMXV",1915-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,9,194-202
+Cvltura. Revista mensual,31,Anónimo,Creador,NA,NA,AL MARGEN. REVISTA POLÍTICA,3,"ABRIL, MCMXV",1915-04-01,Sí,"Coradine, Alberto",Español,NA,Prosa No Ficción,NA,NA,NA,5,203-207
+Cvltura. Revista mensual,32,"Escobar Larrazábal, Melitón",Editor,E. M. L.,NA,AL MARGEN. LA FORMULA DEL TALENTO,3,"ABRIL, MCMXV",1915-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.6,208-210
+Cvltura. Revista mensual,33,"Rivas, Raimundo",Editor,R.R,Colombia,UNA CARTA DEL GENERAL SANTANDER,3,"ABRIL, MCMXV",1915-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4,210-214
+Cvltura. Revista mensual,34,"López de Mesa, Luis",Director,NA,Colombia,REFORMA MILITAR,4,MAYO MCMXV,1915-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,215-219
+Cvltura. Revista mensual,35,"Escobar Larrazábal, Melitón",Editor,M. E. L.,Colombia,LA CARTOGRAFIA Y EL PROTOCOLO,4,MAYO MCMXV,1915-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,14.6,220-234
+Cvltura. Revista mensual,36,"Caro, Luis Alejandro",Creador,NA,NA,A APOLO,4,MAYO MCMXV,1915-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,235-236
+Cvltura. Revista mensual,37,"López de Mesa, Luis",Director,Onorato Desiderio,Colombia,MIRIAM,4,MAYO MCMXV,1915-05-01,No,NA,Español,NA,Poesía,Exégisis lírica,NA,NA,3.5,237-240
+Cvltura. Revista mensual,38,"Triana, Miguel",Creador,NA,Colombia,LA BARRA DEL RIO MAGDALENA,4,MAYO MCMXV,1915-05-01,No,NA,Español,NA,Prosa No Ficción,Capítulo de libro,NA,NA,13.5,241-253
+Cvltura. Revista mensual,39,"López de Mesa, Luis",Director,López de Mesa,Colombia,LA MUJER ES LA ARMONIA DEL HOMBRE,4,MAYO MCMXV,1915-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,08.2,254-262
+Cvltura. Revista mensual,40,"López de Mesa, Luis",Director,López de Mesa,Colombia,DE LA POLÍTICA,4,MAYO MCMXV,1915-05-01,No,NA,Español,NA,Prosa No Ficción,Al margen,NA,NA,3,263-265
+Cvltura. Revista mensual,41,"Paláu, Alfonso",Editor,A. P.,Colombia,DE LA ELECCIÓN DE SENADORES,4,MAYO MCMXV,1915-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.4,266-269
+Cvltura. Revista mensual,42,"Nieto Caballero, Agustín",Creador,A. N. C.,Colombia,DE LA MUERTE DE FRANCISCO GINER,4,MAYO MCMXV,1915-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.4,269-270
+Cvltura. Revista mensual,43,"Escobar Larrazábal, Melitón",Editor,M. E. L.,Colombia,ESTADÍSTICA POPULAR,4,MAYO MCMXV,1915-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,05.1,271-276
+Cvltura. Revista mensual,44,El Tiempo,Creador,NA,NA,DE LA REFORMA PARLAMENTARIA,4,MAYO MCMXV,1915-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.4,276-277
+Cvltura. Revista mensual,45,La Linterna,Creador,NA,NA,Cvltura número 2.º,4,MAYO MCMXV,1915-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.4,277-278
+Cvltura. Revista mensual,46,"López de Mesa, Luis",Director,NA,Colombia,REFORMA DE LA EDUCACIÓN NACIONAL,5,JUNIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,14,279-292
+Cvltura. Revista mensual,47,"Sánchez, Alberto",Creador,El Doctor Mirabel,Colombia,CARTA PARA OTRO,5,JUNIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa Ficción,NA,"Celia, María",NA,4,293-296
+Cvltura. Revista mensual,48,"Márquez Bravo, Tomás",Creador,NA,Colombia,LA VIDA NUEVA,5,JUNIO MCMXV,1915-06-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,02.8,297-298
+Cvltura. Revista mensual,49,"Escobar Larrazábal, Melitón",Editor,"Escobar Larrazábal, M.",Colombia,SOLUCIONES ARBITRALES,5,JUNIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,21,299-319
+Cvltura. Revista mensual,50,"Posada, Eduardo",Creador,NA,Colombia,Reforma administrativa,5,JUNIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,320-324
+Cvltura. Revista mensual,51,"López de Mesa, Luis",Director,López de Mesa,Colombia,EL EVOLUCIONISMO,5,JUNIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,Ensayo,NA,NA,15,325-339
+Cvltura. Revista mensual,52,"Nieto Caballero, Agustín",Editor,NA,Colombia,LA ESCUELA NORMAL DE INSTITUTORES,5,JUNIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8,340-347
+Cvltura. Revista mensual,53,"Escobar Larrazábal, Melitón",Editor,M. E. L.,Colombia,Bibliografía,5,JUNIO MCMXV,1915-06-01,No,NA,Español,NA,Reseña de revista,Al margen,NA,"Boletín de Estadística (segunda época, Medellín)",1.5,348-349
+Cvltura. Revista mensual,54,"Escobar Larrazábal, Melitón",Editor,M. E. L.,Colombia,Bibliografía,5,JUNIO MCMXV,1915-06-01,No,NA,Español,NA,Reseña de revista,Al margen,NA,Boletín de la Soceidad Antioqueña de Ingenieros,0.3,349
+Cvltura. Revista mensual,55,"Escobar Larrazábal, Melitón",Editor,M. E. L.,Colombia,Bibliografía,5,JUNIO MCMXV,1915-06-01,No,NA,Español,NA,Reseña de revista,Al margen,NA,Revista Moderna (Enciclopedia colombiana),4.5,349-54
+Cvltura. Revista mensual,56,"López de Mesa, Luis",Director,NA,Colombia,DE LA POLÍTICA,5,JUNIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,354
+Cvltura. Revista mensual,57,"López de Mesa, Luis",Director,NA,Colombia,El estricto necesario,5,JUNIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4,355-358
+Cvltura. Revista mensual,58,"Paláu, Alfonso",Editor,NA,Colombia,EL SISTEMA TRIBUTARIO NACIONAL,6,JULIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,08.6,359- 368
+Cvltura. Revista mensual,59,"Caro, Miguel Antonio",Creador,"Caro, M.A",Colombia,LA ESPINA,6,JULIO MCMXV,1915-06-01,No,NA,Español,NA,Poesía,Poesía,"Villaveces, José María",NA,01.4,369-370
+Cvltura. Revista mensual,60,"Nieto Caballero, Agustín",Editor,"Nieto Caballero, A.",Colombia,LA CARTUJA DE MIRAFLORES,6,JULIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,04.6,371-375
+Cvltura. Revista mensual,61,"Jiménez López, Miguel",Creador,NA,Colombia,LO INCONSCIENTE EN LA EDUCACIÓN,6,JULIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,12,376-387
+Cvltura. Revista mensual,62,"Rivas, Raimundo",Editor,NA,Colombia,AL MARGEN DE UNA BIOGRAFIA,6,JULIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,Don Mariano Ospina y su época de Estanislao Gómez Barrientos.,22.4,388-410
+Cvltura. Revista mensual,63,"Escobar Larrazábal, Melitón",Editor,"Escobar Larrazábal, M.",Colombia,META DIPLOMATICA,6,JULIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7,411-417
+Cvltura. Revista mensual,64,"López de Mesa, Luis",Director,López de Mesa,Colombia,NUEVA TEORIA FILOSOFICA,6,JULIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,Ensayo,NA,NA,14.4,418-432
+Cvltura. Revista mensual,65,"López de Mesa, Luis",Director,NA,Colombia,El REINO DE LA UTOPIA,6,JULIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.6,433-434
+Cvltura. Revista mensual,66,"López de Mesa, Luis",Creador,NA,Colombia,LO QUE DIGAN,6,JULIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.4,434-436
+Cvltura. Revista mensual,67,Anónimo,Director,NA,NA,Índice,6,JULIO MCMXV,1915-06-01,No,NA,Español,NA,Prosa No Ficción,Índice,NA,NA,2,NA
+Cvltura. Revista mensual,68a,"Urrutia, Francisco José",Creador,NA,Colombia,UN LIBRO DE HISTORIA,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,Relaciones Internacionales entre Colombia y Estados Unidos de Raimundo Rivas,15,1-15
+Cvltura. Revista mensual,68b,"Gómez Restrepo, Antonio",Creador,NA,Colombia,UN LIBRO DE HISTORIA,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,Relaciones Internacionales entre Colombia y Estados Unidos de Raimundo Rivas,15,1-15
+Cvltura. Revista mensual,69,"Garcés, Enrique",Creador,NA,Ecuador,APUNTES SOBRE COLONIZACION AMAZONICA,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,17,16-32
+Cvltura. Revista mensual,70,"Pardo Farelo, Enrique",Creador,"Tablanca, Luis",Colombia,EL NIÑO QUE SUFRIA….,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,5,33-37
+Cvltura. Revista mensual,71,"Mesa Nicholls, Alejandro",Creador,NA,Colombia,TORMENTA,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,38
+Cvltura. Revista mensual,72,"Mesa Nicholls, Alejandro",Creador,NA,Colombia,PRIMAVERA,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,38
+Cvltura. Revista mensual,73,"Santos, Gustavo",Creador,NA,NA,EN LA EXPOSICIÓN DE PINTURA,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8,39-46
+Cvltura. Revista mensual,74,"Posada, E.",Creador,NA,NA,MODERNOS ESTUDIOS SOBRE COLÓN,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8,47-54
+Cvltura. Revista mensual,75,"Céspedes, Ángel María",Creador,NA,Colombia,FATALIDAD,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,55
+Cvltura. Revista mensual,76,"Castro, Alfonso",Creador,NA,Colombia,MELIORISMO,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,06.2,55-61
+Cvltura. Revista mensual,77,"Posada, Adolfo",Creador,NA,España,LAS CAUSAS DEL RENACIMIENTO DE LAS CIUDADES,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Prosa No Ficción,Capítulo de libro,NA,El régimen municipal de la Edad Moderna de Adolfo Posada,6,62-67
+Cvltura. Revista mensual,78,"López de Mesa, Luis",Director,López de Mesa,Colombia,ACCION SOCIAL,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,09.2,68-77
+Cvltura. Revista mensual,79,Anónimo,Reseñista,NA,NA,RELACIONES INTERNACIONALES,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Reseña,NA,NA,Relaciones Internacionales entre Colombia y Estados Unidos de Raimundo Rivas,1.3,77-78
+Cvltura. Revista mensual,80,Anónimo,Creador,NA,NA,DEONTOLOGÍA SOCIAL,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.5,78-79
+Cvltura. Revista mensual,81,Anónimo,Creador,NA,NA,DE LA EDUCACIÓN HIGIENISTA,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,80
+Cvltura. Revista mensual,82,Anónimo,Anunciante,NA,NA,Joyería de Domingo García – Daniel Bohórquez Gran Tapicería Parisiense – Almacén del día – Almacenes de Agustín Nieto & Cía.,7,"SEPTIEMBRE, MCMXV",1915-09-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Cvltura. Revista mensual,83,"Cuervo, Luis Augusto",Creador,NA,Colombia,LA MONARQUIA EN COLOMBIA,8,"OCTUBRE, MCMXV",1915-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11.6,81-92
+Cvltura. Revista mensual,84,"Torres Umaña, Calixto",Creador,NA,Colombia,CIENCIA ESTERIL,8,"OCTUBRE, MCMXV",1915-10-01,No,NA,Español,NA,Prosa Ficción,Cuento,"Vargas Tamayo, Roberto",NA,4,93-96
+Cvltura. Revista mensual,85,"Castro, Eugenio de",Creador,NA,Portugal,MUCHOS AÑOS DESPUÉS,8,"OCTUBRE, MCMXV",1915-10-01,Sí,"Carvajal, Manuel Antonio",Español,Portugués,Poesía,NA,NA,NA,0.6,97
+Cvltura. Revista mensual,86,"Castro, Alfonso",Creador,NA,Colombia,MELIORISMO,8,"OCTUBRE, MCMXV",1915-10-01,No,NA,Español,NA,Prosa No Ficción,Ensayo,NA,NA,17,97-114
+Cvltura. Revista mensual,87,"Posada, Adolfo",Creador,NA,España,LAS CAUSAS DEL RENACIMIENTO,8,"OCTUBRE, MCMXV",1915-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,10,115-124
+Cvltura. Revista mensual,88,"García Zamudio, Nicolás",Creador,NA,NA,NUEVOS APUNTES SOBRE CALDAS,8,"OCTUBRE, MCMXV",1915-10-01,No,NA,Español,NA,Prosa No Ficción,NA,"Carrasquilla, Rafael María",NA,14.4,125-139
+Cvltura. Revista mensual,89,"Uribe Arango, Marcelino",Creador,NA,Colombia,LA PROPIEDAD- LA HERENCIA. (Estudio ecónómico-jurídico),8,"OCTUBRE, MCMXV",1915-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,05.6,140-145
+Cvltura. Revista mensual,90,"Vila, Pablo",Creador,NA,España,ALGUNAS CONSIDERACIONES SOBRE EL HABITO Y EL INSTINTO,8,"OCTUBRE, MCMXV",1915-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,04.6,146-150
+Cvltura. Revista mensual,91,"López de Mesa, Luis",Director,NA,Colombia,CARTA- REPLICA,8,"OCTUBRE, MCMXV",1915-10-01,No,NA,Español,NA,Prosa No Ficción,Carta,"Escallón, José Tomás",NA,7,151-157
+Cvltura. Revista mensual,92,"Maeterlinck, Maurice",Creador,NA,Bélgica,LA JUSTICIA,8,"OCTUBRE, MCMXV",1915-10-01,Sí,"Carvajal, Manuel Antonio",Español,Francés,Prosa No Ficción,NA,NA,NA,02.5,158-160
+Cvltura. Revista mensual,93,"Sánchez, Alberto",Creador,NA,Colombia,DE LA VIDA INEFABLE,9,"NOVIEMBRE, MCMXV",1915-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,03.3,161-164
+Cvltura. Revista mensual,94,"Mesa Nicholls, Alejandro",Creador,NA,Colombia,YO QUISIERA…,9,"NOVIEMBRE, MCMXV",1915-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,165-166
+Cvltura. Revista mensual,95,"Garcés, Enrique",Creador,NA,Ecuador,APUNTES SOBRE COLONIZACION AMAZONICA,9,"NOVIEMBRE, MCMXV",1915-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,12.5,167-179
+Cvltura. Revista mensual,96,"Santos, Gustavo",Creador,NA,NA,CONFERENCIA SOBRE EL ESTUDIO DEL ARTE MUSICAL,9,"NOVIEMBRE, MCMXV",1915-11-01,No,NA,Español,NA,Prosa No Ficción,CONFERENCIA,NA,NA,9.8,179-189
+Cvltura. Revista mensual,97,"Rivas, Raimundo",Editor,NA,Colombia,LA FAMILIA DE ZEA,9,"NOVIEMBRE, MCMXV",1915-11-01,No,NA,Español,NA,Prosa No Ficción,NA,"Arango Mejía, Gabriel",NA,11.3,189-200
+Cvltura. Revista mensual,98,"Nieto Caballero, Luis Eduardo",Creador,"Nieto Caballero, L. E.",Colombia,REMY DE GOURMONT,9,"NOVIEMBRE, MCMXV",1915-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,200- 206
+Cvltura. Revista mensual,99,"Márquez Bravo, Tomás",Creador,"Márquez, Tomás",Colombia,DEL GOBIERNO PRESIDENCIAL Y DEL PARLAMENTARISMO,9,"NOVIEMBRE, MCMXV",1915-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5.5,206- 210
+Cvltura. Revista mensual,100,"Lozano y Lozano, Fabio",Creador,NA,NA,EL MAESTRO DEL LIBERTADOR,9,"NOVIEMBRE, MCMXV",1915-11-01,No,NA,Español,NA,Prosa No Ficción,Capítulo de libro,NA,"El maestro del Libertador, Fabio Lozano y Lozano",09.3,211-220
+Cvltura. Revista mensual,101,"Torres Pinzón, Carlos Arturo",Creador,Calixto Torrres,Colombia,ENSUEÑOS,9,"NOVIEMBRE, MCMXV",1915-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,02.7,220-222
+Cvltura. Revista mensual,102,"López de Mesa, Luis",Director,López de Mesa,Colombia,LABOR NACIONAL,9,"NOVIEMBRE, MCMXV",1915-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,07.2,223- 230
+Cvltura. Revista mensual,103,"López de Mesa, Luis",Director,López de Mesa,Colombia,APÓLOGO,9,"NOVIEMBRE, MCMXV",1915-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.8,230-232
+Cvltura. Revista mensual,104,Anónimo,Anunciante,NA,NA,Joyería de Domingo García – Daniel Bohórquez Gran Tapicería Parisiense – Almacén del día – Almacenes de Agustín Nieto & Cía.,9,"NOVIEMBRE, MCMXV",1915-11-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Cvltura. Revista mensual,105,"López de Mesa, Luis",Director,López de Mesa,Colombia,EL PROBLEMA DEL ALCOHOLISMO Y SU POSIBLE SOLUCIÓN,10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,32,233-264
+Cvltura. Revista mensual,106,"Castillo, Eduardo",Creador,NA,Colombia,CANAAN,10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,265
+Cvltura. Revista mensual,107,"Castillo, Eduardo",Creador,NA,Colombia,LA ULTIMA PAGINA,10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,265
+Cvltura. Revista mensual,108,"Sánchez, Alberto",Creador,NA,Colombia,IMPRESIÓN FUGAZ,10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,266-267
+Cvltura. Revista mensual,109,"Ortega, Alfredo Tomás",Creador,"Ortega, Alfredo",Colombia,UNA EXCURSIÓN A VILLAVICENCIO,10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,09.2,268- 277
+Cvltura. Revista mensual,110,"Grillo, Maximiliano",Creador,"Grillo, Max",Colombia,LABOR CIENTÍFICA NACIONAL,10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Prosa No Ficción,NA,Señores Directores de Cultura,NA,05.5,277- 282
+Cvltura. Revista mensual,111,"Gómez Naranjo, Abelardo",Creador,NA,NA,LOS HERMANOS CIPRESES,10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,283
+Cvltura. Revista mensual,112,"Gómez Naranjo, Abelardo",Creador,NA,NA,"ROSARIO, LA ZAGALA",10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,283
+Cvltura. Revista mensual,113,"Pérez, Enrique",Creador,NA,Colombia,LA REFORMA SOCIAL EN COLOMBIA,10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Prosa No Ficción,NA,"López de Mesa, Luis.  Lino de Pombo, Fallon, Luis Tomás. Posada, Eduardo. Santos Eduardo. Peréz, José Joaquín. Carreño, Pedro M. Márquez Tomás, Nieto Caballero, Agustín. Nieto Caballero, Luis. Cano, Luis. Montoya, José M. Guerra, José Joaquín. Peña, Manuel V. Robledo, Alfonso. Villegas, Aquilino. Casabianca, Abel. Cuervo Márquez, Emilio. Garcia Vásquez, Demetrio. Manrique Terán, Guillermo. L.M. Briceño, Vela. Abello Salcedo, Rafael. Solano, Armando. Mallarino, Manuel María. Manrique, Arturo. Paz. Felipe S. Baberbi José Ignacio. Martínez Delgado, Luis.",NA,10,284- 293
+Cvltura. Revista mensual,114,"Gómez Jaime de Abadía, Herminia",Creador,"G. J. de Abadía, Herminia",Colombia,ALMA CONQUISTADORA,10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Prosa Ficción,Leyenda histórica,NA,NA,09.4,294- 303
+Cvltura. Revista mensual,115,"López de Mesa, Luis",Director,López de Mesa,Colombia,PREPARACIÓN DEL FUTURO,10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7,304- 310
+Cvltura. Revista mensual,116,Anónimo,Director,NA,NA,NOTA,10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Prosa No Ficción,Nota,NA,NA,0.2,310
+Cvltura. Revista mensual,117,Anónimo,Anunciante,NA,NA,Joyería de Domingo García – Daniel Bohórquez Gran Tapicería Parisiense – Almacén del día – Almacenes de Agustín Nieto & Cía.,10,"DICIEMBRE, MCMXV",1915-12-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,2,NA
+Cvltura. Revista mensual,118,"Rivas, Raimundo",Editor,NA,Colombia,LA ESTATUA DEL DOCTOR NUÑEZ,11,"ENERO, MCMXVI",1916-01-01,No,NA,Español,NA,Prosa No Ficción,NA,"Santos, Eduardo",NA,53.2,311-363
+Cvltura. Revista mensual,119,"Montoya Canal, Aníbal",Creador,NA,NA,SÍMBOLOS,11,"ENERO, MCMXVI",1916-01-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,01.6,363-364
+Cvltura. Revista mensual,120,Anónimo,Creador,***,NA,¿SUEÑO DE OPIO O HECHICERIA?,11,"ENERO, MCMXVI",1916-01-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,15,365-379
+Cvltura. Revista mensual,121,"Nieto Caballero, Agustín",Editor,"Nieto C., Agustín",Colombia,EN EL PATIO DE LA MEZQUITA DE CÓRDOBA,11,"ENERO, MCMXVI",1916-01-01,No,NA,Español,NA,Poesía,Poema en prosa,NA,NA,03.7,380-384
+Cvltura. Revista mensual,122,Anónimo,Anunciante,NA,NA,Joyería de Domingo García – Daniel Bohórquez Gran Tapicería Parisiense – Empresa Nacional de Curtidos – “Margaritas”. Revista semanal ilustrada. - Almacenes de Agustín Nieto & Cía.,11,"ENERO, MCMXVI",1916-01-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,2,NA
+Cvltura. Revista mensual,123,"Coradine, Alberto",Editor,NA,NA,SUPREMO IDEAL,12,"FEBRERO, MCMXVI",1916-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5.5,385-390
+Cvltura. Revista mensual,124,"López de Mesa, Luis",Director,La Dirección,NA,IDEALES,12,"FEBRERO, MCMXVI",1916-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,390-394
+Cvltura. Revista mensual,125,"Gómez Restrepo, Antonio",Creador,"Gómez Restrepo, Antonio",Colombia,ANOTACIONES,12,"FEBRERO, MCMXVI",1916-02-01,No,NA,Español,NA,Prosa No Ficción,Comentario crítico,NA,NA,13,395-407
+Cvltura. Revista mensual,126,"Guzmán Esponda, Eduardo",Creador,NA,Colombia,DE LA COMEDIA NACIONAL,12,"FEBRERO, MCMXVI",1916-02-01,No,NA,Español,NA,Prosa No Ficción,Comentario crítico,NA,NA,8,408-415
+Cvltura. Revista mensual,127,"Santos, Gustavo",Creador,NA,Colombia,DE LA PINTURA EN COLOMBIA,12,"FEBRERO, MCMXVI",1916-02-01,No,NA,Español,NA,Prosa No Ficción,Comentario crítico,NA,NA,18,416-433
+Cvltura. Revista mensual,128,"Rosales, Carlos N.",Creador,NA,NA,HABEAS CORPUS Y RESPONSABILIDAD PRESIDENCIAL,12,"FEBRERO, MCMXVI",1916-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,08.5,434-442
+Cvltura. Revista mensual,129,"López de Mesa, Luis",Director,López de Mesa,Colombia,IDEALES DE LA VIDA,12,"FEBRERO, MCMXVI",1916-02-01,No,NA,Español,NA,Prosa No Ficción,Ensayo,A mis compañeros de redacción,NA,14.5,442-456
+Cvltura. Revista mensual,130,Anónimo,Anunciante,NA,NA,Joyería de Domingo García – Daniel Bohórquez Gran Tapicería Parisiense – Empresa Nacional de Curtidos –  Almacenes de Agustín Nieto & Cía.,12,"FEBRERO, MCMXVI",1916-02-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,2,NA
+Cvltura. Revista mensual,131,Anónimo,Anunciante,NA,NA,Revista Cultura – Redactores – Margaritas. Revista Semanal Ilustrada - Valencia y Vargas. Abogados,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cvltura. Revista mensual,132,Anónimo,Editor,NA,Colombia,LUIS E. LOPEZ DE MESA,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,1-7
+Cvltura. Revista mensual,133,"Jiménez López, Miguel",Creador,NA,Colombia,LA ENSEÑANZA TEÓRICA Y LA ENSEÑANZA PRACTICA,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,14.4,8-22
+Cvltura. Revista mensual,134,"Martínez Ruiz, José",Creador,Azorín,España,EL CABALLERO DEL VERDE GABAN,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,5,22-27
+Cvltura. Revista mensual,135,"Céspedes, Ángel María",Creador,NA,Colombia,LA TREGUA BLANCA,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Teatro,Cuento escénico,NA,NA,02.1,27-29
+Cvltura. Revista mensual,136,"Garcés, Enrique",Creador,NA,Ecuador,APUNTES SOBRE COLONIZACIÓN AMAZÓNICA,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,17.2,29-46
+Cvltura. Revista mensual,137,"Santos, Gustavo",Director,NA,Colombia,HOJAS DE CRITICA,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,04.6,46-51
+Cvltura. Revista mensual,138,"Santos, Gustavo",Director,NA,Colombia,LA VIDA EXTRANJERA,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.1,51-52
+Cvltura. Revista mensual,139,"Santos, Gustavo",Director,NA,Colombia,LA GUERRA-LA SITUACIÓN,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.5,52-54
+Cvltura. Revista mensual,140,Anónimo,Creador,NA,NA,IMPORTANCIA DE LOS ESTUDIOS ECONÓMICOS,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.8,55-59
+Cvltura. Revista mensual,141,"Santos, Gustavo",Director,La Dirección,Colombia,Cultura,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Prosa No Ficción,Al margen,NA,NA,2.6,59-62
+Cvltura. Revista mensual,142,"Paláu, Alfonso",Editor,A. P.,Colombia,DE UN MENSAJE DEL SEÑOR GOBERNADOR DEL TOLIMA,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.6,62-63
+Cvltura. Revista mensual,143,Anónimo,Editor,NA,NA,BIBLIOGRAFIA,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,"Proceso de Nariño, José Manuel Pérez Sarmiento",0.6,64
+Cvltura. Revista mensual,144,Anónimo,Director,NA,NA,EXTRACTO DEL CONTENIDO DEL PRÓXIMO NÚMERO,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Reseña,NA,NA,Cultura,0.4,64
+Cvltura. Revista mensual,145,Anónimo,Anunciante,NA,NA,Droguería del Comercio. Samper Uribe & Cía. - Cajas de hierro marca Meilink – Almacenes de Agustín Nieto & Cía.,13,"MAYO, MCMXVI",1916-05-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,2,NA
+Cvltura. Revista mensual,146,"Holguín Caro, Hernando",Creador,"Holguín y Caro, Hernando ",Colombia,DISCURSO,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Prosa No Ficción,Discurso,NA,NA,10,65-74
+Cvltura. Revista mensual,147,"Olaya Herrera, Enrique",Creador,O. H.,Colombia,LEON GAMBETTA,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,19,75- 93
+Cvltura. Revista mensual,148,Anónimo,Editor,NA,Colombia,POEMAS DE RABINDRANATH TAGORE,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,94-95
+Cvltura. Revista mensual,149,"Tagore, Rabindranath",Creador,NA,India,EL HOGAR,14,"JUNIO, MCMXVI",1916-06-01,Sí,Anónimo,Español,Hindi,Poesía,Poema,NA,NA,0.5,95
+Cvltura. Revista mensual,150,"Tagore, Rabindranath",Creador,NA,India,CANCION SIN SENTIDO,14,"JUNIO, MCMXVI",1916-06-01,Sí,Anónimo,Español,Hindi,Poesía,Poema,NA,NA,0.8,95-96
+Cvltura. Revista mensual,151,"Tagore, Rabindranath",Creador,NA,India,EL PRINCIPIO,14,"JUNIO, MCMXVI",1916-06-01,Sí,Anónimo,Español,Hindi,Poesía,Poema,NA,NA,0.7,96-97
+Cvltura. Revista mensual,152,"Tagore, Rabindranath",Creador,NA,India,CUÁNDO Y POR QUÉ,14,"JUNIO, MCMXVI",1916-06-01,Sí,Anónimo,Español,Hindi,Poesía,Poema,NA,NA,0.5,97
+Cvltura. Revista mensual,153,"Tagore, Rabindranath",Creador,NA,India,EL ASTRÓNOMO,14,"JUNIO, MCMXVI",1916-06-01,Sí,Anónimo,Español,Hindi,Poesía,Poema,NA,NA,0.7,97-98
+Cvltura. Revista mensual,154,"Tagore, Rabindranath",Creador,NA,India,EL DÍA DE AGUA,14,"JUNIO, MCMXVI",1916-06-01,Sí,Anónimo,Español,Hindi,Poesía,Poema,NA,NA,0.7,98-99
+Cvltura. Revista mensual,155,"Tagore, Rabindranath",Creador,NA,India,LOS PRIMEROS JASMINEZ,14,"JUNIO, MCMXVI",1916-06-01,Sí,Anónimo,Español,Hindi,Poesía,Poema,NA,NA,0.5,99
+Cvltura. Revista mensual,156,"Tagore, Rabindranath",Creador,NA,India,EL JARDINERO,14,"JUNIO, MCMXVI",1916-06-01,Sí,Anónimo,Español,Hindi,Poesía,Poema,NA,NA,03.7,99-103
+Cvltura. Revista mensual,157,"Santos, Gustavo",Director,L. D.,Colombia,El FERROCARRIL DEL NORDESTE,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7.5,103-110
+Cvltura. Revista mensual,158,"Silva, José Asunción",Creador,NA,Colombia,IMPRONTU,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,111
+Cvltura. Revista mensual,159,"Castillo, Eduardo",Creador,NA,Colombia,DESFILE BLANCO,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Prosa No Ficción,NA,"Santos, Gustavo",NA,0.5,111
+Cvltura. Revista mensual,160,"Murillo Toro, Manuel",Creador,M. Murillo,Colombia,IMPORTANTE CARTA INÉDITA,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Prosa No Ficción,Carta,"Herrán, Antonio",NA,2.5,112-114
+Cvltura. Revista mensual,161,"Santos, Eduardo",Reseñista,NA,Colombia,AL MARGEN DE UN LIBRO DE NIETO CABALLERO,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Reseña,NA,NA,"Murillo. Escritor, Luis Nieto Caballero",04.7,114-119
+Cvltura. Revista mensual,162,"Santos, Gustavo",Director,La Dirección,Colombia,SANTIAGO PEREZ TRIANA,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Prosa No Ficción,Nota,NA,NA,1.8,119-120
+Cvltura. Revista mensual,163,"Paláu, Alfonso",Editor,A. P.,Colombia,LA REPRESENTACIÓN SENATORIAL DE BOYACÁ,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Prosa No Ficción,Nota,NA,NA,6.4,121-127
+Cvltura. Revista mensual,164,Anónimo,Editor,NA,NA,Clepsidra Roja,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Reseña,NA,NA,Clepsidra Roja de  Vargas Vila,0.6,127
+Cvltura. Revista mensual,165,Anónimo,Editor,NA,NA,Pensamientos de un viejo,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Reseña,NA,NA,Pensamientos de un viejo de Fernando González,0.5,128
+Cvltura. Revista mensual,166,Anónimo,Editor,NA,NA,Aspectos nacionales,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Reseña,NA,NA,Aspectos Nacionales de Carlos de Velasco,0.5,128
+Cvltura. Revista mensual,167,Anónimo,Anunciante,NA,NA,Droguería del Comercio. Samper Uribe & Cía. - Cajas de hierro marca Meilink – Almacenes de Agustín Nieto & Cía.,14,"JUNIO, MCMXVI",1916-06-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,2,NA
+Cvltura. Revista mensual,168,Anónimo,Anunciante,NA,NA,Revista Cultura – Redactores – Margaritas. Revista Semanal Ilustrada - Valencia y Vargas. Abogados,15,"JULIO, MCMXVI",1916-07-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,1,NA
+Cvltura. Revista mensual,169,"Eastman, Tomás Oziel",Creador,"Eastman, Tomás O.",Colombia,INDÍGENAS Y RESGUARDOS,15,"JULIO, MCMXVI",1916-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,23.6,129-153
+Cvltura. Revista mensual,170,"Sánchez, Alberto",Creador,NA,Colombia,LOS OJOS DE CERVANTES,15,"JULIO, MCMXVI",1916-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,23.2,153-176
+Cvltura. Revista mensual,171,"Cuervo, Luis Augusto",Editor,NA,Colombia,EL CORAZÓN DE UN HÉROE,15,"JULIO, MCMXVI",1916-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5.7,176-181
+Cvltura. Revista mensual,172,"Merrill, Stuart",Creador,NA,Estados Unidos,ENSUEÑO,15,"JULIO, MCMXVI",1916-07-01,Sí,"Arciniegas, Ismael Enrique",Español,Francés,Poesía,NA,NA,NA,0.5,182
+Cvltura. Revista mensual,173,"Restrepo Rivera, José",Creador,NA,Colombia,CASTELLANA,15,"JULIO, MCMXVI",1916-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,182
+Cvltura. Revista mensual,174,"Escallón, Rafael",Creador,NA,Colombia,LA REFORMA PENAL. Presupuestos de la refo,15,"JULIO, MCMXVI",1916-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,07.8,183-190
+Cvltura. Revista mensual,175,"Santos, Gustavo",Director,L. D.,Colombia,EMILIO FAGUET,15,"JULIO, MCMXVI",1916-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,190-191
+Cvltura. Revista mensual,176,Anónimo,Editor,NA,NA,El Maestro del libertador,15,"JULIO, MCMXVI",1916-07-01,No,NA,Español,NA,Reseña,NA,NA,El Maestro del Libertador de Fabio Lozano y Lozano,2.5,192-194
+Cvltura. Revista mensual,177,N.G.S.,Reseñista,N.G.S.,NA,Archivo Santander,15,"JULIO, MCMXVI",1916-07-01,No,NA,Español,NA,Reseña,NA,NA," Archivo Santander, Ernesto Restrepo Tirado (Director)",1.7,194-196
+Cvltura. Revista mensual,178,Anónimo,Editor,NA,NA,Una Lengua y una Raza,15,"JULIO, MCMXVI",1916-07-01,No,NA,Español,NA,Reseña,NA,NA,Una lengua y una raza de Alfonso Robledo,0.5,196
+Cvltura. Revista mensual,168,Anónimo,Anunciante,NA,NA,Droguería del Comercio. Samper Uribe & Cía. - Cajas de hierro marca Meilink – Almacenes de Agustín Nieto & Cía.,15,"JULIO, MCMXVI",1916-07-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,2,NA
+Cvltura. Revista mensual,169,Anónimo,Anunciante,NA,NA,Revista Cultura – Redactores – Hijos de Antonio María Moreno - Valencia y Vargas. Abogados,16,"AGOSTO, MCMXVI",1916-08-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,1,NA
+Cvltura. Revista mensual,170,"Betancourt Villegas, Félix",Creador,NA,Colombia,PATRIA E IDEALES DEMOCRÁTICOS,16,"AGOSTO, MCMXVI",1916-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,16.5,197-213
+Cvltura. Revista mensual,171,"Restrepo Rivera, José",Creador,"Restrepo Rivera, J.",Colombia,IDILIO CLÁSICO,16,"AGOSTO, MCMXVI",1916-08-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,2,214-215
+Cvltura. Revista mensual,172,"Jiménez López, Miguel",Creador,NA,Colombia,LA LOCURA EN COLOMBIA Y SUS CAUSAS,16,"AGOSTO, MCMXVI",1916-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,16.5,216-233
+Cvltura. Revista mensual,173,"Posada, E.",Creador,NA,NA,DERECHOS DE LAS NACIONES,16,"AGOSTO, MCMXVI",1916-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11,233-244
+Cvltura. Revista mensual,174,"Arguedas Díaz, Alcides",Creador,"Arguedas, A.",Bolivia,APUNTES SOCIOLÓGICOS,16,"AGOSTO, MCMXVI",1916-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,07.7,244-252
+Cvltura. Revista mensual,175,"Santos, Gustavo",Director,NA,Colombia,AL MARGEN DE LA LITERATURA NACIONAL,16,"AGOSTO, MCMXVI",1916-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,06.7,252-258
+Cvltura. Revista mensual,176,Anónimo,Editor,NA,NA,BIBLIOGRAFÍA,16,"AGOSTO, MCMXVI",1916-08-01,No,NA,Español,NA,Reseña,NA,NA,"Expropiaciones por causa de utilidad pública, Alberto Vélez Calvo; La Amazonía colombiana, Demetrio Salamanca; De aquí y de allá, F. García Godoy",1.5,259-260
+Cvltura. Revista mensual,177,Anónimo,Editor,NA,NA,BIBLIOGRAFÍA,16,"AGOSTO, MCMXVI",1916-08-01,No,NA,Español,NA,Reseña,NA,NA,"La Amazonía colombiana de Demetrio SalamancaDe aquí y de allá, F. García Godoy",0.3,260
+Cvltura. Revista mensual,178,Anónimo,Editor,NA,NA,BIBLIOGRAFÍA,16,"AGOSTO, MCMXVI",1916-08-01,No,NA,Español,NA,Reseña,NA,NA,"De aquí y de allá, F. García Godoy",0.3,260
+Cvltura. Revista mensual,179,Anónimo,Anunciante,NA,NA,Revista Cultura – Redactores – Hijos de Antonio María Moreno - Valencia y Vargas. Abogados,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,1,NA
+Cvltura. Revista mensual,180,"Camacho, Martín",Creador,NA,NA,CRIMINOLOGÍA,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Prosa No Ficción,Discurso académico,NA,NA,44,261-304
+Cvltura. Revista mensual,181,"López, Ismael",Creador,Cornelio Hispano,Colombia,BOLIVAR Y HUMBOLDT,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,04.8,305-309
+Cvltura. Revista mensual,182,"Vila, Pablo",Reseñista,P. V.,España,LA EDAD HEROICA,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Reseña,NA,NA,La Edad Heróica de Luis de Zuleta,03.2,309-312
+Cvltura. Revista mensual,183,"Zuleta, Luis de",Creador,NA,España,DE LA JUVENTUD,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,02.7,313-315
+Cvltura. Revista mensual,184,"Zuleta, Luis de",Creador,NA,España,DEL AMOR,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,02.7,315-318
+Cvltura. Revista mensual,185,"Zuleta, Luis de",Creador,NA,España,DEL ARTE,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,02.1,318-320
+Cvltura. Revista mensual,186,"Fornaguera, Miguel",Creador,"Fornaguera, M.",España,ESCUELA VIVA,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,14.7,320-334
+Cvltura. Revista mensual,187,"Santos, Gustavo",Director,NA,Colombia,DON JOSÉ ECHEGARAY,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4,335-338
+Cvltura. Revista mensual,188,"Sánchez, Alberto",Creador,NA,Colombia,DE LA VIDA INEFABLE,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,02.3,339-341
+Cvltura. Revista mensual,189,Anónimo,Editor,NA,Colombia,Alfonso Palàu,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Prosa No Ficción,Notas al margen,NA,NA,0.5,341-344
+Cvltura. Revista mensual,190,"López de Mesa, Luis",Creador,L. DE M.,Colombia,Analfabetismo,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Prosa No Ficción,Notas al margen,NA,NA,02.7,341-344
+Cvltura. Revista mensual,191,Anónimo,Reseñista,NA,NA,Colombianos Ilustres,17,"SEPTIEMBRE, MCMXVI",1916-09-01,No,NA,Español,NA,Reseña,NA,NA,"Colombianos ilustres, Rafael Mesa Ortiz",0.5,344
+Cvltura. Revista mensual,192,Anónimo,Ilustrador,NA,NA,Luis Eduardo López de Mesa,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cvltura. Revista mensual,193,"Garay, Epifanio",Ilustrador,NA,Colombia,Retrato de la Sra. Isabel Gaviria de Restrepo,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cvltura. Revista mensual,194,"Garay, Epifanio",Ilustrador,NA,Colombia,Retrato D. Manuel Pardo,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cvltura. Revista mensual,195,Anónimo,Ilustrador,NA,NA,Los conferencias de Cultura: Antonio Gómez Restrepo,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,196,Anónimo,Ilustrador,NA,NA,Los conferencias de Cultura: Antonio José Restrepo,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,197,Anónimo,Ilustrador,NA,NA,Los conferencias de Cultura: Ángel María Céspedes,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,198,Anónimo,Ilustrador,NA,NA,Los conferencias de Cultura: Cornelio Hispano,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,199,Anónimo,Ilustrador,NA,NA,Los conferencias de Cultura: Miguel Jiménez López,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,200,"Gómez Restrepo, Antonio",Creador,"Gómez Restrepo, Antonio",Colombia,LA LITERATURA COLOMBIANA A MEDIADOS DEL SIGLO XIX,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Prosa No Ficción,Conferencia,NA,NA,26.5,193-219
+Cvltura. Revista mensual,201,"López de Mesa, Luis",Editor,NA,Colombia,EL ALMA DE AMERICA,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,10,220-229
+Cvltura. Revista mensual,202,"Zapata, F.",Creador,NA,NA,EPISTOLARIO DE CULTURA: EL ARCHIVO DE AQUILEO PARRA,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Prosa No Ficción,Documento inédito: carta,NA,NA,9,230-238
+Cvltura. Revista mensual,203,"Mesa Nicholls, Alejandro",Creador,NA,Colombia,HORA DE ORO,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,239
+Cvltura. Revista mensual,204,"Nieto Caballero, Agustín",Director,A. N. C.,Colombia,EN UN DIA DE LLUVIA,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.5,240-241
+Cvltura. Revista mensual,205,"Esguerra, Nicolás",Creador,NA,Colombia,SOBRE UNAS MEMORIAS,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Prosa No Ficción,Prólogo,NA,NA,7,242-248
+Cvltura. Revista mensual,206,"Nieto Caballero, Luis Eduardo",Creador,"Nieto Caballero, L. E.",Colombia,CONFERENCIAS DE ''CULTURA'',22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,07.3,249-256
+Cvltura. Revista mensual,207,Anónimo,Editor,NA,NA,Luis López de Mesa,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Prosa No Ficción,Nota,NA,NA,0.3,256
+Cvltura. Revista mensual,208,Anónimo,Editor,NA,NA,El Suplemento Ilustrado,22,"AGOSTO, MCMXVII",1917-08-01,No,NA,Español,NA,Prosa No Ficción,Nota,NA,NA,0.3,256
+Cvltura. Revista mensual,209,Anónimo,Anunciante,NA,NA,Redactores – Cultura – El libro de los apólogos de Luis E. López de Mesa – Aviso,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,1,NA
+Cvltura. Revista mensual,210,"Urdaneta, Alberto",Ilustrador,NA,Colombia,JORGE ISAACS,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cvltura. Revista mensual,211,"Rivas, Raimundo",Editor,NA,Colombia,MOSQUERA,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,47.3,1-48
+Cvltura. Revista mensual,212,"Céspedes, Ángel María",Creador,NA,Colombia,LA MIRADA DE COLÓN,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,2,48-50
+Cvltura. Revista mensual,213,"Corral, Jesús M. del",Creador,NA,NA,QUE PASE EL ASERRADOR…!,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,7.7,50-57
+Cvltura. Revista mensual,214,"París, Gonzalo",Creador,NA,NA,NUESTROS PROBLEMAS NACIONALES,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Prosa No Ficción,NA,"López de Mesa, Luis",NA,1,58
+Cvltura. Revista mensual,215,"López de Mesa, Luis",Editor,NA,Colombia,NUESTROS PROBLEMAS NACIONALES,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Prosa Ficción,NA,"París, Gonzalo",NA,13,59-71
+Cvltura. Revista mensual,216,"Rivera, José Eustasio",Creador,NA,Colombia,TIERRA DE PROMISIÓN,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,72
+Cvltura. Revista mensual,217,"Grillo, Maximiliano",Creador,"Grillo, Max",Colombia,JORGE ISAACS,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Prosa No Ficción,Conferencia,NA,NA,28,73-100
+Cvltura. Revista mensual,218,"Caro, Víctor Eduardo",Creador,"Caro, Víctor E.",Colombia,LAS CASAS BAJAS,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,101
+Cvltura. Revista mensual,219,"Caro, Víctor Eduardo",Creador,"Caro, Víctor E.",Colombia,LA TÍA ABUELA,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,101
+Cvltura. Revista mensual,220,"Tavera G., Rafael",Creador,Rafael Tavera G.,NA,REFLEXIONES SOBRE EL ARTE,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,06.4,102-108
+Cvltura. Revista mensual,221,Anónimo,Editor,NA,NA,Carlos Arturo Torres Pinzon,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Prosa No Ficción,Notas al margen,NA,NA,1.2,108-109
+Cvltura. Revista mensual,222,Anónimo,Editor,La Redaccion,NA,Las Castillas populares,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Prosa No Ficción,Notas al margen,NA,NA,1.2,109-110
+Cvltura. Revista mensual,223,"Carvajal Borrero, Mario",Creador,NA,Colombia,UNA CONFERENCIA SOBRE JORGE ISAACS,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Prosa No Ficción,Notas al margen,NA,NA,02.5,111-113
+Cvltura. Revista mensual,224,Anónimo,Editor,NA,NA,POETAS JÓVENES DE COLOMBIA,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Prosa No Ficción,Notas al margen,NA,NA,1.3,113-114
+Cvltura. Revista mensual,225,"Liévano, Roberto",Editor,R. L.,Colombia,VOCES,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Prosa No Ficción,Notas al margen,NA,NA,0.7,114-115
+Cvltura. Revista mensual,226,Anónimo,Editor,NA,NA,LA LITERATURA URUGUAYA,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Prosa No Ficción,Notas al margen,NA,NA,1.1,115-116
+Cvltura. Revista mensual,227,Anónimo,Editor,NA,NA,EL LIBRO DE LOS APÓLOGOS,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Reseña,Notas al margen,NA,"El libro de los apólogos, Luis López de Mesa",2,116-118
+Cvltura. Revista mensual,228,Anónimo,Editor,NA,NA,DINÁMICOS,25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Reseña,Nota,NA,"Cuestiones estéticas, Alfonso Reyes; Crítica y polémica, Roberto F. Giusti",2.4,118-120
+Cvltura. Revista mensual,229,Anónimo,Anunciante,NA,NA,"AGRICULTORES.  Montaya, Patiño & Co. - MONARCH",25-26,"ENERO Y FEBRERO, MCMXVIII",1918-02-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,2,NA
+Cvltura. Revista mensual,230,Anónimo,Anunciante,NA,NA,Redactores – Cultura – El libro de los apólogos de Luis E. López de Mesa – Aviso,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,1,NA
+Cvltura. Revista mensual,231,Anónimo,Ilustrador,NA,NA,Conferencistas de Cultura: Tomás Rueda Vargas,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.5,NA
+Cvltura. Revista mensual,232,Anónimo,Ilustrador,NA,NA,Conferencistas de Cultura: Roberto Liévano,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.5,NA
+Cvltura. Revista mensual,233,Anónimo,Ilustrador,NA,NA,LA SABANA,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cvltura. Revista mensual,234,Anónimo,Ilustrador,NA,NA,LOS MOSAICOS: D. José María Samper,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,235,Anónimo,Ilustrador,NA,NA,LOS MOSAICOS: D. José María Vergara y Vergara,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,236,Anónimo,Ilustrador,NA,NA,LOS MOSAICOS: D. José Manuel Marroquín,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,237,Anónimo,Ilustrador,NA,NA,LOS MOSAICOS: D. Ricardo Carrasquilla,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,238,Anónimo,Ilustrador,NA,NA,LA CIUDAD DE ANTIOQUIA: Plaza de Chiquinquirá,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.5,NA
+Cvltura. Revista mensual,239,Anónimo,Ilustrador,NA,NA,LA CIUDAD DE ANTIOQUIA: Jesús Nazareno,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.5,NA
+Cvltura. Revista mensual,240,"Rueda Vargas, Tomás",Creador,NA,Colombia,LA SABANA,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Prosa No Ficción,Conferencia,NA,NA,35.5,121-156
+Cvltura. Revista mensual,241,Anónimo,Editor,NA,NA,LUIS ALZATE NOREÑA,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.6,156-157
+Cvltura. Revista mensual,242,"Alzate Noreña, Luis",Creador,NA,Colombia,OH MANOS DE LA MUERTE,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Poesía,Soneto,NA,NA,0.5,158
+Cvltura. Revista mensual,243,"Alzate Noreña, Luis",Creador,NA,Colombia,EL TORO MUERTO,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Poesía,Soneto,NA,NA,0.5,158
+Cvltura. Revista mensual,244,"Alzate Noreña, Luis",Creador,NA,Colombia,INICIACIÓN ESPECIAL,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Poesía,Soneto,NA,NA,0.5,159
+Cvltura. Revista mensual,245,"Alzate Noreña, Luis",Creador,NA,Colombia,AL CARBÓN,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Poesía,Soneto,NA,NA,0.5,159
+Cvltura. Revista mensual,246,"Liévano, Roberto",Creador,NA,Colombia,TERTULIAS LITERARIAS EN SANTAFE Y EN BOGOTÁ,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Prosa No Ficción,Conferencia,NA,NA,23.8,160-183
+Cvltura. Revista mensual,247,"López de Mesa, Luis",Editor,NA,Colombia,ELEGÍA DE LA CIUDAD MADRE,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Prosa Ficción,Elegía,NA,NA,4,183-187
+Cvltura. Revista mensual,248,"Liévano, Roberto",Creador,NA,Colombia,MIGUEL RASCH ISLA,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,02.6,187-190
+Cvltura. Revista mensual,249,"Rasch Isla, Miguel",Creador,NA,Colombia,SIMILITUDES,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,190
+Cvltura. Revista mensual,250,"Rasch Isla, Miguel",Creador,NA,Colombia,SUEÑO AZUL,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,191
+Cvltura. Revista mensual,251,"Rasch Isla, Miguel",Creador,NA,Colombia,LA DESCONOCIDA,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,191
+Cvltura. Revista mensual,252,"Rasch Isla, Miguel",Creador,NA,Colombia,NOVIA DE MI NIÑEZ,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,192
+Cvltura. Revista mensual,253,"Garavito Armero, Julio",Creador,"Garavito A, Julio",Colombia,BANCARROTA DE LA CIENCIA,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,07.5,192-200
+Cvltura. Revista mensual,254,"Grillo, Maximiliano",Creador,"Grillo, Max",Colombia,LA REVOLUCIÓN ARGENTINA AMERICANIZADA,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11.7,200-211
+Cvltura. Revista mensual,255,"Contreras, Francisco",Creador,NA,Chile,LA CRITICA NUEVA. LA LABOR DE T. GARCIA GODOY,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4,212-215
+Cvltura. Revista mensual,256,"López de Mesa, Luis",Editor,NA,Colombia,BREVIARIO SICOLÓGICO,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.8,216
+Cvltura. Revista mensual,257,"Torres Pinzón, Carlos Arturo",Editor,NA,Colombia,APUNTES SOBRE CRITICA,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,05.2,217-222
+Cvltura. Revista mensual,258,"Sánchez, Alberto",Creador,NA,Colombia,A LAS MANOS OCULTAS,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,01.8,222-223
+Cvltura. Revista mensual,259,"Nieto Caballero, Agustín",Director,A. N. C.,Colombia,EL GIMNASIO MODERNO,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,04.1,224-228
+Cvltura. Revista mensual,260,Anónimo,Editor,NA,NA,POR NUESTRO PASADO ARTÍSTICO E HISTÓRICO,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Prosa No Ficción,Notas al margen,NA,NA,2.1,228-230
+Cvltura. Revista mensual,261,Anónimo,Editor,NA,NA,NOTAS AL MARGEN: DANTE,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Reseña de revista,Notas al margen,NA,Dante,0.7,230
+Cvltura. Revista mensual,262,Anónimo,Editor,NA,NA,NOTAS AL MARGEN: EL GRÁFICO,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Reseña de revista,Notas al margen,NA,El Gráfico,1,231
+Cvltura. Revista mensual,263,Anónimo,Editor,NA,NA,COLOMBIANOS ILUSTRES,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Reseña,Bibliografía,NA,"Colombianos Ilustres, Varios Autores",1,232
+Cvltura. Revista mensual,264,Anónimo,Ilustrador,NA,NA,El libro de los apólogos por Luis López de Mesa,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,NA,NA,Imagen,NA,NA,NA,1,NA
+Cvltura. Revista mensual,265,"Santos, Gustavo",Director,NA,Colombia,El libro de los apólogos,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Reseña,NA,NA,El libro de los apólogos,2,NA
+Cvltura. Revista mensual,266,Anónimo,Anunciante,NA,NA,Redactores – Cultura – El libro de los apólogos de Luis E. López de Mesa. Biblioteca de Cultura – Aviso,27-28,"MARZO Y ABRIL, MCMXVIII",1918-04-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,1,NA
+Cvltura. Revista mensual,267,Anónimo,Ilustrador,NA,NA,"Santander, medallón de David d’Angers",29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cvltura. Revista mensual,268,"Gutiérrez, Felipe Santiago",Ilustrador,"Gutiérrez, Felipe S. ",México,RAMÓN TORRES MENDEZ,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cvltura. Revista mensual,269,"Torres Méndez, Ramón",Ilustrador,Torres Méndez,Colombia,MUERTE DE ABEL,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cvltura. Revista mensual,270,Anónimo,Ilustrador,NA,NA,RICARDO RENDÓN,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Imagen,Dibujo a lápiz,NA,NA,0.5,NA
+Cvltura. Revista mensual,271,"Rendón, Ricardo",Ilustrador,NA,Colombia,RICARDO RENDÓN (Autocaricatura),29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Imagen,Caricatura,NA,NA,0.5,NA
+Cvltura. Revista mensual,272,"García Ortiz, Laureano",Creador,"García Ortiz, L.",Colombia,EL CARÁCTER DEL GENERAL SANTANDER,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,20.4,233-253
+Cvltura. Revista mensual,273,"Torres Durán, Carlos",Creador,NA,Colombia,EL POEMA DE LA GITANA,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1.6,253-254
+Cvltura. Revista mensual,274,"Mendoza, Diego",Creador,NA,Colombia,PROBLEMAS INTERNACIONALES,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Prosa No Ficción,Conferencia,NA,NA,29.6,255-284
+Cvltura. Revista mensual,275,"López de Mesa, Luis",Editor,NA,Colombia,EL APÓLOGO DE LA MUERTE,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.4,284-287
+Cvltura. Revista mensual,276,"Jiménez López, Miguel",Creador,NA,Colombia,Tres enseñanzas indispensables en la Escuela moderna,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,19,288-306
+Cvltura. Revista mensual,277,"Blanco, Julio Enrique",Creador,NA,NA,NUESTROS PROBLEMAS NACIONALES. (Encuestán de Gonzalo París),29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,05.3,307-312
+Cvltura. Revista mensual,278,"Rivera, José Eustasio",Creador,NA,Colombia,TIERRA DE PROMISIÓN,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,312
+Cvltura. Revista mensual,279,"López de Mesa, Luis",Editor,NA,Colombia,BREVIARIO PSICOLÓGICO,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,313
+Cvltura. Revista mensual,280,"Torres Pinzón, Carlos Arturo",Editor,"Torres Pinzón, C. A.",Colombia,IMAGINACIÓN Y POESÍA EN COLOMBIA,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,26.6,314-340
+Cvltura. Revista mensual,281,"Guzmán Esponda, Eduardo",Creador,NA,Colombia,GIMNASIO MODERNO: JUEGOS FLORALES,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.6,340-344
+Cvltura. Revista mensual,282,"Carrasquilla Botero, Juan",Creador,NA,Colombia,SIN SEPULTURA,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.8,344-346
+Cvltura. Revista mensual,283,Anónimo,Editor,NA,NA,UN PROBLEMA SOCIAL,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Reseña,Notas al margen,NA,"Ideologías, Francisco García Calderón",2.2,347-349
+Cvltura. Revista mensual,284,Anónimo,Editor,NA,NA,SERMONES LÍRICOS,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Reseña,Notas al margen,NA,"Sermones líricos, Manuel Díaz Rodríguez",0.8,349
+Cvltura. Revista mensual,285,Anónimo,Editor,NA,NA,DELFINO URQUIA,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Prosa No Ficción,Notas al margen,NA,NA,1.2,350-351
+Cvltura. Revista mensual,286,"Torres Pinzón, Carlos Arturo",Editor,C. A. T. P.,Colombia,REVISTA DE REVISTAS: VOCES,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Reseña de revista,NA,NA,Voces,2.8,351-353
+Cvltura. Revista mensual,287,Anónimo,Editor,NA,NA,EXPOSICIONES DE CULTURA,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,353-354
+Cvltura. Revista mensual,288,Anónimo,Editor,NA,NA,Rosalba,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Reseña,Bibliografía,NA,"Rosalba, Arturo Suárez",0.8,355
+Cvltura. Revista mensual,289,Anónimo,Editor,NA,NA,Reliquias de José Garcia Calderón,29-30,"MAYO Y JUNIO, MCMXVIII",1918-06-01,No,NA,Español,NA,Reseña,Bibliografía,NA,"Reliquias, José García Calderón",1.2,355-356
+Cvltura. Revista mensual,290,Anónimo,Anunciante,NA,NA,Redactores – Cultura – El libro de los apólogos de Luis E. López de Mesa. Biblioteca de Cultura – Aviso,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,1,NA
+Cvltura. Revista mensual,291,Anónimo,Ilustrador,NA,NA,El Foyer del Teatro Colón…,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cvltura. Revista mensual,292,"Torres Méndez, Ramón",Ilustrador,NA,Colombia,Señora Jeanetta Cosazzi,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cvltura. Revista mensual,293,"Torres Méndez, Ramón",Ilustrador,NA,Colombia,Don José María Vergara y Vergara,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cvltura. Revista mensual,294,"Farrington, Robert M.",Ilustrador,NA,Colombia,GIMNASIO MODERNO: Planos de los edificios actualmente en construcción,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Imagen,Plano,NA,NA,1,NA
+Cvltura. Revista mensual,295,"Zea Uribe, Luis",Creador,NA,Colombia,LA PERSONALIDAD HUMANA,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Prosa No Ficción,Discurso,NA,NA,31,1-31
+Cvltura. Revista mensual,296,"Carvajal, Mario",Creador,NA,Colombia,JOSÉ UMAÑA BERNAL,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,32-34
+Cvltura. Revista mensual,297,"Umaña Bernal, José",Creador,NA,Colombia,RETRATO,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,35
+Cvltura. Revista mensual,298,"Umaña Bernal, José",Creador,NA,Colombia,ELEGÍA DEL ADIÓS,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,35
+Cvltura. Revista mensual,299,"Sánchez, Alberto",Creador,NA,Colombia,SOBRE UNA AMABLE LECTURA,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Reseña,NA,NA,"Libro de los apólogos, Luis López de Mesa",11,36-46
+Cvltura. Revista mensual,300,"Liévano, Roberto",Creador,NA,Colombia,ALGO SOBRE SILVA,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,20,47-66
+Cvltura. Revista mensual,301,"Nieto Caballero, Agustín",Director,A. N. C.,Colombia,GIMNASIO MODERNO. EL AMBIENTE: EL MONTESSORI,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,67-71
+Cvltura. Revista mensual,302,Anónimo,Editor,NA,Colombia,EL SUPLEMENTO ILUSTRADO,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Prosa No Ficción,Nota,NA,NA,1,NA
+Cvltura. Revista mensual,303,Anónimo,Anunciante,NA,NA,LIBRERÍA SANTA FE. G. SANTOS & Compañía – MONARCH,31,"OCTUBRE, MCMXVIII",1918-10-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,2,NA
+Cvltura. Revista mensual,304,Anónimo,Anunciante,NA,NA,Redactores – Cultura – El libro de los apólogos de Luis E. López de Mesa. Biblioteca de Cultura,32,"NOVIEMBRE, MCMXVIII",1918-11-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,1,NA
+Cvltura. Revista mensual,305,"Nieto Caballero, Luis Eduardo",Creador,"Nieto Caballero, Luis E.",Colombia,SANTIAGO PÉREZ TRIANA,32,"NOVIEMBRE, MCMXVIII",1918-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,22.4,65-95
+Cvltura. Revista mensual,306,"López de Mesa, Luis",Editor,NA,Colombia,APÓLOGO DE LA FILOSOFÍA,32,"NOVIEMBRE, MCMXVIII",1918-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,08.6,96-104
+Cvltura. Revista mensual,307,"Gómez Restrepo, Antonio",Creador,"Gómez Restrepo, Antonio",Colombia,LECONTE DE LISLE,32,"NOVIEMBRE, MCMXVIII",1918-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,12,105-116
+Cvltura. Revista mensual,308,"Torres Pinzón, Carlos Arturo",Editor,C. A. T. P.,Colombia,APUNTES SOBRE CRITICA,32,"NOVIEMBRE, MCMXVIII",1918-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,117-121
+Cvltura. Revista mensual,309,"Nieto Caballero, Agustín",Director,NA,Colombia,EN EL GIMNASIO MODERNO,32,"NOVIEMBRE, MCMXVIII",1918-11-01,No,NA,Español,NA,Prosa No Ficción,Discurso,NA,NA,8,122-129
+Cvltura. Revista mensual,310,"Solano, Armando",Creador,NA,Colombia,LA EPIDEMIA,32,"NOVIEMBRE, MCMXVIII",1918-11-01,No,NA,Español,NA,Prosa No Ficción,Diarios y Revistas,NA,NA,2,130-131
+Cvltura. Revista mensual,311,"Santos, Eduardo",Creador,NA,Colombia,LA GUERRA,32,"NOVIEMBRE, MCMXVIII",1918-11-01,No,NA,Español,NA,Prosa No Ficción,Diarios y Revistas,NA,NA,3,132-134
+Cvltura. Revista mensual,312,Anónimo,Creador,NA,NA,ELOGIO DE UN PASTOR DE ALMAS,32,"NOVIEMBRE, MCMXVIII",1918-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,135-136
+Cvltura. Revista mensual,313,Anónimo,Anunciante,NA,NA,LIBRERÍA SANTA FE. G. SANTOS & Compañía – MONARCH,32,"NOVIEMBRE, MCMXVIII",1918-11-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,2,NA
+Cvltura. Revista mensual,314,"Restrepo Rivera, José",Ilustrador,"Restrepo Rivera, J.",Colombia,SUPLEMENTO DE CULTURA,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Imagen,Dibujo,NA,NA,1,NA
+Cvltura. Revista mensual,315,"Restrepo Rivera, José",Ilustrador,"Restrepo Rivera, J.",Colombia,SUPLEMENTO DE CULTURA,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Imagen,Dibujo,NA,NA,0.5,NA
+Cvltura. Revista mensual,316,"Restrepo Rivera, José",Ilustrador,"Restrepo Rivera, J.",Colombia,SUPLEMENTO DE CULTURA,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Imagen,Dibujo,NA,NA,0.5,NA
+Cvltura. Revista mensual,317,"Alzate Noreña, Luis",Creador,NA,Colombia,ALGO SOBRE BOLIVAR,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Prosa No Ficción,Epistola,"Parra, Aquileo",NA,23.8,137-264
+Cvltura. Revista mensual,318,"Mosquera, Tomás Cipriano de",Creador,"de Mosquera, T. C.",Colombia,EPISTOLARIO DE CULTURA,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Prosa No Ficción,Epistola,"Parra, Aquileo",NA,4,163-166
+Cvltura. Revista mensual,319,"Mosquera, Tomás Cipriano de",Creador,"de Mosquera, T. C.",Colombia,EPISTOLARIO DE CULTURA,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Prosa No Ficción,Epistola,"Parra, Aquileo",NA,01.4,167-168
+Cvltura. Revista mensual,320,"Mosquera, Tomás Cipriano de",Creador,"de Mosquera, T. C.",Colombia,EPISTOLARIO DE CULTURA,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Prosa No Ficción,Epistola,"Parra, Aquileo",NA,01.9,168-170
+Cvltura. Revista mensual,321,"Mosquera, Tomás Cipriano de",Creador,"de Mosquera, T. C.",Colombia,EPISTOLARIO DE CULTURA,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Prosa No Ficción,Epistola,"Parra, Aquileo",NA,02.6,170-172
+Cvltura. Revista mensual,322,"Mosquera, Tomás Cipriano de",Creador,"de Mosquera, T. C.",Colombia,EPISTOLARIO DE CULTURA,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Prosa No Ficción,Epistola,"Parra, Aquileo",NA,2,172-174
+Cvltura. Revista mensual,323,"Mosquera, Tomás Cipriano de",Creador,"de Mosquera, T. C.",Colombia,EPISTOLARIO DE CULTURA,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Prosa No Ficción,Epistola,"Parra, Aquileo",NA,01.2,174-175
+Cvltura. Revista mensual,324,"Mosquera, Tomás Cipriano de",Creador,"de Mosquera, T. C.",Colombia,EPISTOLARIO DE CULTURA,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Prosa Ficción,Epistola,"Parra, Aquileo",NA,01.7,176-177
+Cvltura. Revista mensual,325,"Restrepo Rivera, José",Ilustrador,"Restrepo Rivera, J.",Colombia,ELEGIA X,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Poesía,Elegia,NA,NA,1,178
+Cvltura. Revista mensual,326,"Restrepo Rivera, José",Ilustrador,"Restrepo Rivera, J.",Colombia,ANIMA EXTINTA,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,179
+Cvltura. Revista mensual,327,"Mesa Nicholls, Alejandro",Creador,"Mesa Nichólls, A.",Colombia,BIOGRAFIA DE SALVADOR CORDOBA,33,"DICIEMBRE, MCMXVIII",1918-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,09.4,180-185
+Cvltura. Revista mensual,328,"Wilson, Woodrow",Creador,NA,Estados Unidos,EL PRESIDENTE WILSON,33,"DICIEMBRE, MCMXVIII",1918-12-01,Sí,"Boutroux, Emile",Español,Inglés,Prosa No Ficción,NA,NA,NA,02.4,187-189
+Cvltura. Revista mensual,329,"López, Ismael",Creador,NA,NA,LA QUINTA DE BOLIVAR,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,32,197-229
+Cvltura. Revista mensual,330,"Colín, Eduardo",Creador,NA,México,JULIO LAFORGUE,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Prosa No Ficción,NA,"Vasconcelos, José",NA,04.7,230-234
+Cvltura. Revista mensual,331,"Colín, Eduardo",Creador,NA,México,AZORIN,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4,235-238
+Cvltura. Revista mensual,332,"López de Mesa, Luis",Editor,NA,Colombia,UNA HORA ANTE NORTEAMERICA,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,06.5,239-245
+Cvltura. Revista mensual,333,"Carvajal Borrero, Mario",Creador,NA,Colombia,EL RIO,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,"Velasco Borrero, Guillermo",NA,1,246
+Cvltura. Revista mensual,334,"Carvajal Borrero, Mario",Creador,NA,Colombia,EL TORRENTE,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,247
+Cvltura. Revista mensual,335,"Carvajal Borrero, Mario",Creador,NA,Colombia,LA LAGUNA,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,247
+Cvltura. Revista mensual,336,"Carvajal Borrero, Mario",Creador,NA,Colombia,LA CASCADA,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,248
+Cvltura. Revista mensual,337,"Carvajal Borrero, Mario",Creador,NA,Colombia,EL ROCIO,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,248
+Cvltura. Revista mensual,338,"Carvajal Borrero, Mario",Creador,NA,Colombia,LA LLUVIA,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,249
+Cvltura. Revista mensual,339,"Carvajal Borrero, Mario",Creador,NA,Colombia,EL AGUA DE LAS ROCAS,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,249
+Cvltura. Revista mensual,340,"Carvajal Borrero, Mario",Creador,NA,Colombia,EL MAR,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,250
+Cvltura. Revista mensual,341,"Carvajal Borrero, Mario",Creador,NA,Colombia,EL PANTANO,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,250
+Cvltura. Revista mensual,342,"Carvajal Borrero, Mario",Creador,NA,Colombia,EL ALJIBE,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,251
+Cvltura. Revista mensual,343,"Carvajal Borrero, Mario",Creador,NA,Colombia,EL SURTIDOR,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,251
+Cvltura. Revista mensual,344,"Carvajal Borrero, Mario",Creador,NA,Colombia,EL AGUA DEL FILTRO,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,252
+Cvltura. Revista mensual,345,"Carvajal Borrero, Mario",Creador,NA,Colombia,EL AGUA SUBTERRANEA,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,252
+Cvltura. Revista mensual,346,"Carvajal Borrero, Mario",Creador,NA,Colombia,LA VOZ DEL AGUA,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,253
+Cvltura. Revista mensual,347,"Carvajal Borrero, Mario",Creador,NA,Colombia,"EL AGUA, ALMA DEL MUNDO",34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,253
+Cvltura. Revista mensual,348,"Mendoza, Diego",Creador,NA,Colombia,MORENO Y ESCANDON Y LA REFORMA UNIVERSITARIA EN LA COLONIA,34-35,"JUNIO, MCMXIX",1919-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,43,254-296
+Cvltura. Revista mensual,349,Anónimo,Anunciante,NA,NA,Redactores – Librería Santa Fe – El libro de los apólogos de Luis E. López de Mesa – Elpidio Ranjel Pérez. Agente y comisionista.,36,MCMXX,1920-01-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,1,NA
+Cvltura. Revista mensual,350,Anónimo,Ilustrador,NA,NA,Don Fidel Cano: 10 años,36,MCMXX,1920-01-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,351,Anónimo,Ilustrador,NA,NA,Don Fidel Cano: 18 años,36,MCMXX,1920-01-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,352,Anónimo,Ilustrador,NA,NA,Don Fidel Cano: 35 años,36,MCMXX,1920-01-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,353,Anónimo,Ilustrador,NA,NA,Don Fidel Cano: 60 años,36,MCMXX,1920-01-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,354,Anónimo,Ilustrador,NA,NA,Una vista panorámica de la casa de campo “Fidelena”,36,MCMXX,1920-01-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,NA
+Cvltura. Revista mensual,355,"Restrepo Restrepo, Carlos Eugenio",Creador,"Restrepo, C. E.",Colombia,FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,02.4,297-299
+Cvltura. Revista mensual,356,"Cano Gutiérrez, Fidel",Creador,NA,Colombia,A MI MADRE,36,MCMXX,1920-01-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,03.1,300-303
+Cvltura. Revista mensual,357,"Solano, Armando",Creador,NA,Colombia,FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,303-306
+Cvltura. Revista mensual,358,"Nieto Caballero, Luis Eduardo",Creador,"Nieto Caballero, L. E.",Colombia,FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.7,306-307
+Cvltura. Revista mensual,359,"Santos, Eduardo",Creador,NA,Colombia,FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.1,307-308
+Cvltura. Revista mensual,360,"Valencia, Miguel Santiago",Creador,NA,Colombia,FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.9,308-309
+Cvltura. Revista mensual,361,"Caballero, Lucas",Creador,NA,Colombia,FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,309-310
+Cvltura. Revista mensual,362,"Ramírez, Clodomiro",Creador,NA,Colombia,FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.6,310-311
+Cvltura. Revista mensual,363,"Restrepo Restrepo, Carlos Eugenio",Creador,"Restrepo, C. E.",Colombia,FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.1,311-312
+Cvltura. Revista mensual,364,"Betancourt, Pedro Pablo",Creador,"Betancourt, Pedro P.",NA,FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.6,312-314
+Cvltura. Revista mensual,365,Anónimo,Ilustrador,NA,NA,Don Fidel Cano en la intimidad,36,MCMXX,1920-01-01,No,NA,Español,NA,Imagen,Instantánea,NA,NA,0.3,NA
+Cvltura. Revista mensual,366,Anónimo,Ilustrador,NA,NA,Don Fidel Cano en la intimidad,36,MCMXX,1920-01-01,No,NA,Español,NA,Imagen,Instantánea,NA,NA,0.3,NA
+Cvltura. Revista mensual,367,Anónimo,Ilustrador,NA,NA,Don Fidel Cano en la intimidad,36,MCMXX,1920-01-01,No,NA,Español,NA,Imagen,Instantánea,NA,NA,0.4,NA
+Cvltura. Revista mensual,367a,"Cano Villegas, Gabriel",Creador,NA,Colombia,FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.6,314-315
+Cvltura. Revista mensual,367b,"Cano, Luis",Creador,NA,Colombia,FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.6,314-315
+Cvltura. Revista mensual,368,"Castro, Alfonso",Creador,NA,Colombia,FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,02.7,316-318
+Cvltura. Revista mensual,369,"Cano Gutiérrez, Fidel",Creador,NA,Colombia,FIDEL CANO Y LA PENA DE MUERTE,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,Discurso,NA,NA,02.8,319-321
+Cvltura. Revista mensual,370,"Cano Gutiérrez, Fidel",Creador,NA,Colombia,EL COLOR DEL PRESIDENTE,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,322-326
+Cvltura. Revista mensual,371a,"Nieto Caballero, Agustín",Director,Los editores,Colombia,HOMENAJE A FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,Notas al margen,NA,NA,1,327
+Cvltura. Revista mensual,371b,"Santos, Gustavo",Director,Los editores,Colombia,HOMENAJE A FIDEL CANO,36,MCMXX,1920-01-01,No,NA,Español,NA,Prosa No Ficción,Nota,NA,NA,1,327
+Cvltura. Revista mensual,372,Anónimo,Anunciante,NA,NA,Problemas de la Raza. Volumen II. Biblioteca Cultura – Librería Santa Fe. Gustavo Santos & Cía.,36,MCMXX,1920-01-01,No,NA,Español,NA,Publicidad,Anuncio,NA,NA,2,NA

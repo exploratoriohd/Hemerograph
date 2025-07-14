@@ -1,0 +1,293 @@
+NombreR,NumContrib,Colaborador,Roles,Seudonimo,PaisOrigen,Titulo,NumFasciculo,Fecha,Fecha-ISO,Traduccion,Traductor,Lengua,LenguaOriginal,Tipo,TipoIndice,Dedicatoria,ObrasResenadas,CantidadPaginas,Paginacion
+Trofeos,1,Anónimo,Anunciante,NA,NA,Trofeos,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Trofeos,2a,"Londoño, Víctor Manuel",Director,NA,Colombia,Nota editorial,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Prosa No Ficción,Nota editorial,NA,NA,1,1
+Trofeos,2b,"López, Ismael",Director,NA,Colombia,Nota editorial,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Prosa No Ficción,Nota editorial,NA,NA,1,1
+Trofeos,3,"Acosta, Javier",Creador,NA,Colombia,El centavro. Poema antiguo por Ismael López,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Prosa No Ficción,Estudio crítico,NA,NA,05.5,2-7
+Trofeos,4,"Chénier, André",Creador,NA,Francia,A Fanny,1,15 de septiembre de 1906,1906-09-15,Sí,"Caro, Miguel Antonio",Español,Francés,Poesía,NA,NA,NA,1,7-8
+Trofeos,5,"Giraldo, Francisco",Creador,NA,Colombia,Enlace de brumas,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,8-9
+Trofeos,6,"Uribe, Diego",Creador,NA,Colombia,Portada,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,9-10
+Trofeos,7,"Sánchez, Alberto",Creador,NA,Colombia,De arte,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,02.5,10-12
+Trofeos,8,"Gómez Restrepo, Antonio",Creador,NA,Colombia,En la villa de Adriano,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Poesía,Poesía,"Camacho, Guillermo",NA,0.5,13
+Trofeos,9,"Duque Uribe, Rafael",Creador,R.Doribe,NA,Bellas artes,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,13-15
+Trofeos,10,"Cervera, Manuel",Creador,NA,Argentina,"De ""dualidades heroícas""",1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.5,16
+Trofeos,11,"Retté, Adolphe",Creador,NA,Francia,Himno a los árboles. Adolfo Retté,1,15 de septiembre de 1906,1906-09-15,Sí,"Castillo, Eduardo",Español,Francés,Poesía,Poesía,NA,NA,0.5,16
+Trofeos,12,"Valencia, Francisco",Creador,Pacho Valencia,Colombia,Lo que dice el café,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,17-18
+Trofeos,13,"Sanín Cano, Baldomero",Creador,B. Sanín Cano,Colombia,Señores directores de Trofeos,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Prosa No Ficción,Carta,NA,NA,1,19
+Trofeos,14,"Londoño, Víctor Manuel",Director,V.M.L.,Colombia,Guillermo Posada. Quimeras,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Reseña,NA,NA,Quimera de Guillermo Posada,2,20-21
+Trofeos,15,"Ossa, Valentín",Creador,V.O.,Colombia,Miscelanea Literaria,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Reseña de revista,NA,NA,Miscelanea Literario  de Buga,0.8,22
+Trofeos,16,"Londoño, Víctor Manuel",Director,V.M.L.,Colombia,Ruben Dario.Opiniones,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Reseña,NA,NA,Opiniones de Rubén Darío,01.3,22-24
+Trofeos,17,"López, Ismael",Director,NA,Colombia,El viaje de Esparta a Barres,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Prosa Ficción,Notas,NA,NA,02.9,24-26
+Trofeos,18,"Louÿs, Pierre",Creador,NA,Bélgica,Fragmento inédito de Afrodita,1,15 de septiembre de 1906,1906-09-15,Sí,Anónimo,Español,Francés,Poesía,Notas,NA,NA,0.5,27
+Trofeos,19,"López, Ismael",Director,I.L.,Colombia,Tierra propia,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Reseña de revista,NA,NA,Tierra Propia (revista de Popayán),1,27-28
+Trofeos,20,"Naranjo Martínez, Enrique",Creador,Enrique Naranjo M.,Colombia,Últimos sobrevivientes de la independencia,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,2,28-30
+Trofeos,21,"Barrès, Maurice",Creador,NA,Francia,La partida,1,15 de septiembre de 1906,1906-09-15,Sí,Directores (Trofeos),Español,Francés,Prosa No Ficción,Notas,NA,NA,01.5,30-31
+Trofeos,22,"Espinosa Guzmán, Rafael",Creador,REG,Colombia,Crónica Bogotana,1,15 de septiembre de 1906,1906-09-15,No,NA,Español,NA,Prosa No Ficción,Crónica,NA,NA,1,32
+Trofeos,23,Anónimo,Creador,NA,NA,Sumario,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa No Ficción,índice,NA,NA,1,NA
+Trofeos,24,Anónimo,Creador,NA,NA,Información de la revista,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Trofeos,25,"Torres, Carlos Arturo",Creador,Carlos A. Torres,Colombia,El ciclo romano. En Shakespeare (Estudios ingleses. La cuna de Shakespeare. Parte II. La obra,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa Ficción,Capítulo de libro,NA,NA,5,33-37
+Trofeos,26,"Pardo Farelo, Enrique",Creador,Luis Tablanca,Colombia,Alma colonial,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,01.4,38-39
+Trofeos,27,"Posada, Guillermo",Creador,NA,Colombia,Cosmopolita,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.6,39
+Trofeos,28,"Carvajal, Manuel Antonio",Creador,M. A. Carvajal,Colombia,Sobre la tristeza de una alma,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,01.3,40-41
+Trofeos,29,"Acosta, Javier",Creador,NA,Colombia,Cantico de iniciación. A Afrodita,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Poesía,Poesía,"Manassevitz, Gerardo ",NA,2,41-43
+Trofeos,30,"Grillo, Maximiliano",Creador,Max Grillo,Colombia,Revistas americanas,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,43-44
+Trofeos,31,"Grillo, Maximiliano",Creador,Max Grillo,Colombia,"Revista de Derecho, Historia y Letras",2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.6,44-45
+Trofeos,32,"Grillo, Maximiliano",Creador,Max Grillo,Colombia,Revista Moderna de México,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,45-46
+Trofeos,33,"Grillo, Maximiliano",Creador,Max Grillo,Colombia,Revista de Letras y ciencias sociales,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,46
+Trofeos,34,"Londoño, Víctor Manuel",Director,V.M. Londoño,Colombia,"Paul Fort .Director de ""Vers et Prose""",2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.5,47-48
+Trofeos,35,"Fort, Paul",Creador,NA,Francia,Diana,2,15 de octubre de 1906,1906-10-15,Sí,"Londoño, Víctor Manuel",Español,Francés,Poesía,Baladas,NA,NA,0.5,48
+Trofeos,36,"Fort, Paul",Creador,NA,Francia,Filomela,2,15 de octubre de 1906,1906-10-15,Sí,"Londoño, Víctor Manuel",Español,Francés,Poesía,Baladas,NA,NA,0.7,49
+Trofeos,37,"Fort, Paul",Creador,NA,Francia,Balada del cortijo,2,15 de octubre de 1906,1906-10-15,Sí,"Londoño, Víctor Manuel",Español,Francés,Poesía,Baladas,NA,NA,0.6,49-50
+Trofeos,38,"Martínez Rivas, Federico",Creador,NA,Colombia,Por ellos,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.7,50
+Trofeos,39,"Arce, Julio César",Creador,NA,Colombia,Novicia,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,51
+Trofeos,40,"Posada, Guillermo",Reseñista,NA,Colombia,E. Gómez Carrillo de Marsella a Tokio,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Reseña,NA,NA,De Marsella á Tokio por E Gómez Carrillo,02.2,52-54
+Trofeos,41,"Valderrama, Felipe",Creador,NA,NA,Manuel Reina. Robles de la selva sagrada,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa Ficción,Fragmento de libro,NA,NA,0.8,54
+Trofeos,42,"Posada, Guillermo",Creador,NA,Colombia,La sandale Ailée,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,55
+Trofeos,43,"Régnier, Henri de",Creador,NA,Francia,Dedicace,2,15 de octubre de 1906,1906-10-15,No,NA,Francés,Francés,Poesía,NA,NA,NA,0.3,55
+Trofeos,44,"Murena, Claudio",Creador,NA,NA,Mercurio ante Apolo,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,01.8,55-57
+Trofeos,45,"Londoño, Víctor Manuel",Director,NA,Colombia,Alpha,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Reseña de revista,Revistas,NA,Alpha (Medellín),01.6,57-59
+Trofeos,46,Anónimo,Creador,NA,NA,El Heraldo del Istmo,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Reseña de revista,Revistas,NA,El Heraldo del Istmo (Panamá),0.3,59
+Trofeos,47,Anónimo,Creador,NA,NA,Osiris,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Reseña de revista,Revistas,NA,Osiris (Barranquilla),0.3,59
+Trofeos,48,Anónimo,Creador,NA,NA,Valquiria,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Reseña de revista,Revistas,NA,Valquiria (Pamplona),0.3,59
+Trofeos,49,"Matos Hurtado, Belisario",Creador,"Hurtado, Matos",Colombia,NA,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,60
+Trofeos,50,"López, Ismael",Director,I.L.,Colombia,Notas marginales,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,03.1,60-63
+Trofeos,51,"Villafañe, Carlos",Creador,C. Villafañe,Colombia,Información política,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.4,63-64
+Trofeos,52,"Espinosa Guzmán, Rafael",Creador,REG,Colombia,Crónica Bogotana,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa Ficción,Crónica,NA,NA,1,NA
+Trofeos,53,"Valderrama, Felipe",Creador,NA,NA,Ecos de la prensa,2,15 de octubre de 1906,1906-10-15,No,NA,Español,NA,Prosa No Ficción,Ecos de la prensa,NA,NA,1,NA
+Trofeos,54,Anónimo,Creador,NA,NA,Trofeos,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,55,Anónimo,Creador,NA,NA,"Suscriptores de ""Trofeos""",3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa No Ficción,Suscriptores,NA,NA,1,NA
+Trofeos,56,Anónimo,Anunciante,NA,NA,NA,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Publicidad,NA,NA,NA,3,NA
+Trofeos,57,"Gómez Restrepo, Antonio",Creador,NA,Colombia,D. Belisario Peña,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,04.5,65-70
+Trofeos,58,"Flórez Álvarez, Ester",Creador,Floralba,Colombia,Canción sin palabras,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,70
+Trofeos,59,"Villafañe, Carlos",Creador,NA,Colombia,Tierra del alma,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,04.5,71-75
+Trofeos,60,"Londoño, Víctor Manuel",Director,V.M. Londoño,Colombia,Gente nueva,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,03.8,75-79
+Trofeos,61,"Machado, Gonzalo",Creador,NA,Colombia,Plegaria al sol,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Poesía,NA,"López, Ismael",NA,0.7,79
+Trofeos,62,"Grillo, Maximiliano",Creador,Max Grillo,Colombia,En la capilla del rosario,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,02.6,80-82
+Trofeos,63,"Güell, Joaquín M.",Creador,NA,Colombia,Retorno al ideal,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,82
+Trofeos,64,"Valencia, Francisco",Creador,Pacho Valencia,Colombia,La virtud de tu mano,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,01.5,83-84
+Trofeos,65,"Carvajal, Alberto",Creador,NA,Colombia,Luz de ocaso,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,84-85
+Trofeos,66,"Nieto, Ricardo",Creador,NA,Colombia,Casa de muñeca,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,02.6,85-87
+Trofeos,67,"Barriga Páez, Julio",Creador,NA,NA,Elena,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,01.2,87-88
+Trofeos,68,"Gómez Restrepo, Antonio",Creador,NA,Colombia,In memoriam,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,89
+Trofeos,69,"Valderrama, Felipe",Creador,NA,NA,Almas que pasan,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,89
+Trofeos,70,"Nervo, Amado",Creador,NA,México,Las casas . Del libro Almas que pasan,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa Ficción,Fragmento de libro,NA,NA,03.7,89-92
+Trofeos,71,"Valderrama, Felipe",Reseñista,NA,NA,F. Rodriguez Moya,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Reseña,NA,NA,Prosas líricass de F. Rodríguez Moya,0.4,92
+Trofeos,72,"López, Ismael",Director,NA,Colombia,Notas marginales,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,92-94
+Trofeos,73,"Cuervo, Rufino José",Creador,NA,Colombia,Señor D. Ismael López,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,94
+Trofeos,74,"Villafañe, Carlos",Creador,NA,Colombia,Información política,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,02.2,94-96
+Trofeos,75,"Palacio Uribe, Benjamín",Creador,Felipe Azorín,Colombia,El banquete literario del domingo,3,1 de noviembre de 1906,1906-11-01,No,NA,Español,NA,Prosa No Ficción,Crónica,NA,NA,01.8,NA
+Trofeos,76,Anónimo,Creador,NA,NA,Trofeos,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,77,Anónimo,Creador,NA,NA,"Suscriptores de ""Trofeos""",4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa No Ficción,Suscriptores,NA,NA,1,NA
+Trofeos,78,Anónimo,Anunciante,NA,NA,NA,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Trofeos,79,"Posada, Eduardo",Creador,E.P,Colombia,Rehabilitación,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,02.5,97-99
+Trofeos,80,"Carvajal, Manuel Antonio",Creador,M. A. Carvajal,Colombia,Claro de luna,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,99-100
+Trofeos,81,"Paillié, Francisco A.",Creador,Franscisco A. Paillié,Colombia,Estados del alma,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,100-102
+Trofeos,82,"Fort, Paul",Creador,NA,Francia,Filomela,4,25 de noviembre de 1906,1906-11-25,Sí,"Bonilla, Manuel A.",Español,Francés,Poesía,NA,"Londoño, Víctor Manuel",NA,01.9,102-103
+Trofeos,83,"Peña, Pedro A.",Creador,Pedro A. Peña,Venezuela,Bajo los robles,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,01.4,104-105
+Trofeos,84,"Velásquez, Edmundo",Creador,NA,Colombia,Versos sencillos,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Poesía,NA,NA,NA,01.1,105-106
+Trofeos,85,"Uribe Holguín, Guillermo",Creador,NA,Colombia,"Los pirineos, de Felipe Pedrell",4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,105-111
+Trofeos,86,"Santamaría Vermersch, Ricardo",Creador,"Santa María Vermersch, R.",Colombia,Ephraim Michael (1866-1890),4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,03.5,111-114
+Trofeos,87,"Escobar Sarmiento, Ricardo",Creador,Delio Seravile,Colombia,Maitines,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,115
+Trofeos,88,"Posada, Guillermo",Creador,NA,Colombia,Versalles (I),4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,04.8,115-119
+Trofeos,89,"Londoño, Víctor Manuel",Director,V.M. Londoño,Colombia,La muerte del Simbolismo,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,05.2,119-123
+Trofeos,90,"Jaramillo P., Escipión",Creador,NA,NA,XVII,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,123
+Trofeos,91,"Uribe, Diego",Reseñista,NA,Colombia,Tierra del alma,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Reseña,NA,NA,Tierra del alma de Carlo Villafañe,2,124-125
+Trofeos,92,"Díaz, Leopoldo",Creador,NA,Argentina,Señor D. Ismael López,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,126
+Trofeos,93,Anónimo,Creador,NA,NA,NA,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,126
+Trofeos,94,"Díaz, Leopoldo",Creador,NA,Argentina,Ofrande,4,25 de noviembre de 1906,1906-11-25,Sí,"Frédéric, Raisin",Francés,Español,Poesía,NA,NA,NA,0.3,126
+Trofeos,95,"Valderrama, Felipe",Creador,NA,NA,Francisco A. De Icaza. La canción del camino,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,La canción del camino de Francisco A. de Icaza,0.2,127
+Trofeos,96,"Icaza, Francisco A. de",Creador,NA,México,La canción del camino,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,127
+Trofeos,97,"Icaza, Francisco A. de",Creador,NA,México,Y la nave…,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,127
+Trofeos,98,"Naranjo Martínez, Enrique",Creador,NA,Colombia,EL carrusel,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa No Ficción,Notas bogotanas,NA,NA,1,NA
+Trofeos,99,"Valderrama, Felipe",Creador,NA,NA,Ecos de la prensa,4,25 de noviembre de 1906,1906-11-25,No,NA,Español,NA,Prosa No Ficción,Ecos de la prensa,NA,NA,2,128
+Trofeos,100,Anónimo,Creador,NA,NA,Trofeos,5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,101,"Prudhomme, Sully",Creador,NA,Francia,La nereida. Poema lírico de Sully Prudhomme,5,5 de enero de 1907,1907-01-05,Sí,"Caro, Miguel Antonio",Español,Francés,Poesía,Poema lírico,NA,NA,4,129-132
+Trofeos,102,"Pardo Farelo, Enrique",Creador,Luis Tablanca,Colombia,María dolorosa,5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa Ficción,Cuento,"López, Ismael",NA,01.5,133-134
+Trofeos,103,"Carvajal, Manuel Antonio",Creador,M. A. Carvajal,Colombia,Meditación crepuscular,5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,01.5,134-135
+Trofeos,104,"Castillo, Eduardo",Creador,NA,Colombia,A una novicia,5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,1,136
+Trofeos,105,"Londoño, Víctor Manuel",Director,V.M. Londoño,Colombia,"Alma America . Poemas Indo-Españoles-José Santos Chocano-Madrid, 1906",5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,05.2,137-142
+Trofeos,106,"Posada, Guillermo",Creador,NA,Colombia,En Austria (I),5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa No Ficción,Fragmento de libro,NA,NA,02.8,142-144
+Trofeos,107,"López, Ismael",Director,NA,Colombia,A proposito de una artículo de Lugones,5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7,145-151
+Trofeos,108,"Fernández García, Alejandro",Creador,NA,Venezuela,"De El cojo Ilustrado, correspondienre al 15 de Octubre último",5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,152
+Trofeos,109,Anónimo,Creador,NA,NA,NA,5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,152
+Trofeos,110,"Bocquet, León",Creador,NA,Francia,Leoón Bocquet. Albert Samin-Mercure de France,5,5 de enero de 1907,1907-01-05,Sí,"Londoño, Víctor Manuel",Español,Francés,Prosa No Ficción,NA,NA,NA,1,152-153
+Trofeos,111,"Duque Uribe, Rafael",Reseñista,R. D'Oribe,NA,Fraulein Emma (I),5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Reseña,NA,NA,Fraulein Emma de D Juan Servert,2,153-155
+Trofeos,112,"López, Ismael",Director,I.L.,Colombia,La inmigración al cauca,5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.2,155-156
+Trofeos,113,"Holguín, Jorge",Creador,NA,Colombia,"Sr Alcalde de Cali-Cauca, Colombia",5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa No Ficción,Carta,NA,NA,01.8,157-158
+Trofeos,114,"Londoño, Víctor Manuel",Director,V.M.L.,Colombia,El silencio,5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.6,158-160
+Trofeos,115,"Santamaría Vermersch, Ricardo",Creador,R.S.M,Colombia,"""Christmas"" en Bogotá",5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa No Ficción,Crónica,NA,NA,01.6,NA
+Trofeos,116,Anónimo,Creador,NA,NA,Revistas de la paz,5,5 de enero de 1907,1907-01-05,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,NA
+Trofeos,117,Anónimo,Creador,NA,NA,Trofeos,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,118,"Cuervo, Rufino José",Creador,"R. J., Cuervo",Colombia,Señores Victor M. Londoño e Isamel López,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,161-162
+Trofeos,119,"Grillo, Maximiliano",Creador,Max Grillo,Colombia,Breves apuntes. Acerca de D. Miguel de Unamuno y de su influencia en las letras Hispano-Americanas,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,09.5,163-172
+Trofeos,120,"Castro, Eugenio de",Creador,NA,Portugal,Nocturno (De Eugenio de Castro),6,1 de febrero de 1907,1907-02-01,Sí,"Valencia, Guillermo",Español,Postugués,Poesía,NA,"Diago, Francisco E. ",NA,01.7,172-174
+Trofeos,121,"Sanín Cano, Baldomero",Creador,NA,Colombia,Oración para los dás mejores,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,Fragmento de libro,NA,NA,01.8,174-175
+Trofeos,122,"Valencia, Francisco",Creador,Pacho Valencia,Colombia,Canto del exodo,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,04.2,176-180
+Trofeos,123,"López, Ismael",Director,NA,Colombia,Documentos hostóricos (I),6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,NA,"Carvajal, Alberto",NA,05.8,180-185
+Trofeos,124,"Céspedes, Ángel María",Creador,NA,Colombia,Agreste,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,186
+Trofeos,125,"Sánchez, Alberto",Creador,NA,Colombia,Bienvenida,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,187
+Trofeos,126,"Londoño, Víctor Manuel",Director,V.M.L.,Colombia,Notas marginales,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,02.2,187-189
+Trofeos,127,"Valderrama, Felipe",Creador,NA,NA,Enrique López Alarcón. Contelación,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,Constelaciones de Emrique López Alarcón,1,190
+Trofeos,128,"Moréas, Jean",Creador,NA,Grecia,André Chenier,6,1 de febrero de 1907,1907-02-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,0.8,191
+Trofeos,129,Anónimo,Creador,NA,NA,Bogotá Ilustrado. Revista mensual de literatura y arte,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,191-192
+Trofeos,130,"Naranjo Martínez, Enrique",Creador,NA,Colombia,Monserrate,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,192-193
+Trofeos,131,"López, Ismael",Director,I.L.,Colombia,"Inmigración y colonización. Por Tomás Carrasquilla H. Edición oficial. Imprenta Nacional, 1906",6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,02.5,193-195
+Trofeos,132,Anónimo,Creador,NA,NA,NA,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,196
+Trofeos,133,"Valderrama, Felipe",Creador,NA,NA,Ecos de la prensa,6,1 de febrero de 1907,1907-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,02.7,196-198
+Trofeos,134,Anónimo,Creador,NA,NA,Trofeos,7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,135,Anónimo,Anunciante,NA,NA,NA,7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Publicidad,NA,NA,NA,4,NA
+Trofeos,136,"Sanín Cano, Baldomero",Creador,B. Sanín Cano,Colombia,Acto de desesperación (II),7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,02.5,201-203
+Trofeos,137,"Gómez Restrepo, Antonio",Creador,NA,Colombia,La Gioconda (Leonardo da Vinci),7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Poesía,NA,"Cuervo, Rufino José",NA,0.5,204
+Trofeos,138,"Castro, Eugenio de",Creador,NA,Portugal,Crepúsculo,7,1 de marzo de 1907,1907-03-01,Sí,"Valencia, Guillermo",Español,Postugués,Poesía,NA,NA,NA,02.5,204-206
+Trofeos,139,"Paillié, Francisco A.",Creador,Franscisco A. Paillié,Colombia,A propósito de Ibsen,7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,02.5,207-208
+Trofeos,140,"Santamaría Vermersch, Ricardo",Reseñista,"Santa María Vermersch, R.",Colombia,Les désenchantées,7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Reseña,NA,NA,"Les Desénchantés. Roman des Harems turcs contemporains, de Pierre Loti",6,209-215
+Trofeos,141,"Sánchez, Alberto",Creador,NA,Colombia,Ave gratia plena,7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,216
+Trofeos,142,"Pilon, Edmond",Creador,NA,Francia,Edmon Pilon y los cisnes del Cayla. Moseur Isamel Lopez,7,1 de marzo de 1907,1907-03-01,No,NA,Francés,Francés,Prosa No Ficción,NA,NA,NA,0.5,217
+Trofeos,143,"López, Ismael",Director,NA,Colombia,Edmon Pilon,7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,04.5,217-221
+Trofeos,144,"Guérin, Maurice de",Creador,NA,Francia,La roche D'Onelle,7,1 de marzo de 1907,1907-03-01,No,NA,Francés,Francés,Poesía,NA,NA,NA,0.5,222
+Trofeos,145,"Guérin, Maurice de",Creador,NA,Francia,La roche D'Onelle. Traducción,7,1 de marzo de 1907,1907-03-01,Sí,"Silva, José Asunción",Español,Francés,Poesía,NA,NA,NA,0.5,222
+Trofeos,146,"Londoño, Víctor Manuel",Reseñista,NA,Colombia,Carlos Baudelaire,7,1 de marzo de 1907,1907-03-01,Sí,"Marquina, Eduardo",Español,Francés,Reseña,NA,NA,Las flores del mal de Charles Baudelaire. Traducción de Eduardo Marquina,03.6,223-226
+Trofeos,147,"Gourmont, Remy de",Creador,NA,Francia,Remy de Gourmount.Une nuit au Luxembourg,7,1 de marzo de 1907,1907-03-01,Sí,"Londoño, Víctor Manuel",Español,Francés,Prosa Ficción,NA,NA,NA,2,226-228
+Trofeos,148,"Ouvré, Henry",Creador,NA,Francia,Sócrates,7,1 de marzo de 1907,1907-03-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,0.5,228
+Trofeos,149,"Briceño, Manuel",Reseñista,NA,Colombia,Álvaro de la Iglesia,7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Reseña,NA,NA,Adoración de Alvaro de la Iglesia,1,229
+Trofeos,150,"Londoño, Víctor Manuel",Director,V.M. Londoño,Colombia,Don Benito Navarro O,7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,230
+Trofeos,151,"Olaya Herrera, Enrique",Creador,NA,Colombia,Notas parisienses. En los Boulevards,7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,01.5,231-232
+Trofeos,152,"Naranjo Martínez, Enrique",Creador,NA,Colombia,¡Los toros!,7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,Notas bogotanas,NA,NA,01.6,133-234
+Trofeos,153,Anónimo,Creador,NA,NA,Errata,7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,Errata,NA,NA,0.4,234
+Trofeos,154,Anónimo,Creador,NA,NA,Ecos de la prensa,7,1 de marzo de 1907,1907-03-01,No,NA,Español,NA,Prosa No Ficción,Ecos de la prensa,NA,NA,2,235-236
+Trofeos,155,Anónimo,Creador,NA,NA,Trofeos,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,156,"Díaz, Leopoldo",Creador,NA,Argentina,Oda breve a Gonzalo de Berceo,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Poesía,NA,Trofeos,NA,01.5,237-238
+Trofeos,157,"Cervera, Manuel",Creador,NA,Argentina,Protagonistas,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,238
+Trofeos,158,"Sanín Cano, Baldomero",Creador,NA,Colombia,Meditaciones sobre el desdén III,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Prosa Ficción,Fragmento de libro,NA,NA,3,239-241
+Trofeos,159,"Uribe, Diego",Creador,NA,Colombia,La costurera,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Poesía,NA,"Sanín Cano, Baldomero",NA,2,242-243
+Trofeos,160,"López, Ismael",Director,NA,Colombia,Congresos Internacionales americanos II,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Prosa No Ficción,NA,"Goénaga, José Manuel ",NA,08.5,244-252
+Trofeos,161,"Wilde, Oscar",Creador,NA,Irlanda,Parábola del milagro (de Oscar Wilde),8,25 de marzo de 1907,1907-03-25,Sí,"Lucerna, Salvador",Español,Inglés,Poesía,NA,NA,NA,01.5,252-253
+Trofeos,162,"López, Ismael",Director,NA,Colombia,José Enrique Rodó. Liberalismo y Jacobinismo,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,Liberalismo y Jacobinismo de José Enrique Rodó,04.2,254-258
+Trofeos,163,"Beaunier, André",Creador,NA,Francia,Maurice Barrés Académico,8,25 de marzo de 1907,1907-03-25,Sí,"Londoño, Víctor Manuel",Español,Francés,Prosa No Ficción,NA,NA,NA,01.7,258-260
+Trofeos,164,"Londoño, Víctor Manuel",Director,NA,Colombia,John Ruskin. Unto thi last,8,25 de marzo de 1907,1907-03-25,Sí,"Aparicio, Ciges",Español,Inglés,Reseña,NA,NA,Unto this Last de Hohn Ruskin,02.9,260-263
+Trofeos,165,"López, Ismael",Director,NA,Colombia,Los pensadores griegos,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Reseña,NA,NA,Los Pensadores griegos de Teodor Gomperz,0.6,263
+Trofeos,166,"Gomperz, Theodor",Creador,NA,Austria,Vida de Jenófanes,8,25 de marzo de 1907,1907-03-25,Sí,Directores (Trofeos),Español,Traducción del Frances,Prosa Ficción,NA,NA,NA,0.9,264
+Trofeos,167,"Londoño, Víctor Manuel",Director,NA,Colombia,Una lección de modestia,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,264-265
+Trofeos,168,"López, Ismael",Director,NA,Colombia,Argos. Revista quincenal de literatura y variedad -Barranquilla,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Reseña de revista,NA,NA,Argos. Revista quincenal de Literatura y variedades (Barranquilla),0.5,265
+Trofeos,169,"Rosa, Leopoldo de la",Creador,NA,Colombia,Safo de Mitilene,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Poesía,NA,"López, Ismael",NA,1,266
+Trofeos,170,"Cervera, Manuel",Creador,NA,Argentina,Tras su huella,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,267
+Trofeos,171,"Londoño, Víctor Manuel",Director,NA,Colombia,Flor natural,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,01.6,267-268
+Trofeos,172,Anónimo,Anunciante,NA,NA,NA,8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Trofeos,173,Anónimo,Creador,NA,NA,"Libros publicados por la imprenta de ""La cruz""",8,25 de marzo de 1907,1907-03-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,174,Anónimo,Creador,NA,NA,Trofeos,9,1 de mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,175,"Grillo, Maximiliano",Creador,Max Grillo,Colombia,El hombre de hierro,9,1 de mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,NA,Camacho Roldán. Joaquín,El Hombre de Hierro de Rufino Blanco Fombona,05.5,269-274
+Trofeos,176,"Velásquez Botero, Samuel",Creador,NA,Colombia,La duquesa,9,1 de mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,5,274-279
+Trofeos,177,"Wilde, Oscar",Creador,NA,Irlanda,La casa del Juez (de Oscar Wilde),9,1 de mayo de 1907,1907-05-01,Sí,"Lucerna, Salvador",Español,Inglés,Poesía,NA,"López, Ismael",NA,02.2,279-281
+Trofeos,178,"Escobar Sarmiento, Ricardo",Creador,Delio Seravile,Colombia,El entierro del enterrador,9,1 de mayo de 1907,1907-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,281
+Trofeos,179,"Sánchez, Alberto",Creador,NA,Colombia,En Santafé,9,1 de mayo de 1907,1907-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,282
+Trofeos,180,"Carvajal, Manuel Antonio",Creador,M. A. Carvajal,Colombia,Laude,9,1 de mayo de 1907,1907-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,282-283
+Trofeos,181,"Céspedes, Ángel María",Creador,NA,Colombia,Floresta,9,1 de mayo de 1907,1907-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,01.8,283-284
+Trofeos,182,"López, Ismael",Director,NA,Colombia,NA,9,1 de mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.5,285-286
+Trofeos,183,"Londoño, Víctor Manuel",Director,NA,Colombia,Pages Choisies. León Bloy,9,1 de mayo de 1907,1907-05-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,02.3,286-288
+Trofeos,184,"Barrès, Maurice",Creador,NA,Francia,Las plegarias que no se confunden,9,1 de mayo de 1907,1907-05-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Capítulo de libro,NA,NA,03.7,288-292
+Trofeos,185,"Londoño, Víctor Manuel",Director,V.M.L.,Colombia,Notas marginales,9,1 de mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,Notas marginales,NA,Madre de Samuel Velásquez,3,292-295
+Trofeos,186,"Leopardi, Giacomo",Creador,NA,Italia,Pensamiento de Leopardi,9,1 de mayo de 1907,1907-05-01,Sí,"Bayo, Ciro",Español,Italiano,Prosa Ficción,NA,NA,NA,2,295-297
+Trofeos,187,"Londoño, Víctor Manuel",Director,NA,Colombia,Deportes norteamericanos,9,1 de mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,297-300
+Trofeos,188,Anónimo,Creador,Trofeos,NA,Josué Carducci,9,1 de mayo de 1907,1907-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,300
+Trofeos,189,"Carducci, Giosuè",Creador,NA,Italia,El Buey,9,1 de mayo de 1907,1907-05-01,Sí,"Sams y Castelín, Enrique",Español,Italiano,Poesía,NA,NA,NA,0.5,300
+Trofeos,190,Anónimo,Creador,NA,NA,Trofeos,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,191,Anónimo,Ilustrador,NA,NA,NA,"10,11",10 de junio de 1907,1907-06-10,No,NA,NA,NA,Imagen,NA,NA,NA,0.6,301
+Trofeos,192,"Gómez Restrepo, Antonio",Creador,NA,Colombia,Carducci,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,07.9,301-309
+Trofeos,193,"Carducci, Giosuè",Creador,NA,Italia,Il Bove,"10,11",10 de junio de 1907,1907-06-10,No,NA,Italiano,Italiano,Poesía,NA,NA,NA,0.5,310
+Trofeos,194,"Carducci, Giosuè",Creador,NA,Italia,El Buey. (Traducción),"10,11",10 de junio de 1907,1907-06-10,Sí,"Caro, Miguel Antonio",Español,Italiano,Poesía,NA,NA,NA,0.5,310
+Trofeos,195,"Carducci, Giosuè",Creador,NA,Italia,A Virgilio (Carducci),"10,11",10 de junio de 1907,1907-06-10,Sí,"Caro, Miguel Antonio",Español,Italiano,Poesía,NA,NA,NA,0.5,311
+Trofeos,196,"Carducci, Giosuè",Creador,NA,Italia,Mi nave (Carducci),"10,11",10 de junio de 1907,1907-06-10,Sí,"Gómez Restrepo, Antonio",Español,Italiano,Poesía,NA,"Arciniegas, Ismael",NA,0.5,311
+Trofeos,197,"Carducci, Giosuè",Creador,NA,Italia,Clasicismo y Romanticismo (Carducci),"10,11",10 de junio de 1907,1907-06-10,Sí,"Narváez, Roberto de",Español,Italiano,Poesía,NA,NA,NA,01.3,312-313
+Trofeos,198,"Carducci, Giosuè",Creador,NA,Italia,Alborada (Carducci),"10,11",10 de junio de 1907,1907-06-10,Sí,"Narváez, Roberto de",Español,Italiano,Poesía,NA,NA,NA,0.7,313
+Trofeos,199,"Sanín Cano, Baldomero",Creador,NA,Colombia,Carducci I. El poeta,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Prosa No Ficción,NA,"Blanco Fombona, Rufino",NA,5,314-318
+Trofeos,200,"Sanín Cano, Baldomero",Creador,B. Sanín Cano,Colombia,Carducci II. El crítico,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Prosa No Ficción,NA,"Rodó, José E.",NA,4,319-322
+Trofeos,201,"Blanco Fombona, Rufino",Creador,R.B.F.,Venezuela,Noticulas,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Prosa No Ficción,NA,Trofeos,NA,1,323
+Trofeos,202,"Blanco Fombona, Rufino",Creador,R. Blanco Fombona,Venezuela,"París, 24 de marzo de 1903","10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,01.6,324-325
+Trofeos,203,"Blanco Fombona, Rufino",Creador,R. Blanco Fombona,Venezuela,2 de abril,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,325
+Trofeos,204,"Grillo, Maximiliano",Creador,Max Grillo,Colombia,A Carducci,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,326
+Trofeos,205,"Cano, Antonio José",Creador,Antonio J. Cano,Colombia,El pájaro rojo,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Poesía,NA,"Londoño, Víctor Manuel",NA,0.4,326
+Trofeos,206,"López, Ismael",Director,NA,Colombia,Confederación Hispano-Americana III,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Prosa No Ficción,NA,"Vásquez Cobo, A (general)",NA,6,327-332
+Trofeos,207,"Briand, Aristide",Creador,Briand Monseur,Francia,Marcelino Berthelot,"10,11",10 de junio de 1907,1907-06-10,Sí,"Londoño, Víctor Manuel",Español,Francés,Prosa No Ficción,NA,NA,NA,03.8,333-336
+Trofeos,208,"D'Annunzio, Gabriele",Creador,NA,Francia,D'Annunzio Imperialista,"10,11",10 de junio de 1907,1907-06-10,Sí,"Valderrama, Felipe",Español,Francés,Prosa No Ficción,NA,NA,NA,0.7,336-337
+Trofeos,209,"Londoño, Víctor Manuel",Director,NA,Colombia,Charles Guérin,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,337-338
+Trofeos,210,"Uribe, Diego",Reseñista,NA,Colombia,Carlos A. Torres. Obra poética,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Reseña,NA,NA,Obra Poética de Carlos Arturo Torres,01.5,338-339
+Trofeos,211,"Duque Uribe, Rafael",Reseñista,R. D'Oribe,NA,Antonio Fogazzaro. Il Santo- Luigi Beltrami,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Reseña,NA,NA,Il Santo de Antonio Fogazzaro,01.2,340-341
+Trofeos,212,Anónimo,Creador,NA,NA,Ultimos versos de Carducci,"10,11",10 de junio de 1907,1907-06-10,Sí,Anónimo,Español,Italiano,Prosa Ficción,NA,NA,NA,0.5,341
+Trofeos,213,"Gomperz, Theodor",Creador,NA,Austria,Sócrates es condenado a muerte (I),"10,11",10 de junio de 1907,1907-06-10,Sí,Directores (Trofeos),Español,Alemán,Prosa Ficción,NA,NA,NA,01.5,341-343
+Trofeos,214,"Gomperz, Theodor",Creador,NA,Austria,Juicio sobre Sócrates (I),"10,11",10 de junio de 1907,1907-06-10,Sí,Directores (Trofeos),Español,Alemán,Prosa Ficción,NA,NA,NA,4,343-347
+Trofeos,215,"Lipparini, Giuseppe",Creador,NA,Italia,Carducci y D' Annunzio,"10,11",10 de junio de 1907,1907-06-10,Sí,Directores (Trofeos),Español,Italiano,Prosa No Ficción,NA,NA,NA,1,347-348
+Trofeos,216,"Blanco Fombona, Rufino",Creador,NA,Venezuela,Sr. D. Ismael López,"10,11",10 de junio de 1907,1907-06-10,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,348
+Trofeos,217,Anónimo,Creador,NA,NA,Trofeos,12,20 de julio de 1907,1907-07-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,218,Anónimo,Anunciante,NA,NA,NA,12,20 de julio de 1907,1907-07-20,No,NA,Español,NA,Publicidad,NA,NA,NA,4,NA
+Trofeos,219,Anónimo,Ilustrador,NA,NA,M. De Heredia,12,20 de julio de 1907,1907-07-20,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,349
+Trofeos,220,"Gómez Restrepo, Antonio",Creador,NA,Colombia,José María de Heredia,12,20 de julio de 1907,1907-07-20,No,NA,Español,NA,Prosa No Ficción,Prosa,NA,NA,05.5,349-354
+Trofeos,221,"Heredia, José-Maria de",Creador,NA,Cuba,Los conquistadores,12,20 de julio de 1907,1907-07-20,Sí,"Caro, Miguel Antonio",Español,Francés,Poesía,NA,NA,NA,0.5,355
+Trofeos,222,"Heredia, José-Maria de",Creador,NA,Cuba,El olvido,12,20 de julio de 1907,1907-07-20,Sí,"Pombo, Rafael",Español,Francés,Poesía,NA,NA,NA,0.5,355
+Trofeos,223,"Heredia, José-Maria de",Creador,NA,Cuba,Sol Poniente,12,20 de julio de 1907,1907-07-20,Sí,"Valencia, Guillermo",Español,Francés,Poesía,NA,NA,NA,0.5,356
+Trofeos,224,"Heredia, José-Maria de",Creador,NA,Cuba,Las ninfas,12,20 de julio de 1907,1907-07-20,Sí,"Valderrama, Felipe",Español,Francés,Poesía,NA,NA,NA,0.5,356
+Trofeos,225,"Heredia, José-Maria de",Creador,NA,Cuba,A un triunfador,12,20 de julio de 1907,1907-07-20,Sí,"Valderrama, Felipe",Español,Francés,Poesía,NA,NA,NA,0.5,357
+Trofeos,226,"Heredia, José-Maria de",Creador,NA,Cuba,La heredad,12,20 de julio de 1907,1907-07-20,Sí,"Valderrama, Felipe",Español,Francés,Poesía,NA,NA,NA,0.5,357
+Trofeos,227,"Heredia, José-Maria de",Creador,NA,Cuba,El esclavo,12,20 de julio de 1907,1907-07-20,Sí,"Castillo, Eduardo",Español,Francés,Poesía,NA,NA,NA,0.5,358
+Trofeos,228,"Heredia, José-Maria de",Creador,NA,Cuba,A la manera de Petrarca,12,20 de julio de 1907,1907-07-20,Sí,"Castillo, Eduardo",Español,Francés,Poesía,NA,NA,NA,0.5,358
+Trofeos,229,"Heredia, José-Maria de",Creador,NA,Cuba,La vida de los muertos,12,20 de julio de 1907,1907-07-20,Sí,"Caro, Antonio José",Español,Francés,Poesía,NA,"Silvestre, Armand",NA,0.5,359
+Trofeos,230,"Heredia, José-Maria de",Creador,NA,Cuba,El cydno,12,20 de julio de 1907,1907-07-20,Sí,"Londoño, Víctor Manuel",Español,Francés,Poesía,NA,NA,NA,0.5,359
+Trofeos,231,"Torres, Carlos Arturo",Creador,Carlos A. Torres,Colombia,La unidad de la obra intelectual I,12,20 de julio de 1907,1907-07-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8,360-367
+Trofeos,232,"Blanco Fombona, Rufino",Creador,R. Blanco Fombona,Venezuela,Noticulas,12,20 de julio de 1907,1907-07-20,No,NA,Español,NA,Prosa No Ficción,NA,Trofeos,NA,2,368-369
+Trofeos,233,"Heredia, José-Maria de",Creador,NA,Cuba,Plus Ultra (De J.M Heredia),12,20 de julio de 1907,1907-07-20,Sí,"Rivas, Raimundo",Español,Francés,Poesía,NA,NA,NA,0.5,370
+Trofeos,234,"Darío, Rubén",Creador,NA,Nicaragua,Isamael López,12,20 de julio de 1907,1907-07-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,370
+Trofeos,235,"Londoño, Víctor Manuel",Director,NA,Colombia,Carlos Arturo Torres. Estudios ingleses-estudios varios,12,20 de julio de 1907,1907-07-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,Estudios Ingeses de Carlos Arturo Torres,02.5,371-373
+Trofeos,236,"Davray, Henry-D.",Creador,NA,Francia,El entierro de Oscar Wilde,12,20 de julio de 1907,1907-07-20,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,0.5,373
+Trofeos,237,"Jeunesse, Ernest La",Creador,NA,Francia,El entierro de Oscar Wilde,12,20 de julio de 1907,1907-07-20,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,0.3,374
+Trofeos,238,"Gide, André",Creador,NA,Francia,El entierro de Oscar Wilde,12,20 de julio de 1907,1907-07-20,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,0.4,374
+Trofeos,239,"Desroix, Jacques",Creador,NA,Francia,El entierro de Oscar Wilde,12,20 de julio de 1907,1907-07-20,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,0.3,374
+Trofeos,240,"Londoño, Víctor Manuel",Director,V.M.L.,Colombia,El Sr. Dr. Nicolas Saenz,12,20 de julio de 1907,1907-07-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,375
+Trofeos,241a,"Londoño, Víctor Manuel",Director,NA,Colombia,Indice alfabético,12,20 de julio de 1907,1907-07-20,No,NA,Español,NA,Prosa No Ficción,índice,NA,NA,5,376-380
+Trofeos,241b,"López, Ismael",Director,NA,Colombia,Indice alfabético,12,20 de julio de 1907,1907-07-20,No,NA,Español,NA,Prosa No Ficción,índice,NA,NA,5,376-380
+Trofeos,242,Anónimo,Creador,NA,NA,Trofeos,"13, serie III",20 de enero de 1908,1908-01-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,243,"Posada, Eduardo",Creador,NA,Colombia,La libertadora,"13, serie III",20 de enero de 1908,1908-01-20,No,NA,Español,NA,Prosa Ficción,Prosa,NA,NA,11,349-359
+Trofeos,244,"Blanco Fombona, Rufino",Creador,NA,Venezuela,Mensaje,"13, serie III",20 de enero de 1908,1908-01-20,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,360
+Trofeos,245,"Gómez Restrepo, Antonio",Creador,NA,Colombia,El escorial,"13, serie III",20 de enero de 1908,1908-01-20,No,NA,Español,NA,Poesía,Poesía,"Díaz, Leopoldo",NA,0.5,361
+Trofeos,246,"López, Ismael",Director,NA,Colombia,Nostalgia,"13, serie III",20 de enero de 1908,1908-01-20,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.5,361
+Trofeos,247,"Mockel, Albert",Creador,NA,Bélgica,Historia de una princesa admirable. Y de un hombre mal educado (I),"13, serie III",20 de enero de 1908,1908-01-20,Sí,Anónimo,Español,Alemán,Prosa Ficción,Prosa,NA,NA,3,362-364
+Trofeos,248,"Wilde, Oscar",Creador,NA,Irlanda,El alma humana bajo el regimen socialista (I),"13, serie III",20 de enero de 1908,1908-01-20,Sí,Directores (Trofeos),Español,Inglés,Prosa No Ficción,Prosa,NA,NA,03.5,365-368
+Trofeos,249,"Londoño, Víctor Manuel",Director,V.M.L.,Colombia,Ellen Key. Del amor y del matrimonio,"13, serie III",20 de enero de 1908,1908-01-20,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,04.8,369-373
+Trofeos,250,Anónimo,Creador,NA,NA,Manuel Ugarte. Vendimias Juveniles,"13, serie III",20 de enero de 1908,1908-01-20,No,NA,Español,NA,Prosa No Ficción,Notas,NA,Vendimias juveniles de Manuel Ugarte,03.4,373-377
+Trofeos,251,Anónimo,Creador,NA,NA,Aprobación del tratado de límites con el Brasil,"13, serie III",20 de enero de 1908,1908-01-20,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,01.3,377-378
+Trofeos,252,Anónimo,Creador,NA,NA,Sully prudhomme,"13, serie III",20 de enero de 1908,1908-01-20,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,0.8,378-379
+Trofeos,253,"Prudhomme, Sully",Creador,NA,Francia,Las casas viejas,"13, serie III",20 de enero de 1908,1908-01-20,Sí,"Caro, Miguel Antonio",Español,Francés,Poesía,NA,NA,NA,0.8,379-380
+Trofeos,254,"Prudhomme, Sully",Creador,NA,Francia,La copa,"13, serie III",20 de enero de 1908,1908-01-20,Sí,"Caro, Miguel Antonio",Español,Francés,Poesía,NA,NA,NA,0.4,380
+Trofeos,255,"Prudhomme, Sully",Creador,NA,Francia,El vaso roto,"13, serie III",20 de enero de 1908,1908-01-20,Sí,"López, Ismael",Español,Francés,Poesía,NA,NA,NA,0.5,380
+Trofeos,256,Anónimo,Anunciante,NA,NA,NA,"13, serie III",20 de enero de 1908,1908-01-20,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Trofeos,257,Anónimo,Creador,NA,NA,Trofeos,"14, serie III",20 de febrero de 1908,1908-02-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,258,Anónimo,Anunciante,NA,NA,NA,"14, serie III",20 de febrero de 1908,1908-02-20,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Trofeos,259,"Posada, Eduardo",Creador,NA,Colombia,La libertadora (conclusión),"14, serie III",20 de febrero de 1908,1908-02-20,No,NA,Español,NA,Prosa Ficción,Prosa,NA,NA,07.5,381-388
+Trofeos,260,"López, Ismael",Director,NA,Colombia,Sobre la estela de Leconte de Lisle,"14, serie III",20 de febrero de 1908,1908-02-20,No,NA,Español,NA,Poesía,Poesía,"Acosta, Javier",NA,0.5,389
+Trofeos,261,"Acosta, Javier",Creador,NA,Colombia,Himno a la mañana. En el álbum de las Sritas. Isabel y Beatriz Malo,"14, serie III",20 de febrero de 1908,1908-02-20,No,NA,Español,NA,Poesía,Poesía,NA,NA,01.5,389-390
+Trofeos,262,"Giraud, Victor",Creador,NA,Francia,La moral de los hombres honrados,"14, serie III",20 de febrero de 1908,1908-02-20,Sí,Anónimo,Español,Francés,Prosa Ficción,Prosa,NA,NA,4,391-394
+Trofeos,263,"Gómez Carrillo, Enrique",Creador,NA,Guatemala,Sangre de Primavera. Prólogo,"14, serie III",20 de febrero de 1908,1908-02-20,No,NA,Español,NA,Prosa Ficción,Prosa,NA,NA,3,495-497
+Trofeos,264,"Cestero, Tulio Manuel",Creador,NA,República Dominicana,Paisaje de luna,"14, serie III",20 de febrero de 1908,1908-02-20,No,NA,Español,NA,Prosa Ficción,Prosa,NA,NA,1,398
+Trofeos,265,"Cestero, Tulio Manuel",Creador,NA,República Dominicana,De Tanagra,"14, serie III",20 de febrero de 1908,1908-02-20,No,NA,Español,NA,Prosa Ficción,Prosa,NA,NA,0.5,399
+Trofeos,266,"Guérin, Charles",Creador,NA,Francia,Crepúsculo,"14, serie III",20 de febrero de 1908,1908-02-20,Sí,Anónimo,Español,Francés,Poesía,Poetas extranjeros,NA,NA,0.5,399
+Trofeos,267,"Xanrof, León",Creador,NA,Francia,Canción triste,"14, serie III",20 de febrero de 1908,1908-02-20,Sí,Anónimo,Español,Francés,Poesía,Poetas extranjeros,NA,NA,0.5,400
+Trofeos,268,"Castro, Eugenio de",Creador,NA,Portugal,El anillo de Polycrates,"14, serie III",20 de febrero de 1908,1908-02-20,Sí,"Lucerna, Salvador",Español,Postugués,Poesía,Poema dramático,NA,NA,04.5,400-404
+Trofeos,269,"Restrepo, Saturnino",Creador,S.R.,Colombia,Atenas contra Sócrates (II),"14, serie III",20 de febrero de 1908,1908-02-20,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.5,405-407
+Trofeos,270,"Londoño, Víctor Manuel",Director,V.M.L.,Colombia,Por un viejo Ateniense,"14, serie III",20 de febrero de 1908,1908-02-20,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,04.5,407-411
+Trofeos,271,Anónimo,Creador,NA,NA,Joel Dumas. Délicieusement....,"14, serie III",20 de febrero de 1908,1908-02-20,No,NA,Español,NA,Reseña,Notas,NA,Délicieusement...de Jöel Dumas,0.5,412
+Trofeos,272,"Dumas, Joël",Creador,NA,Francia,Para el día de tus bodas,"14, serie III",20 de febrero de 1908,1908-02-20,Sí,Directores (Trofeos),Español,Francés,Poesía,NA,NA,NA,0.5,412
+Trofeos,273,Anónimo,Creador,NA,NA,Trofeos,"15, serie III",30 de abril de 1908,1908-04-30,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,NA
+Trofeos,274,Anónimo,Anunciante,NA,NA,NA,"15, serie III",30 de abril de 1908,1908-04-30,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Trofeos,275,Anónimo,Creador,NA,NA,"""El Cuento Semanal Ilustrado""","15, serie III",30 de abril de 1908,1908-04-30,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Trofeos,276,"Gómez Restrepo, Antonio",Creador,NA,Colombia,José Enrique Rodó,"15, serie III",30 de abril de 1908,1908-04-30,No,NA,Español,NA,Prosa No Ficción,Prosa,NA,NA,9,413-421
+Trofeos,277,"Santamaría Vermersch, Ricardo",Creador,"Santa María Vermersch, R.",Colombia,El poeta del silencio. George Rodenbach,"15, serie III",30 de abril de 1908,1908-04-30,No,NA,Español,NA,Prosa No Ficción,Prosa,"Gómez Restrepo, Antonio",NA,4,422-425
+Trofeos,278,"D'Annunzio, Gabriele",Creador,NA,Italia,Pamphila,"15, serie III",30 de abril de 1908,1908-04-30,No,NA,Italiano,Italiano,Poesía,Poesía,NA,NA,02.2,426-428
+Trofeos,279,"D'Annunzio, Gabriele",Creador,NA,Italia,Panfila,"15, serie III",30 de abril de 1908,1908-04-30,Sí,"Valencia, Guillermo",Español,Italiano,Poesía,Poesía,NA,NA,01.8,427 y 429
+Trofeos,280,"Joubert, Joseph",Creador,NA,Francia,Carta de Joubert,"15, serie III",30 de abril de 1908,1908-04-30,Sí,Directores (Trofeos),Español,Francés,Prosa No Ficción,Prosa,Á mademoiselle Moreau de Russy (I),NA,1.6,430-431
+Trofeos,281,"Claretie, Léo",Creador,NA,Francia,NA,"15, serie III",30 de abril de 1908,1908-04-30,Sí,Directores (Trofeos),Español,Francés,Prosa No Ficción,NA,NA,NA,1.5,431-432
+Trofeos,282,"Valencia, Francisco",Creador,Pacho Valencia,Colombia,Semper femina,"15, serie III",30 de abril de 1908,1908-04-30,No,NA,Español,NA,Poesía,Poesía,NA,NA,01.5,433-434
+Trofeos,283,"Céspedes, Ángel María",Creador,NA,Colombia,Venus lo sabe,"15, serie III",30 de abril de 1908,1908-04-30,No,NA,Español,NA,Poesía,Poesía,NA,NA,1,434-435
+Trofeos,284,"Sonies, Paul",Creador,V.M. Londoño,Francia,Confidencia. (Paul Sonies),"15, serie III",30 de abril de 1908,1908-04-30,Sí,"Londoño, Víctor Manuel",Español,Francés,Poesía,Poesía,NA,NA,0.5,435
+Trofeos,285,"López, Ismael",Director,NA,Colombia,Elegia,"15, serie III",30 de abril de 1908,1908-04-30,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.7,436
+Trofeos,286,"Carvajal, Alberto",Creador,NA,Colombia,Domingo,"15, serie III",30 de abril de 1908,1908-04-30,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.3,436
+Trofeos,287,"Carducci, Giosuè",Creador,NA,Italia,Oda a las fuentes del Clitumno,"15, serie III",30 de abril de 1908,1908-04-30,Sí,Directores (Trofeos),Español,Italiano,Prosa Ficción,Prosa,NA,NA,03.7,437-440
+Trofeos,288,Anónimo,Creador,NA,NA,El Centauro (le Centaure),"15, serie III",30 de abril de 1908,1908-04-30,No,NA,Francés,Francés,Prosa No Ficción,NA,NA,NA,0.5,441
+Trofeos,289,"Londoño, Víctor Manuel",Director,V.M.L.,Colombia,Luis C. López. De mi Villorio. Prólogo de Manuel Cervera,"15, serie III",30 de abril de 1908,1908-04-30,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,02.5,441-443
+Trofeos,290,"Bello, Andrés",Creador,NA,Venezuela,Una carta inédita de D. Andrés Bello,"15, serie III",30 de abril de 1908,1908-04-30,No,NA,Español,NA,Prosa No Ficción,Notas,NA,NA,1,444
