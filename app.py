@@ -284,3 +284,20 @@ else: # Paso 1 completado, mostrar Paso 2 y 3
     else:
         # Este caso no debería ocurrir si initial_load_and_align_complete es True
         st.warning("El dataset base para la selección de columnas no está listo. Completa el Paso 1.")
+
+
+
+st.markdown("---")
+st.header("Navegar a hacia las visualizaciones")
+st.markdown("Continúa tu análisis explorando los datos.")
+
+col_nav1, col_nav2, col_nav3 = st.columns(3)
+
+with col_nav1:
+    st.page_link("pages/dashboard.py", label="**Dashboard Integrado**", icon="📊", use_container_width=True)
+
+with col_nav2:
+    st.page_link("pages/mapas.py", label="**Análisis Geográfico y Mapas**", icon="🗺️", use_container_width=True)
+
+with col_nav3:
+    st.page_link("pages/redes.py", label="**Análisis de Redes**", icon="🕸️", use_container_width=True)
