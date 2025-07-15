@@ -46,13 +46,13 @@ except Exception as e:
     st.stop()
 
 # --- Controles en la Sidebar ---
-st.sidebar.header("Filtros y Opciones para la Red")
+st.sidebar.header("Filtros y opciones para la red")
 
 # Filtro de Año
 anos_disponibles = sorted(df_redes_base['Año'].unique())
 if anos_disponibles:
     min_ano, max_ano = anos_disponibles[0], anos_disponibles[-1]
-    range_ano_seleccionado = st.sidebar.slider("Filtrar por Rango de Años:", min_ano, max_ano, (min_ano, max_ano))
+    range_ano_seleccionado = st.sidebar.slider("Filtrar por rango de años:", min_ano, max_ano, (min_ano, max_ano))
 else:
     range_ano_seleccionado = None
 
@@ -62,18 +62,18 @@ revistas_seleccionadas_red = st.sidebar.multiselect("Filtrar por revista(s):", l
 
 # Opciones de Rendimiento
 st.sidebar.markdown("---")
-st.sidebar.header("Opciones de Rendimiento")
+st.sidebar.header("Opciones de rendimiento")
 calc_interm = st.sidebar.checkbox("Calcular intermediación (lento)", value=False, help="Activa el cálculo de la métrica 'Intermediación'.")
 use_physics = st.sidebar.checkbox("Habilitar simulación física", value=True, help="Activa la animación del grafo. Desactívalo si la red es muy grande.")
 
 # --- Lógica Principal con Botón ---
-st.header("1. Generar Grafo Principal")
+st.header("1. Generar grafo principal")
 st.write("Selecciona los filtros y opciones en la barra lateral y luego haz clic en el botón.")
 
 if not revistas_seleccionadas_red:
     st.warning("Por favor, selecciona al menos una revista en la barra lateral.")
 else:
-    if st.button("Generar Red y Calcular Métricas", key="btn_generar_red"):
+    if st.button("Generar red y calcular métricas", key="btn_generar_red"):
         df_filtrado_red = df_redes_base[df_redes_base[COL_REVISTA].isin(revistas_seleccionadas_red)]
         if range_ano_seleccionado:
             df_filtrado_red = df_filtrado_red[(df_filtrado_red['Año'] >= range_ano_seleccionado[0]) & (df_filtrado_red['Año'] <= range_ano_seleccionado[1])]
@@ -95,20 +95,20 @@ else:
     
 # --- Mostrar Grafo y Métricas si han sido generados ---
 if st.session_state.get('graph_G'):
-    st.subheader("Visualización del Grafo Interactivo")
+    st.subheader("Visualización del grafo interactivo")
     with st.spinner("Generando visualización..."):
         html_source = visualizar_red_pyvis(st.session_state.graph_G, st.session_state.df_metricas_nodos, physics_enabled=use_physics)
         if html_source: components.html(html_source, height=800)
     
-    st.subheader("Métricas por Nodo")
+    st.subheader("Métricas por nodo")
     st.dataframe(st.session_state.df_metricas_nodos)
 
     # --- Sección de Análisis de Modularidad ---
     st.markdown("---")
-    st.header("2. Análisis de Comunidades (Modularidad)")
+    st.header("2. Análisis de comunidades (Modularidad)")
     st.write("Este análisis se ejecutará sobre la red generada arriba.")
     with st.expander("Ejecutar análisis de comunidades"):
-        if st.button("Detectar Comunidades de Colaboradores"):
+        if st.button("Detectar comunidades de colaboradores"):
             with st.spinner("Proyectando red y detectando comunidades..."):
                 try:
                     G = st.session_state.graph_G # Usar el grafo guardado
@@ -120,15 +120,15 @@ if st.session_state.get('graph_G'):
                     
                     st.success(f"¡Análisis completado! Se encontraron **{len(set(mapa_comunidades.values()))}** comunidades distintas.")
                     
-                    st.subheader("Grafo Bimodal Coloreado por Comunidad")
+                    st.subheader("Grafo bimodal coloreado por comunidad")
                     html_source_comunidades = visualizar_red_pyvis(G, df_metricas_nodos, comunidades=mapa_comunidades)
                     if html_source_comunidades:
                         components.html(html_source_comunidades, height=800)
                     
                     df_comunidades = pd.DataFrame(mapa_comunidades.items(), columns=['Colaborador', 'ID_Comunidad'])
-                    st.subheader("Miembros de cada Comunidad")
+                    st.subheader("Miembros de cada comunidad")
                     st.dataframe(df_comunidades.sort_values(by='ID_Comunidad'))
                 except Exception as e:
                     st.error(f"Ocurrió un error durante el análisis de comunidades: {e}")        
 else:
-    st.info("Haz clic en 'Generar Red y Calcular Métricas' para empezar.")
+    st.info("Haz clic en 'Generar red y calcular métricas' para empezar.")
