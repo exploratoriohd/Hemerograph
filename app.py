@@ -149,6 +149,10 @@ with st.sidebar:
         else:
             st.warning("No se seleccionaron o cargaron datasets válidos.")
 
+        cache_key = "_".join(sorted([f"{file.name}_{file.size}" for file in uploaded_files_list])) if uploaded_files_list else ""
+        cache_key += "_".join(sorted(selected_example_names)) #  Incorporar también los ejemplos
+        st.session_state['data_cache_key'] = cache_key
+
 # --- CUERPO PRINCIPAL DE LA APLICACIÓN ---
 if not st.session_state.get('initial_load_and_align_complete', False):
     st.info("👋 ¡Bienvenido! Comienza por cargar tus datasets en la barra lateral (Paso 1).")
@@ -261,6 +265,8 @@ else: # Paso 1 completado, mostrar Paso 2 y 3
             # st.caption("Vista previa del dataset final que se usará en los análisis (primeras filas):")
             # st.dataframe(df_final_trabajo.head())
 
+            st.session_state['final_df_to_analyze'] = df_final_trabajo
+
             # --- BOTÓN DE DESCARGA ---
             st.markdown("---") # Separador
             st.subheader("📥 Descargar dataset procesado")
@@ -301,3 +307,4 @@ with col_nav2:
 
 with col_nav3:
     st.page_link("pages/redes.py", label="**Análisis de Redes**", icon="🕸️", use_container_width=True)
+
