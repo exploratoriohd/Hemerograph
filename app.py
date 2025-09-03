@@ -45,6 +45,7 @@ st.header("🏠 Configuración de datos para el análisis")
 default_session_states = {
     'combined_data_df_initial': None,
     'selected_columns_for_analysis': [],
+    'previous_column_schema': [], # <-- Rastrear cambios en columnas
     'data_sources_names': [],
     'initial_load_and_align_complete': False,
     'integrate_bio_checkbox_state': False, # Para controlar el checkbox explícitamente
@@ -240,9 +241,14 @@ else: # Paso 1 completado, mostrar Paso 2 y 3
         # o si es la primera vez que se muestra después de un cambio de DF, resetear el default.
         previous_selected_cols_valid = all(col in all_cols for col in st.session_state.selected_columns_for_analysis)
 
-        if not st.session_state.selected_columns_for_analysis or not previous_selected_cols_valid:
-            st.session_state.selected_columns_for_analysis = all_cols # Default a todas las columnas del DF actual
+        # if not st.session_state.selected_columns_for_analysis or not previous_selected_cols_valid:
+        #     st.session_state.selected_columns_for_analysis = all_cols # Default a todas las columnas del DF actual
 
+        if set(all_cols) != set(st.session_state.previous_column_schema):
+            # Si cambió (ej. se añadieron datos bio), reseteamos la selección al total de columnas
+            st.session_state.selected_columns_for_analysis = all_cols
+            st.session_state.previous_column_schema = all_cols
+            
         selected_cols_widget = st.multiselect(
             "Selecciona las columnas finales que se usarán en las páginas de análisis:",
             options=all_cols,

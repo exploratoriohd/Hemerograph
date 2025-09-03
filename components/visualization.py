@@ -227,6 +227,30 @@ def crear_grafico_evolucion(df_evolucion, col_ano='Año Publicación', col_valor
     return fig
 
 
+def crear_grafico_traducciones_por_revista(df_traducciones):
+    """
+    Crea un gráfico de barras horizontales para el total de traducciones por revista.
+    """
+    if df_traducciones.empty:
+        return None
+
+    fig = px.bar(
+        df_traducciones,
+        x='Total_Traducciones',
+        y='Revista',
+        orientation='h',
+        title="Total de Traducciones por Revista",
+        labels={'Total_Traducciones': 'Número de Traducciones', 'Revista': 'Revista'},
+        text_auto=True
+    )
+    
+    # Ordenar las barras de mayor a menor
+    fig.update_layout(
+        yaxis={'categoryorder':'total ascending'}
+    )
+    
+    return fig
+
 # # VISUALIZACIÓN DE MAPAS
 
 # def crear_mapa_coropletico(df_mapa, col_pais, col_color, titulo, hover_name_col=None):

@@ -282,6 +282,60 @@ def analizar_traducciones(df, col_traduccion='Traducción', col_traductor='Tradu
     return frec_traductores, frec_tipologias, frec_autores_traducidos
 
 
+def calcular_traducciones_por_revista(df, col_revista='Revista', col_traduccion='Traducción'):
+    """
+    Calcula el número total de traducciones por revista.
+    """
+    # Verificar que las columnas necesarias existan
+    if col_revista not in df.columns or col_traduccion not in df.columns:
+        return pd.DataFrame({'Revista': [], 'Total_Traducciones': []})
+
+    # Filtrar solo las traducciones de forma robusta (ignora mayúsculas/minúsculas y espacios)
+    mascara_traduccion = df[col_traduccion].astype(str).str.strip().str.lower() == 'sí'
+    df_traducciones = df[mascara_traduccion]
+
+    if df_traducciones.empty:
+        return pd.DataFrame({'Revista': [], 'Total_Traducciones': []})
+
+    # Contar traducciones por revista y ordenar
+    traducciones_por_revista = df_traducciones.groupby(col_revista).size().reset_index(name='Total_Traducciones')
+    
+    return traducciones_por_revista.sort_values(by='Total_Traducciones', ascending=False)
+
+
+def calcular_evolucion_traducciones_por_tipologia(df, col_fecha='Fecha Publicación', col_tipologia='Tipología', col_traduccion='Traducción'):
+    """
+    Calcula la frecuencia de cada tipología textual para cada año, pero solo para las publicaciones
+    que están marcadas como traducción.
+    """
+    # Verificar que las columnas necesarias existan
+    if not all(col in df.columns for col in [col_fecha, col_tipologia, col_traduccion]):
+        return pd.DataFrame({'Año': [], 'Tipología': [], 'Frecuencia': []})
+
+    # 1. Filtrar solo las traducciones de forma robusta
+    mascara_traduccion = df[col_traduccion].astype(str).str.strip().str.lower() == 'sí'
+    df_traducciones = df[mascara_traduccion].copy()
+
+    # 2. Convertir la columna de fecha a datetime y eliminar filas con fechas inválidas
+    df_traducciones[col_fecha] = pd.to_datetime(df_traducciones[col_fecha], errors='coerce')
+    df_traducciones.dropna(subset=[col_fecha, col_tipologia], inplace=True)
+
+    if df_traducciones.empty:
+        return pd.DataFrame({'Año': [], 'Tipología': [], 'Frecuencia': []})
+
+    # 3. Extraer el año y crear una nueva columna 'Año'
+    df_traducciones['Año'] = df_traducciones[col_fecha].dt.year
+    
+    # 4. Agrupar por 'Año' y 'Tipología' y contar las ocurrencias
+    evolucion = (
+        df_traducciones.groupby(['Año', col_tipologia])
+        .size()
+        .reset_index(name="Frecuencia")
+        .sort_values(by='Año')
+    )
+    
+    return evolucion
+
 def preparar_csv_para_descarga(df):
     """
     Convierte un DataFrame a formato CSV (bytes) para ser usado con st.download_button.
