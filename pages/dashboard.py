@@ -7,7 +7,7 @@ from components.visualization import (
     crear_grafico_conexiones, 
     crear_grafico_frecuencia, 
     crear_grafico_evolucion,
-    crear_grafico_traducciones_por_revista
+    crear_grafico_barras_apiladas_h
 )
 
 # --- CONSTANTES ---
@@ -456,7 +456,7 @@ else:
 
     # --- PASO 5 y 6: ANÁLISIS DE TRADUCCIONES ---
     st.markdown("---")
-    st.subheader("5 y 6. Análisis de traducciones")
+    st.subheader("5. Análisis de traducciones")
 
     # Columnas requeridas para estos análisis
     col_traduccion = 'Traducción'
@@ -504,14 +504,6 @@ else:
                         )
                     fig_traductores = crear_grafico_frecuencia(df_traductores_filtrado, num_top_traductores, 'Traductor', 'Frecuencia', f"Top {num_top_traductores} Traductores")
                     if fig_traductores: st.plotly_chart(fig_traductores, use_container_width=True)
-                    # num_top_traductores = st.slider(
-                    #     "Número de traductores a mostrar:", 1, min(25, len(df_traductores_filtrado)), min(10, len(df_traductores_filtrado)),
-                    #     key="slider_top_traductores_v2"
-                    # )
-                    # fig_traductores = crear_grafico_frecuencia(
-                    #     df_traductores_filtrado, num_top_traductores, 'Traductor', 'Frecuencia', f"Top {num_top_traductores} Traductores"
-                    # )
-                    # if fig_traductores: st.plotly_chart(fig_traductores, use_container_width=True)
                 else:
                     st.info("No hay datos de traductores para mostrar.")
 
@@ -540,14 +532,6 @@ else:
                         )
                     fig_autores_trad = crear_grafico_frecuencia(df_autores_filtrado, num_top_autores, 'Colaborador', 'Frecuencia', f"Top {num_top_autores} autores más traducidos")
                     if fig_autores_trad: st.plotly_chart(fig_autores_trad, use_container_width=True)
-                    # num_top_autores = st.slider(
-                    #     "Número de autores traducidos a mostrar:", 1, min(25, len(df_autores_filtrado)), min(10, len(df_autores_filtrado)),
-                    #     key="slider_top_autores_trad"
-                    # )
-                    # fig_autores_trad = crear_grafico_frecuencia(
-                    #     df_autores_filtrado, num_top_autores, 'Colaborador', 'Frecuencia', f"Top {num_top_autores} autores más traducidos"
-                    # )
-                    # if fig_autores_trad: st.plotly_chart(fig_autores_trad, use_container_width=True)
                 else:
                     st.info("No hay datos de autores traducidos para mostrar.")
 
@@ -565,14 +549,6 @@ else:
                     )
                 fig_tipos_trad = crear_grafico_frecuencia(df_frec_tipologias_trad, num_top_tipos_trad, 'Tipología', 'Frecuencia', f"Top {num_top_tipos_trad} Tipologías Traducidas")
                 if fig_tipos_trad: st.plotly_chart(fig_tipos_trad, use_container_width=True)
-                # num_top_tipos_trad = st.slider(
-                #     "Número de tipologías traducidas a mostrar:", 1, min(25, len(df_frec_tipologias_trad)), min(10, len(df_frec_tipologias_trad)),
-                #     key="slider_top_tipos_trad_v2"
-                # )
-                # fig_tipos_trad = crear_grafico_frecuencia(
-                #     df_frec_tipologias_trad, num_top_tipos_trad, 'Tipología', 'Frecuencia', f"Top {num_top_tipos_trad} Tipologías Traducidas"
-                # )
-                # if fig_tipos_trad: st.plotly_chart(fig_tipos_trad, use_container_width=True)
             else:
                 st.info("No hay datos de tipologías en las publicaciones marcadas como traducción.")
         
@@ -589,42 +565,53 @@ else:
 
     col_revista_trad = 'Revista'
     col_traduccion_trad = 'Traducción'
+    col_tipologia_trad = 'Tipología'
 
-    if col_revista_trad in df_filtrado.columns and col_traduccion_trad in df_filtrado.columns:
+    if all(col in df_filtrado.columns for col in [col_revista_trad, col_traduccion_trad, col_tipologia_trad]):
         try:
             df_traducciones_revista = calcular_traducciones_por_revista(
                 df_filtrado, 
                 col_revista=col_revista_trad, 
-                col_traduccion=col_traduccion_trad
+                col_traduccion=col_traduccion_trad,
+                col_tipologia=col_tipologia_trad
             )
             
             if not df_traducciones_revista.empty:
+                # 1. Obtener la lista de revistas únicas, ya ordenadas por la función de procesamiento
+                revistas_disponibles = df_traducciones_revista['Revista'].unique()
+                num_revistas_disponibles = len(revistas_disponibles)
                 
-                # --- MEJORA: Añadir slider para seleccionar el "Top N" ---
-                num_revistas_disponibles = len(df_traducciones_revista)
+                num_top_revistas = 0 # Inicializar
                 
-                # Lógica para mostrar el slider solo si hay más de una revista
+                # 2. Lógica para mostrar el slider solo si hay más de una revista
                 if num_revistas_disponibles > 1:
-                    # El valor máximo será el total de revistas disponibles (limitado a 50 por legibilidad).
                     slider_max_val = min(50, num_revistas_disponibles)
-                    
-                    # El valor por defecto será 10 o el máximo disponible si es menor.
                     default_slider_val = min(10, slider_max_val)
-
                     num_top_revistas = st.slider(
-                        "Número de revistas a mostrar en el gráfico:",
-                        min_value=1,
-                        max_value=slider_max_val, 
-                        value=default_slider_val,
-                        key="slider_top_revistas_traducciones"
+                        "Número de revistas a mostrar:", 1, slider_max_val, default_slider_val,
+                        key="slider_top_revistas_traducciones_stacked"
                     )
-                    df_para_grafico = df_traducciones_revista.head(num_top_revistas)
-                else:
-                    # Si solo hay una revista (o ninguna), la mostramos sin el slider.
-                    df_para_grafico = df_traducciones_revista
+                elif num_revistas_disponibles == 1:
+                    # Si solo hay una revista, la mostramos sin slider
+                    num_top_revistas = 1
 
-                # 2. Crear y mostrar el gráfico con el DataFrame ya limitado
-                fig_traducciones_revista = crear_grafico_traducciones_por_revista(df_para_grafico)
+                # 3. Filtrar el DataFrame para mostrar solo las N revistas seleccionadas
+                if num_top_revistas > 0:
+                    # Seleccionar los nombres de las N revistas top
+                    revistas_top_n = revistas_disponibles[:num_top_revistas]
+                    # Filtrar el DataFrame original para incluir solo esas revistas
+                    df_para_grafico = df_traducciones_revista[df_traducciones_revista['Revista'].isin(revistas_top_n)]
+
+                # 4. Crear y mostrar el gráfico
+                fig_traducciones_revista = crear_grafico_barras_apiladas_h(
+                    df_para_grafico,
+                    col_x='Total_Traducciones',
+                    col_y='Revista',
+                    col_color='Tipología',
+                    titulo='Total de Traducciones por Revista y Tipología',
+                    label_x='Número de Traducciones',
+                    label_y='Revista'
+                )
                 if fig_traducciones_revista:
                     st.plotly_chart(fig_traducciones_revista, use_container_width=True)
 
@@ -696,6 +683,53 @@ else:
 # --- FIN DEL NUEVO GRÁFICO ---
 
 
+# --- NUEVO GRÁFICO: IDIOMAS MÁS TRADUCIDOS POR TIPOLOGÍA ---
+st.markdown("---")
+st.subheader("Idiomas Originales más Traducidos por Tipología Textual")
+
+col_idioma_orig = 'Idioma Original'
+col_tipologia = 'Tipología'
+col_traduccion = 'Traducción'
+
+if all(c in df_filtrado.columns for c in [col_idioma_orig, col_tipologia, col_traduccion]):
+    try:
+        df_idioma_tipologia = calcular_traducciones_idioma_por_tipologia(
+            df_filtrado,
+            col_idioma=col_idioma_orig,
+            col_tipologia=col_tipologia,
+            col_traduccion=col_traduccion
+        )
+
+        if not df_idioma_tipologia.empty:
+            idiomas_disponibles = df_idioma_tipologia[col_idioma_orig].unique()
+            num_idiomas_disponibles = len(idiomas_disponibles)
+            num_top_idiomas = 0
+            
+            if num_idiomas_disponibles > 1:
+                num_top_idiomas = st.slider("Número de idiomas a mostrar:", 1, min(25, num_idiomas_disponibles), min(10, num_idiomas_disponibles), key="slider_idiomas_tipologia")
+            elif num_idiomas_disponibles == 1:
+                num_top_idiomas = 1
+
+            if num_top_idiomas > 0:
+                idiomas_top_n = idiomas_disponibles[:num_top_idiomas]
+                df_grafico_idioma = df_idioma_tipologia[df_idioma_tipologia[col_idioma_orig].isin(idiomas_top_n)]
+                
+                fig_idioma_tipologia = crear_grafico_barras_apiladas_h(
+                    df_grafico_idioma,
+                    col_x='Frecuencia',
+                    col_y='Idioma Original',
+                    col_color='Tipología',
+                    titulo='Distribución de Tipologías por Idioma Original Traducido',
+                    label_x='Número de Traducciones',
+                    label_y='Idioma Original'
+                )
+                if fig_idioma_tipologia: st.plotly_chart(fig_idioma_tipologia, use_container_width=True)
+        else:
+            st.info("No hay datos de idiomas en las publicaciones marcadas como traducción.")
+    except Exception as e:
+        st.error(f"Error al generar el gráfico de idiomas por tipología: {e}")
+else:
+    st.info(f"Para este análisis se requieren las columnas '{col_idioma_orig}', '{col_tipologia}' y '{col_traduccion}'.")
 
 st.markdown("---")
 st.header("Navegar a otras visualizaciones")

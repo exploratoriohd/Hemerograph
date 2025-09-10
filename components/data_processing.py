@@ -19,7 +19,6 @@ def calcular_frecuencia_colaboradores(df):
     return colaboradores_freq
 
 
-
 # DELETE ANONYMS
 def eliminar_anonimos(df, anonimo_label="Anónimo"):
     """
@@ -114,6 +113,7 @@ def obtener_colaboradores_mejor_conectados(revistas_datos_bio):
 
     return colaboradores_mejor_conectados
 
+
 def calcular_conexiones_autor(df, col_autor='Colaborador', col_revista='Revista'):
     """
     Calcula el número de revistas únicas en las que cada colaborador ha participado.
@@ -178,6 +178,7 @@ def calcular_frecuencia_tipologia(df, col_tipologia='Tipología'):
     frecuencia.columns = [col_tipologia, 'Frecuencia']
     
     return frecuencia
+
 
 def calcular_evolucion_tipologia_por_ano(df, col_fecha='Fecha Publicación', col_tipologia='Tipología'):
     """
@@ -282,25 +283,31 @@ def analizar_traducciones(df, col_traduccion='Traducción', col_traductor='Tradu
     return frec_traductores, frec_tipologias, frec_autores_traducidos
 
 
-def calcular_traducciones_por_revista(df, col_revista='Revista', col_traduccion='Traducción'):
+def calcular_traducciones_por_revista(df, col_revista='Revista', col_traduccion='Traducción', col_tipologia='Tipología'):
     """
-    Calcula el número total de traducciones por revista.
+    Calcula el número de traducciones por revista, desglosado por tipología textual.
     """
     # Verificar que las columnas necesarias existan
-    if col_revista not in df.columns or col_traduccion not in df.columns:
-        return pd.DataFrame({'Revista': [], 'Total_Traducciones': []})
+    if not all(col in df.columns for col in [col_revista, col_traduccion, col_tipologia]):
+        return pd.DataFrame()
 
-    # Filtrar solo las traducciones de forma robusta (ignora mayúsculas/minúsculas y espacios)
+    # Filtrar solo las traducciones
     mascara_traduccion = df[col_traduccion].astype(str).str.strip().str.lower() == 'sí'
     df_traducciones = df[mascara_traduccion]
 
     if df_traducciones.empty:
-        return pd.DataFrame({'Revista': [], 'Total_Traducciones': []})
+        return pd.DataFrame()
 
-    # Contar traducciones por revista y ordenar
-    traducciones_por_revista = df_traducciones.groupby(col_revista).size().reset_index(name='Total_Traducciones')
+    # Contar traducciones agrupando por revista Y tipología
+    traducciones_por_revista = df_traducciones.groupby([col_revista, col_tipologia]).size().reset_index(name='Total_Traducciones')
     
-    return traducciones_por_revista.sort_values(by='Total_Traducciones', ascending=False)
+    # Calcular el total por revista para poder ordenar
+    total_por_revista = traducciones_por_revista.groupby(col_revista)['Total_Traducciones'].sum().sort_values(ascending=False).index
+    
+    # Reordenar el DataFrame principal según el total de la revista
+    traducciones_por_revista['Revista'] = pd.Categorical(traducciones_por_revista['Revista'], categories=total_por_revista, ordered=True)
+    
+    return traducciones_por_revista.sort_values('Revista')
 
 
 def calcular_evolucion_traducciones_por_tipologia(df, col_fecha='Fecha Publicación', col_tipologia='Tipología', col_traduccion='Traducción'):
@@ -335,6 +342,34 @@ def calcular_evolucion_traducciones_por_tipologia(df, col_fecha='Fecha Publicaci
     )
     
     return evolucion
+
+def calcular_traducciones_idioma_por_tipologia(df, col_idioma='Idioma Original', col_tipologia='Tipología', col_traduccion='Traducción'):
+    """
+    Calcula la frecuencia de traducciones por idioma original, desglosado por tipología textual.
+    """
+    # Verificar que las columnas necesarias existan
+    if not all(col in df.columns for col in [col_idioma, col_tipologia, col_traduccion]):
+        return pd.DataFrame()
+
+    # Filtrar solo las traducciones
+    mascara_traduccion = df[col_traduccion].astype(str).str.strip().str.lower() == 'sí'
+    df_traducciones = df[mascara_traduccion]
+
+    if df_traducciones.empty:
+        return pd.DataFrame()
+
+    # Contar traducciones agrupando por idioma y tipología
+    df_agrupado = df_traducciones.groupby([col_idioma, col_tipologia]).size().reset_index(name='Frecuencia')
+    
+    # Calcular el total por idioma para poder ordenar
+    total_por_idioma = df_agrupado.groupby(col_idioma)['Frecuencia'].sum().sort_values(ascending=False).index
+    
+    # Reordenar el DataFrame principal según el total del idioma
+    df_agrupado['Idioma Original'] = pd.Categorical(df_agrupado['Idioma Original'], categories=total_por_idioma, ordered=True)
+    
+    return df_agrupado.sort_values('Idioma Original')
+
+
 
 def preparar_csv_para_descarga(df):
     """

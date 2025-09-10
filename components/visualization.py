@@ -20,28 +20,13 @@ def colaboradores_genero_total(dataset):
     
     # Total de colaboraciones por autor
     total_colaboraciones_genero = colaboradores_genero.groupby(['Colaborador', 'Tipo']).agg({'n': 'sum'}).reset_index()
-    
-    # Top 100 colaboradores por número total de textos
-    #top_100_colaboradores = total_colaboraciones_genero.nlargest(100, 'n')['Colaborador']
 
-    # Filtrar top colaboradores
-    #top_colaboradores_revistas_genero = colaboradores_genero[colaboradores_genero['Colaborador'].isin(top_100_colaboradores)]
-    #top_colaboradores_revistas_genero = top_colaboradores_revistas_genero.groupby('Colaborador').agg({'n': 'sum'}).reset_index()
-
-    # Total textos por autor
-    #total_textos_por_autor = colaboradores_genero.groupby('Colaborador').agg({'n': 'sum'}).reset_index()
-
-    # Top 25 autores con más textos
-    #top_25_autores = total_textos_por_autor.nlargest(25, 'n')['Colaborador']
     top_25_autores = total_colaboraciones_genero.nlargest(25, 'n')['Colaborador']
 
     # Filtrar los datos para obtener los top 25 autores
     top_colaboradores_revistas = colaboradores_genero[colaboradores_genero['Colaborador'].isin(top_25_autores)]
-    #top_colaboradores_revistas = top_colaboradores_revistas[top_colaboradores_revistas['Colaborador'] != "Anónimo"]
     top_colaboradores_revistas = top_colaboradores_revistas.groupby(['Colaborador', 'Tipo']).agg({'n': 'sum'}).reset_index()
     
-    #top_colaboradores_revistas = top_colaboradores_revistas.sort_values(by="n", ascending=False)
-
     return top_colaboradores_revistas
 
 
@@ -227,69 +212,28 @@ def crear_grafico_evolucion(df_evolucion, col_ano='Año Publicación', col_valor
     return fig
 
 
-def crear_grafico_traducciones_por_revista(df_traducciones):
+def crear_grafico_barras_apiladas_h(df_datos, col_x, col_y, col_color, titulo, label_x, label_y):
     """
-    Crea un gráfico de barras horizontales para el total de traducciones por revista.
+    Crea un gráfico de barras horizontales apiladas genérico.
+    (h es de horizontal)
     """
-    if df_traducciones.empty:
+    if df_datos.empty:
         return None
 
     fig = px.bar(
-        df_traducciones,
-        x='Total_Traducciones',
-        y='Revista',
+        df_datos,
+        x=col_x,
+        y=col_y,
+        color=col_color,
         orientation='h',
-        title="Total de Traducciones por Revista",
-        labels={'Total_Traducciones': 'Número de Traducciones', 'Revista': 'Revista'},
+        title=titulo,
+        labels={col_x: label_x, col_y: label_y},
         text_auto=True
     )
     
-    # Ordenar las barras de mayor a menor
     fig.update_layout(
+        barmode='stack',
         yaxis={'categoryorder':'total ascending'}
     )
     
     return fig
-
-# # VISUALIZACIÓN DE MAPAS
-
-# def crear_mapa_coropletico(df_mapa, col_pais, col_color, titulo, hover_name_col=None):
-#     """
-#     Crea un mapa coroplético interactivo.
-
-#     Args:
-#         df_mapa (pd.DataFrame): DataFrame con los datos a mapear.
-#         col_pais (str): Nombre de la columna con los nombres de los países.
-#         col_color (str): Nombre de la columna que determinará el color de los países.
-#         titulo (str): Título del mapa.
-#         hover_name_col (str, optional): Columna para mostrar al pasar el mouse. Defaults to col_pais.
-
-#     Returns:
-#         plotly.graph_objs._figure.Figure: La figura de Plotly para mostrar.
-#     """
-#     if df_mapa.empty:
-#         return None
-        
-#     if hover_name_col is None:
-#         hover_name_col = col_pais
-
-#     fig = px.choropleth(
-#         df_mapa,
-#         locations=col_pais,
-#         locationmode='country names', # Plotly puede reconocer nombres de países en inglés
-#         color=col_color,
-#         hover_name=hover_name_col,
-#         hover_data={col_pais: False, col_color: True}, # Personalizar datos del hover
-#         color_continuous_scale=px.colors.sequential.Plasma, # Escala de colores
-#         title=titulo
-#     )
-    
-#     fig.update_layout(
-#         margin={"r":0,"t":40,"l":0,"b":0}, # Márgenes ajustados
-#         geo=dict(
-#             showframe=False,
-#             showcoastlines=False,
-#             projection_type='equirectangular' # O 'natural earth'
-#         )
-#     )
-#     return fig
