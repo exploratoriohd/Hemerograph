@@ -10,8 +10,8 @@ from components.data_processing_networks import (
 from components.visualization_networks import visualizar_red_estatica, visualizar_red_pyvis
 import streamlit.components.v1 as components
 
-st.set_page_config(page_title="Análisis de Redes", layout="wide")
-st.title("🕸️ Análisis de Redes de Colaboración")
+st.set_page_config(page_title="Hemerograph - Análisis de Redes", layout="wide")
+st.title("🕸️ Análisis de redes de colaboración")
 
 # --- Inicialización del Estado ---
 if 'analysis_results' not in st.session_state:
@@ -22,7 +22,7 @@ if 'analysis_results' not in st.session_state:
 df_listo = st.session_state.get('final_df_to_analyze')
 
 if df_listo is None:
-    st.warning("Primero debes cargar y configurar los datos en la página de '🏠 Inicio'.")
+    st.warning("Primero debe cargar y configurar los datos en la página de '🏠 Inicio'.")
     st.stop()
 
 df_redes_base = df_listo.copy()
@@ -34,19 +34,19 @@ if 'Año' not in df_redes_base.columns and COL_FECHA in df_redes_base.columns:
     df_redes_base['Año'] = df_redes_base['Año'].astype(int)
 
 # --- Controles en la Sidebar ---
-st.sidebar.header("Filtros y opciones para la Red")
+st.sidebar.header("Filtros y opciones para la red")
 anos_disponibles = sorted(df_redes_base['Año'].unique()) if 'Año' in df_redes_base else []
 if anos_disponibles:
-    range_ano_seleccionado = st.sidebar.slider("1. Filtrar por Rango de Años:", anos_disponibles[0], anos_disponibles[-1], (anos_disponibles[0], anos_disponibles[-1]))
+    range_ano_seleccionado = st.sidebar.slider("1. Filtrar por rango de años:", anos_disponibles[0], anos_disponibles[-1], (anos_disponibles[0], anos_disponibles[-1]))
 lista_revistas_red = sorted(df_redes_base[COL_REVISTA].dropna().unique())
 revistas_seleccionadas_red = st.sidebar.multiselect("2. Filtrar por revista(s):", lista_revistas_red, default=lista_revistas_red[:min(5, len(lista_revistas_red))])
 
 st.sidebar.markdown("---")
-st.sidebar.header("Opciones de Limpieza y Análisis")
+st.sidebar.header("Opciones de limpieza y análisis")
 exclude_anonyms = st.sidebar.checkbox("Excluir 'Anónimos'", value=True, help="Excluye las entradas donde el colaborador es 'Anónimo' o 'Anonym' del análisis.")
 
 st.sidebar.markdown("---")
-st.sidebar.header("Opciones de Análisis y Rendimiento")
+st.sidebar.header("Opciones de análisis y rendimiento")
 limit_nodes = st.sidebar.checkbox("Limitar nodos en la visualización estática", value=True)
 max_nodos_static = st.sidebar.number_input("Máximo de nodos (vista estática):", 10, 1000, 150, 25, disabled=not limit_nodes)
 calc_modularidad = st.sidebar.checkbox("Calcular modularidad (comunidades)", value=True)
@@ -68,11 +68,11 @@ algoritmo_comunidad = st.sidebar.selectbox(
 
 
 # --- Lógica Principal con Botón ---
-st.header("Configuración del Análisis de Red")
+st.header("Configuración del análisis de la red")
 if not revistas_seleccionadas_red:
     st.warning("Por favor, selecciona al menos una revista para empezar.")
 else:
-    if st.button("🚀 Generar Análisis de Red", type="primary", use_container_width=True):
+    if st.button("Generar análisis de red", type="primary", use_container_width=True):
         df_filtrado = df_redes_base[
             (df_redes_base[COL_REVISTA].isin(revistas_seleccionadas_red)) &
             (df_redes_base['Año'] >= range_ano_seleccionado[0]) &
@@ -132,14 +132,14 @@ if st.session_state.analysis_results:
     G_completo = results["G_completo"]
     df_metricas_nodos = results["df_metricas_nodos"]
 
-    st.header("Resultados del Análisis")
+    st.header("Resultados del análisis")
     st.subheader("Métricas Globales de la Red Completa")
     col1, col2, col3 = st.columns(3)
-    col1.metric("Nodos Totales", f"{results['metricas_globales']['Nodos']:,}")
-    col2.metric("Conexiones Totales", f"{results['metricas_globales']['Conexiones']:,}")
-    col3.metric("Densidad de la Red", f"{results['metricas_globales']['Densidad']:.4f}")
+    col1.metric("Nodos totales", f"{results['metricas_globales']['Nodos']:,}")
+    col2.metric("Conexiones totales", f"{results['metricas_globales']['Conexiones']:,}")
+    col3.metric("Densidad de la red", f"{results['metricas_globales']['Densidad']:.4f}")
     
-    st.subheader("Vista Previa Rápida de la Red")
+    st.subheader("Vista previa de la red")
     G_visual_static = G_completo
     df_metricas_static = df_metricas_nodos
     if limit_nodes and G_completo.number_of_nodes() > max_nodos_static:
@@ -173,5 +173,5 @@ if st.session_state.analysis_results:
         st.dataframe(df_comunidades.sort_values(by='ID_Comunidad'))
     # Si hubo un mensaje de error en la detección de comunidades, mostrarlo
     elif 'error_msg' in results and results['error_msg']:
-        st.subheader("Resultados del Análisis de Comunidades")
+        st.subheader("Resultados del análisis de comunidades")
         st.error(results['error_msg'])

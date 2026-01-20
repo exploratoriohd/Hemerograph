@@ -14,7 +14,7 @@ from components.visualization import (
 ETIQUETAS_ANONIMOS = ["Anónimo", "Anonymous", "n.I."]
 
 st.set_page_config(page_title="Hemerograph - Dashboard de visualización", layout="wide")
-st.title("📊 Dashboard integrado: análisis y visualización de datos de revistas culturales y literarias")
+st.title("📊 Dashboard integrado: visualización de datos de revistas culturales y literarias")
 
 # --- Carga y Verificación de Datos ---
 # Estos datos vienen del preprocesamiento en app.py
@@ -30,7 +30,7 @@ if df_listo is None or not selected_cols:
 # DataFrame base para este dashboard
 df_dashboard_base = df_listo[selected_cols].copy()
 
-st.sidebar.header("Filtros del Dashboard")
+st.sidebar.header("Filtros del dashboard")
 
 # --- PREPARACIÓN DE LA COLUMNA DE FECHA ---
 # Asumimos que la columna se llama "Fecha Publicación"
@@ -155,7 +155,7 @@ st.markdown("---")
 st.header("Visualizaciones")
 
 if df_filtrado.empty:
-    st.warning("⚠️ No hay datos disponibles con los filtros seleccionados. Por favor, ajusta los filtros en la barra lateral.")
+    st.warning("⚠️ No hay datos disponibles con los filtros seleccionados. Por favor, ajuste los filtros en la barra lateral.")
 else:
     st.info(f"Mostrando análisis para **{len(df_filtrado)}** registros después de aplicar filtros.")
     
@@ -442,7 +442,7 @@ else:
                     else:
                         st.info("No hay datos para mostrar en el gráfico de evolución con las tipologías seleccionadas.")
                 else:
-                    st.info("Por favor, selecciona al menos una tipología para visualizar su evolución.")
+                    st.info("Por favor, seleccione al menos una tipología para visualizar su evolución.")
             else:
                 st.info("No hay datos de evolución de tipologías para mostrar con los filtros aplicados.")
 
@@ -561,7 +561,7 @@ else:
         # --- FIN PASO 5 y 6 ---
 
     st.markdown("---")
-    st.subheader("Análisis de Traducciones por Revista")
+    st.subheader("Análisis de traducciones por revista")
 
     col_revista_trad = 'Revista'
     col_traduccion_trad = 'Traducción'
@@ -626,7 +626,7 @@ else:
 
 # --- GRÁFICO DE EVOLUCIÓN DE TRADUCCIONES POR TIPOLOGÍA ---
 st.markdown("---")
-st.subheader("Evolución de Traducciones por Tipología a lo largo del tiempo")
+st.subheader("Evolución de traducciones por tipología a lo largo del tiempo")
 
 col_tipologia_trad_evo = "Tipología"
 col_fecha_trad_evo = "Fecha Publicación"
@@ -660,7 +660,7 @@ if all(col in df_filtrado.columns for col in [col_tipologia_trad_evo, col_fecha_
                 df_grafico_evolucion_trad = datos_evolucion_trad[datos_evolucion_trad[col_tipologia_trad_evo].isin(tipologias_seleccionadas_trad)]
 
                 # 3. Reutilizar la función de visualización existente
-                titulo_evolucion_trad = "Evolución de Tipologías en Traducciones por Año"
+                titulo_evolucion_trad = "Evolución de tipologías en traducciones por año"
                 fig_evolucion_trad = crear_grafico_evolucion(
                     df_grafico_evolucion_trad,
                     col_ano='Año',
@@ -685,7 +685,7 @@ else:
 
 # --- NUEVO GRÁFICO: IDIOMAS MÁS TRADUCIDOS POR TIPOLOGÍA ---
 st.markdown("---")
-st.subheader("Idiomas Originales más Traducidos por Tipología Textual")
+st.subheader("Idiomas originales más traducidos por tipología textual")
 
 col_idioma_orig = 'Idioma Original'
 col_tipologia = 'Tipología'
@@ -719,9 +719,9 @@ if all(c in df_filtrado.columns for c in [col_idioma_orig, col_tipologia, col_tr
                     col_x='Frecuencia',
                     col_y='Idioma Original',
                     col_color='Tipología',
-                    titulo='Distribución de Tipologías por Idioma Original Traducido',
-                    label_x='Número de Traducciones',
-                    label_y='Idioma Original'
+                    titulo='Distribución de tipologías por idioma original traducido',
+                    label_x='Número de traducciones',
+                    label_y='Idioma original'
                 )
                 if fig_idioma_tipologia: st.plotly_chart(fig_idioma_tipologia, use_container_width=True)
         else:
