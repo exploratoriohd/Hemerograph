@@ -153,7 +153,9 @@ else:
                 df_playground = calcular_distribucion_geo_variable(df_enriquecido, columna_a_analizar, valor_a_mapear, COLUMNA_PAIS_ORIGINAL, 'geocode')
                 if not df_playground.empty:
                     fig_playground = crear_mapa_coropletico(df_playground, 'geocode', 'Valor', COLUMNA_PAIS_ORIGINAL, f"Distribución de '{valor_a_mapear}' ({columna_a_analizar})", usar_escala_log=True)
-                    if fig_playground: st.plotly_chart(fig_playground, use_container_width=True)
+                    if fig_playground: 
+                        fig_playground.update_traces(hovertemplate='<b>%{hovertext}</b><br><br>Valor: %{customdata[0]}<extra></extra>', customdata=df_playground[['Valor']])
+                        st.plotly_chart(fig_playground, use_container_width=True)
                 else:
                     st.info(f"No se encontraron registros de '{valor_a_mapear}' para los filtros actuales.")
 
