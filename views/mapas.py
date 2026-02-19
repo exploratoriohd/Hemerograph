@@ -96,7 +96,7 @@ else:
 
     # --- PESTAÑA 2: MAPA DE ANÁLISIS REGIONAL DINÁMICO ---
     with tab2:
-        st.header("Análisis Regional Dinámico y Personalizado")
+        st.header("Análisis regional dinámico y personalizado")
         st.write("Crea tus propias agrupaciones geográficas y visualiza sus métricas agregadas.")
         
         lista_paises_disponibles = sorted(df_enriquecido[COLUMNA_PAIS_ORIGINAL].dropna().unique())
@@ -166,7 +166,7 @@ st.markdown("Continúa tu análisis explorando otras perspectivas de los datos."
 col_nav1, col_nav2 = st.columns(2)
 
 with col_nav1:
-    st.page_link("pages/dashboard.py", label="**Dashboard Integrado**", icon="📊", use_container_width=True)
+    st.page_link("views/dashboard.py", label="**Dashboard Integrado**", icon="📊", use_container_width=True)
 
 with col_nav2:
-    st.page_link("pages/redes.py", label="**Análisis de Redes**", icon="🕸️", use_container_width=True)
+    st.page_link("views/redes.py", label="**Análisis de Redes**", icon="🕸️", use_container_width=True)

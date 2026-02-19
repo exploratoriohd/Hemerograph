@@ -11,7 +11,7 @@ from components.visualization import (
 )
 
 # --- CONSTANTES ---
-ETIQUETAS_ANONIMOS = ["Anónimo", "Anonymous", "n.I."]
+ETIQUETAS_ANONIMOS = ["Anónimo", "Anonymous", "n.I.", "Redacción"]
 
 st.set_page_config(page_title="Hemerograph - Dashboard de visualización", layout="wide")
 st.title("📊 Dashboard integrado: visualización de datos de revistas culturales y literarias")
@@ -738,7 +738,7 @@ st.markdown("Continúa tu análisis explorando otras perspectivas de los datos."
 col_nav1, col_nav2 = st.columns(2)
 
 with col_nav1:
-    st.page_link("pages/mapas.py", label="**Análisis Geográfico y Mapas**", icon="🗺️", use_container_width=True)
+    st.page_link("views/mapas.py", label="**Análisis Geográfico y Mapas**", icon="🗺️", use_container_width=True)
 
 with col_nav2:
-    st.page_link("pages/redes.py", label="**Análisis de Redes**", icon="🕸️", use_container_width=True)
+    st.page_link("views/redes.py", label="**Análisis de Redes**", icon="🕸️", use_container_width=True)

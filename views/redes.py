@@ -36,8 +36,8 @@ if 'Año' not in df_redes_base.columns and COL_FECHA in df_redes_base.columns:
 # --- Controles en la Sidebar ---
 st.sidebar.header("Filtros y opciones para la red")
 anos_disponibles = sorted(df_redes_base['Año'].unique()) if 'Año' in df_redes_base else []
-if anos_disponibles:
-    range_ano_seleccionado = st.sidebar.slider("1. Filtrar por rango de años:", anos_disponibles[0], anos_disponibles[-1], (anos_disponibles[0], anos_disponibles[-1]))
+# if anos_disponibles:
+#     range_ano_seleccionado = st.sidebar.slider("1. Filtrar por rango de años:", anos_disponibles[0], anos_disponibles[-1], (anos_disponibles[0], anos_disponibles[-1]))
 lista_revistas_red = sorted(df_redes_base[COL_REVISTA].dropna().unique())
 revistas_seleccionadas_red = st.sidebar.multiselect("2. Filtrar por revista(s):", lista_revistas_red, default=lista_revistas_red[:min(5, len(lista_revistas_red))])
 
@@ -74,9 +74,9 @@ if not revistas_seleccionadas_red:
 else:
     if st.button("Generar análisis de red", type="primary", use_container_width=True):
         df_filtrado = df_redes_base[
-            (df_redes_base[COL_REVISTA].isin(revistas_seleccionadas_red)) &
-            (df_redes_base['Año'] >= range_ano_seleccionado[0]) &
-            (df_redes_base['Año'] <= range_ano_seleccionado[1])
+            (df_redes_base[COL_REVISTA].isin(revistas_seleccionadas_red))
+            #(df_redes_base['Año'] >= range_ano_seleccionado[0]) &
+            #(df_redes_base['Año'] <= range_ano_seleccionado[1])
         ]
 
         if exclude_anonyms:
@@ -89,17 +89,22 @@ else:
             st.session_state.analysis_results = None
         else:
             with st.spinner("Realizando análisis con igraph..."):
-                cache_key = f"{range_ano_seleccionado[0]}-{range_ano_seleccionado[1]}_{'_'.join(sorted(revistas_seleccionadas_red))}"
+                #cache_key = f"{range_ano_seleccionado[0]}-{range_ano_seleccionado[1]}_{'_'.join(sorted(revistas_seleccionadas_red))}"
                 
                 # 1. Crear el grafo base con igraph (rápido)
-                G_ig = crear_red_bimodal_ig(df_filtrado, COL_REVISTA, COL_COLABORADOR, cache_key=cache_key)
+                # G_ig = crear_red_bimodal_ig(df_filtrado, COL_REVISTA, COL_COLABORADOR, cache_key=cache_key)
+                G_ig = crear_red_bimodal_ig(df_filtrado, COL_REVISTA, COL_COLABORADOR)
+
                 
                 
                 mapa_comunidades, error_msg = None, None
                 if calc_modularidad:
-                    mapa_comunidades, error_msg = proyectar_y_detectar_comunidades_ig(G_ig, algoritmo=algoritmo_comunidad, cache_key=cache_key)
-            
-                metricas_globales, df_metricas_nodos = calcular_metricas_red_ig(G_ig, calc_interm, cache_key=cache_key)
+                    # mapa_comunidades, error_msg = proyectar_y_detectar_comunidades_ig(G_ig, algoritmo=algoritmo_comunidad, cache_key=cache_key)
+                    mapa_comunidades, error_msg = proyectar_y_detectar_comunidades_ig(G_ig, algoritmo=algoritmo_comunidad)
+
+                # metricas_globales, df_metricas_nodos = calcular_metricas_red_ig(G_ig, calc_interm, cache_key=cache_key)
+                metricas_globales, df_metricas_nodos = calcular_metricas_red_ig(G_ig, calc_interm)
+
 
                 # # 2. Calcular modularidad y métricas con igraph (rápido)
                 # mapa_comunidades = proyectar_y_detectar_comunidades_ig(G_ig, cache_key=cache_key) if calc_modularidad else None
