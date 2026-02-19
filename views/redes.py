@@ -192,4 +192,4 @@ with col_nav1:
     st.page_link("views/dashboard.py", label="**Dashboard Integrado**", icon="📊", use_container_width=True)
 
 with col_nav2:
-    st.page_link("views/mapas.py", label="**Análisis Geógrafico y Mapas**", icon="🗺️", use_container_width=True)
+    st.page_link("views/mapas.py", label="**Análisis Geográfico y Mapas**", icon="🗺️", use_container_width=True)
