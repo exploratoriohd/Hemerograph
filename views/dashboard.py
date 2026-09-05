@@ -207,6 +207,7 @@ else:
                 if not total_pubs_por_colab.empty:
                     num_colaboradores_disponibles = len(total_pubs_por_colab)
                     num_top_colabs_tipologia = 0 # Inicializar
+                    df_grafico_colab_tipologia_final = pd.DataFrame() # Inicializar para evitar NameError si no hay top a mostrar
 
                     if num_colaboradores_disponibles == 1:
                         # Si solo hay un colaborador, no necesitamos un slider para elegir "top N".
@@ -289,40 +290,57 @@ else:
     st.markdown("---")
     st.subheader("2. Colaboradores mejor conectados (por número de revistas distintas en las que aparecen)")
 
-    # Nombres de las columnas en tu DataFrame principal. 
-    # 'Revista' es el nombre que estandarizamos en app.py con CORE_COLUMNS y RENAMING_MAP.
     col_colaborador = "Colaborador"
     col_revista = "Revista"
 
-    # Verificar si las columnas necesarias están disponibles
     if col_colaborador in df_filtrado.columns and col_revista in df_filtrado.columns:   
         try:
-            # 1. Procesar los datos usando nuestra función externa
             datos_conexiones = calcular_conexiones_autor(df_filtrado, col_autor=col_colaborador, col_revista=col_revista)
 
-            # 2. Reutilizar el checkbox de anónimos para filtrar los resultados
             if st.session_state.get('cb_anonimos_tipologia', True):
                 datos_conexiones = datos_conexiones[~datos_conexiones[col_colaborador].isin(ETIQUETAS_ANONIMOS)]
 
             if not datos_conexiones.empty:
                 num_autores_disponibles = len(datos_conexiones)
 
-                # 3. Widget para seleccionar el "Top N" (con la lógica anti-error que ya implementamos)
                 if num_autores_disponibles == 1:
                     st.info("Solo hay 1 autor conectado disponible para mostrar.")
                     num_top_conectados = 1
+                    autor_a_resaltar = None
                 else:
-                    max_slider_val = min(50, num_autores_disponibles)
-                    num_top_conectados = st.slider(
-                        "Número de autores mejor conectados a mostrar:",
-                        min_value=1,
-                        max_value=max_slider_val,
-                        value=min(15, max_slider_val),
-                        key="slider_top_conectados_v2"
-                    )
+                    # Usamos columnas para poner los controles uno al lado del otro
+                    col_control1, col_control2 = st.columns([2, 1])
+                    
+                    with col_control1:
+                        max_slider_val = min(50, num_autores_disponibles)
+                        num_top_conectados = st.slider(
+                            "Número de autores mejor conectados a mostrar:",
+                            min_value=1,
+                            max_value=max_slider_val,
+                            value=min(15, max_slider_val),
+                            key="slider_top_conectados_v2"
+                        )
+                    
+                    with col_control2:
+                        # Extraemos solo los autores que se van a graficar para el selector
+                        autores_en_grafico = datos_conexiones.head(num_top_conectados)[col_colaborador].tolist()
+                        
+                        autor_a_resaltar = st.selectbox(
+                            "🔍 Resaltar un autor:",
+                            options=["Ninguno"] + autores_en_grafico,
+                            index=0,
+                            key="resaltar_autor_conexiones"
+                        )
+                        # Si elige "Ninguno", pasamos None a la función
+                        if autor_a_resaltar == "Ninguno":
+                            autor_a_resaltar = None
                 
-                # 4. Crear y mostrar el gráfico usando nuestra función de visualización
-                fig_conexiones = crear_grafico_conexiones(datos_conexiones, top_n=num_top_conectados)
+                # 4. Crear y mostrar el gráfico PASANDO el argumento highlight_item
+                fig_conexiones = crear_grafico_conexiones(
+                    datos_conexiones, 
+                    top_n=num_top_conectados, 
+                    highlight_item=autor_a_resaltar  # <--- Nuevo parámetro
+                )
                 
                 if fig_conexiones:
                     st.plotly_chart(fig_conexiones, use_container_width=True)
