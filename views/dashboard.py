@@ -206,40 +206,60 @@ else:
                 
                 if not total_pubs_por_colab.empty:
                     num_colaboradores_disponibles = len(total_pubs_por_colab)
-                    num_top_colabs_tipologia = 0 # Inicializar
+                    rango_inicio_tipologia, rango_fin_tipologia = 0, 0 # Inicializar
+                    df_grafico_colab_tipologia_final = pd.DataFrame() # Inicializar para evitar NameError si no hay top a mostrar
+                    colaborador_a_resaltar_tipologia = None
 
                     if num_colaboradores_disponibles == 1:
-                        # Si solo hay un colaborador, no necesitamos un slider para elegir "top N".
+                        # Si solo hay un colaborador, no necesitamos un slider para elegir el rango.
                         # Simplemente mostramos ese único colaborador.
                         st.info("Solo hay 1 colaborador disponible para mostrar con los filtros y opciones actuales.")
-                        num_top_colabs_tipologia = 1
+                        rango_inicio_tipologia, rango_fin_tipologia = 1, 1
                     elif num_colaboradores_disponibles > 1:
-                        # Si hay más de un colaborador, mostramos el slider.
-                        # El valor mínimo del slider será 1.
-                        # El valor máximo será el número de colaboradores disponibles (limitado a 50 por legibilidad).
-                        slider_min_val = 1
-                        slider_max_val = min(50, num_colaboradores_disponibles)
-                        
-                        # El valor por defecto puede ser 15 o el máximo disponible si es menor.
-                        default_slider_val = min(15, slider_max_val)
+                        # Usamos columnas para poner los controles uno al lado del otro
+                        col_rango_tipologia, col_resaltar_tipologia = st.columns([2, 1])
 
-                        num_top_colabs_tipologia = st.slider(
-                            "Número de colaboradores 'Top' a mostrar en el gráfico de tipologías:",
-                            min_value=slider_min_val,
-                            max_value=slider_max_val, 
-                            value=default_slider_val, # Asegurar que value <= max_value
-                            key="slider_top_colabs_tipologia_v2", # Nueva clave por si acaso
-                            help=f"Puedes seleccionar entre {slider_min_val} y {slider_max_val} colaboradores."
-                        )
+                        with col_rango_tipologia:
+                            slider_max_val = min(50, num_colaboradores_disponibles)
+                            rango_inicio_tipologia, rango_fin_tipologia = st.slider(
+                                "Rango de colaboradores a mostrar (por número de publicaciones):",
+                                min_value=1,
+                                max_value=slider_max_val,
+                                value=(1, min(15, slider_max_val)),
+                                key="slider_rango_colabs_tipologia_v3",
+                                help=f"Mueve ambos extremos para ver, por ejemplo, del puesto 5 al 15 o del 20 al 25 (máximo {slider_max_val})."
+                            )
+
+                        with col_resaltar_tipologia:
+                            # Extraemos solo los colaboradores que se van a graficar para el selector
+                            colaboradores_en_grafico_tipologia = total_pubs_por_colab.iloc[
+                                rango_inicio_tipologia - 1:rango_fin_tipologia
+                            ].index.tolist()
+
+                            colaborador_a_resaltar_tipologia = st.selectbox(
+                                "🔍 Resaltar un colaborador:",
+                                options=["Ninguno"] + colaboradores_en_grafico_tipologia,
+                                index=0,
+                                key="resaltar_colaborador_tipologia"
+                            )
+                            # Si elige "Ninguno", pasamos None
+                            if colaborador_a_resaltar_tipologia == "Ninguno":
+                                colaborador_a_resaltar_tipologia = None
                     else: # num_colaboradores_disponibles es 0 (aunque if not total_pubs_por_colab.empty ya lo cubre)
                         st.info("No hay colaboradores para mostrar.")
-                        # No se procede a graficar si num_top_colabs_tipologia sigue siendo 0
+                        # No se procede a graficar si rango_fin_tipologia sigue siendo 0
 
-                    if num_top_colabs_tipologia > 0: # Solo proceder si hay algo que mostrar
-                        top_colaboradores_nombres = total_pubs_por_colab.head(num_top_colabs_tipologia).index
+                    if rango_fin_tipologia > 0: # Solo proceder si hay algo que mostrar
+                        top_colaboradores_nombres = total_pubs_por_colab.iloc[rango_inicio_tipologia - 1:rango_fin_tipologia].index
                         df_grafico_colab_tipologia_final = colab_tipologia_counts[colab_tipologia_counts[col_colaborador].isin(top_colaboradores_nombres)]
 
                     if not df_grafico_colab_tipologia_final.empty:
+                        # Título dinámico: "top N" si el rango empieza en el puesto 1, o el rango exacto en otro caso
+                        if rango_inicio_tipologia == 1:
+                            titulo_tipologia = f"Distribución de tipologías textuales para el top {rango_fin_tipologia} colaboradores"
+                        else:
+                            titulo_tipologia = f"Distribución de tipologías textuales para colaboradores del puesto {rango_inicio_tipologia} al {rango_fin_tipologia}"
+
                         # Crear el gráfico de barras apiladas
                         fig_colab_tipologia = px.bar(
                             df_grafico_colab_tipologia_final,
@@ -247,7 +267,7 @@ else:
                             y=col_colaborador,
                             orientation='h',
                             color=col_tipologia,
-                            title=f"Distribución de tipologías textuales para el top {num_top_colabs_tipologia} colaboradores",
+                            title=titulo_tipologia,
                             labels={
                                 col_colaborador: "Colaborador",
                                 'Frecuencia': "Número de publicaciones",
@@ -255,13 +275,24 @@ else:
                             },
                             barmode='stack'
                         )
-                        
+
                         # Ajustar el layout para que el colaborador con más frecuencia esté arriba
                         fig_colab_tipologia.update_layout(
                             yaxis={'categoryorder': 'total ascending'}, # Ordena las barras por la frecuencia
                             xaxis_title="Número de publicaciones",
                             yaxis_title="Colaborador"
                         )
+
+                        # Resaltar visualmente al colaborador seleccionado con un contorno en sus barras.
+                        # No se usa color de relleno porque el color ya codifica la Tipología.
+                        if colaborador_a_resaltar_tipologia:
+                            color_resaltado = '#ff7f0e'
+                            for trace in fig_colab_tipologia.data:
+                                anchos = [3 if y == colaborador_a_resaltar_tipologia else 0 for y in trace.y]
+                                colores = [color_resaltado if y == colaborador_a_resaltar_tipologia else 'rgba(0,0,0,0)' for y in trace.y]
+                                trace.marker.line.width = anchos
+                                trace.marker.line.color = colores
+
                         st.plotly_chart(fig_colab_tipologia, use_container_width=True)
                     else:
                         st.info("No hay suficientes datos para mostrar el gráfico de frecuencia de colaboradores por tipología con los filtros y selecciones actuales.")
@@ -289,40 +320,59 @@ else:
     st.markdown("---")
     st.subheader("2. Colaboradores mejor conectados (por número de revistas distintas en las que aparecen)")
 
-    # Nombres de las columnas en tu DataFrame principal. 
-    # 'Revista' es el nombre que estandarizamos en app.py con CORE_COLUMNS y RENAMING_MAP.
     col_colaborador = "Colaborador"
     col_revista = "Revista"
 
-    # Verificar si las columnas necesarias están disponibles
     if col_colaborador in df_filtrado.columns and col_revista in df_filtrado.columns:   
         try:
-            # 1. Procesar los datos usando nuestra función externa
             datos_conexiones = calcular_conexiones_autor(df_filtrado, col_autor=col_colaborador, col_revista=col_revista)
 
-            # 2. Reutilizar el checkbox de anónimos para filtrar los resultados
             if st.session_state.get('cb_anonimos_tipologia', True):
                 datos_conexiones = datos_conexiones[~datos_conexiones[col_colaborador].isin(ETIQUETAS_ANONIMOS)]
 
             if not datos_conexiones.empty:
                 num_autores_disponibles = len(datos_conexiones)
 
-                # 3. Widget para seleccionar el "Top N" (con la lógica anti-error que ya implementamos)
                 if num_autores_disponibles == 1:
                     st.info("Solo hay 1 autor conectado disponible para mostrar.")
-                    num_top_conectados = 1
+                    rango_inicio_conectados, rango_fin_conectados = 1, 1
+                    autor_a_resaltar = None
                 else:
-                    max_slider_val = min(50, num_autores_disponibles)
-                    num_top_conectados = st.slider(
-                        "Número de autores mejor conectados a mostrar:",
-                        min_value=1,
-                        max_value=max_slider_val,
-                        value=min(15, max_slider_val),
-                        key="slider_top_conectados_v2"
-                    )
-                
-                # 4. Crear y mostrar el gráfico usando nuestra función de visualización
-                fig_conexiones = crear_grafico_conexiones(datos_conexiones, top_n=num_top_conectados)
+                    # Usamos columnas para poner los controles uno al lado del otro
+                    col_control1, col_control2 = st.columns([2, 1])
+
+                    with col_control1:
+                        max_slider_val = min(50, num_autores_disponibles)
+                        rango_inicio_conectados, rango_fin_conectados = st.slider(
+                            "Rango de posiciones a mostrar (por número de revistas distintas):",
+                            min_value=1,
+                            max_value=max_slider_val,
+                            value=(1, min(15, max_slider_val)),
+                            key="slider_rango_conectados_v3",
+                            help="Mueve ambos extremos para ver, por ejemplo, del puesto 5 al 15 o del 20 al 25."
+                        )
+
+                    with col_control2:
+                        # Extraemos solo los autores que se van a graficar para el selector
+                        autores_en_grafico = datos_conexiones.iloc[rango_inicio_conectados - 1:rango_fin_conectados][col_colaborador].tolist()
+
+                        autor_a_resaltar = st.selectbox(
+                            "🔍 Resaltar un autor:",
+                            options=["Ninguno"] + autores_en_grafico,
+                            index=0,
+                            key="resaltar_autor_conexiones"
+                        )
+                        # Si elige "Ninguno", pasamos None a la función
+                        if autor_a_resaltar == "Ninguno":
+                            autor_a_resaltar = None
+
+                # 4. Crear y mostrar el gráfico PASANDO el rango y el argumento highlight_item
+                fig_conexiones = crear_grafico_conexiones(
+                    datos_conexiones,
+                    rango_inicio=rango_inicio_conectados,
+                    rango_fin=rango_fin_conectados,
+                    highlight_item=autor_a_resaltar
+                )
                 
                 if fig_conexiones:
                     st.plotly_chart(fig_conexiones, use_container_width=True)

@@ -94,29 +94,42 @@ def visualizar_mejores_conectados(colaboradores_mejor_conectados):
 
     return figura
 
-def crear_grafico_conexiones(df_conexiones, top_n=15, col_entidad='Colaborador', col_conexiones='Nro_Conexiones'):
+def crear_grafico_conexiones(df_conexiones, rango_inicio=1, rango_fin=15, col_entidad='Colaborador', col_conexiones='Nro_Conexiones', highlight_item=None):
     """
-    Crea un gráfico de barras horizontales para mostrar entidades mejor conectadas.
-
-    Args:
-        df_conexiones (pd.DataFrame): DataFrame con la entidad y su número de conexiones.
-        top_n (int): El número de las N entidades principales a mostrar.
-        col_entidad (str): Nombre de la columna de la entidad (ej. 'Colaborador').
-        col_conexiones (str): Nombre de la columna del conteo de conexiones.
-
-    Returns:
-        plotly.graph_objs._figure.Figure: La figura de Plotly para mostrar.
+    Crea un gráfico de barras horizontales para mostrar entidades mejor conectadas
+    dentro de un rango de posiciones del ranking (1-indexado), con la opción de
+    resaltar una entidad específica.
     """
-    if df_conexiones.empty or top_n == 0:
-        return None # Devuelve nada si no hay datos para graficar
+    if df_conexiones.empty or rango_fin < rango_inicio:
+        return None
 
-    # Seleccionar el top N
-    df_top = df_conexiones.head(top_n)
-    
-    # Título y etiquetas dinámicas
-    titulo = f"Top {len(df_top)} {col_entidad}es por Número de Revistas Distintas"
+    # Seleccionar el rango de posiciones solicitado y copiar para evitar advertencias de Pandas
+    df_top = df_conexiones.iloc[rango_inicio - 1:rango_fin].copy()
+
+    if df_top.empty:
+        return None
+
+    # Título dinámico: "Top N" si el rango empieza en el puesto 1, o el rango exacto en otro caso
+    if rango_inicio == 1:
+        titulo = f"Top {len(df_top)} {col_entidad}es por Número de Revistas Distintas"
+    else:
+        titulo = f"{col_entidad}es del puesto {rango_inicio} al {rango_fin} por Número de Revistas Distintas"
     label_eje_x = "Número de Revistas Distintas"
     label_eje_y = col_entidad
+
+    # Lógica de resaltado por color
+    if highlight_item and highlight_item in df_top[col_entidad].values:
+        # Creamos una nueva columna condicional para el color
+        df_top['Color_Resaltado'] = df_top[col_entidad].apply(
+            lambda x: 'Resaltado' if x == highlight_item else 'Normal'
+        )
+        color_col = 'Color_Resaltado'
+        # Definimos los colores exactos (Naranja para resaltado, Azul para normal)
+        color_map = {'Resaltado': '#ff7f0e', 'Normal': '#1f77b4'}
+    else:
+        # Si no hay resaltado, color por defecto
+        color_col = None
+        color_map = None
 
     fig = px.bar(
         df_top,
@@ -125,13 +138,16 @@ def crear_grafico_conexiones(df_conexiones, top_n=15, col_entidad='Colaborador',
         orientation='h',
         title=titulo,
         labels={col_conexiones: label_eje_x, col_entidad: label_eje_y},
-        text=col_conexiones
+        text=col_conexiones,
+        color=color_col,
+        color_discrete_map=color_map
     )
     
     fig.update_layout(
-        yaxis={'categoryorder':'total ascending'}, # Los más conectados arriba
+        yaxis={'categoryorder':'total ascending'}, 
         xaxis_title=label_eje_x,
-        yaxis_title=label_eje_y
+        yaxis_title=label_eje_y,
+        showlegend=False # Ocultamos la leyenda para que sea más limpio
     )
     
     return fig
