@@ -94,19 +94,26 @@ def visualizar_mejores_conectados(colaboradores_mejor_conectados):
 
     return figura
 
-def crear_grafico_conexiones(df_conexiones, top_n=15, col_entidad='Colaborador', col_conexiones='Nro_Conexiones', highlight_item=None):
+def crear_grafico_conexiones(df_conexiones, rango_inicio=1, rango_fin=15, col_entidad='Colaborador', col_conexiones='Nro_Conexiones', highlight_item=None):
     """
-    Crea un gráfico de barras horizontales para mostrar entidades mejor conectadas,
-    con la opción de resaltar una entidad específica.
+    Crea un gráfico de barras horizontales para mostrar entidades mejor conectadas
+    dentro de un rango de posiciones del ranking (1-indexado), con la opción de
+    resaltar una entidad específica.
     """
-    if df_conexiones.empty or top_n == 0:
-        return None 
+    if df_conexiones.empty or rango_fin < rango_inicio:
+        return None
 
-    # Seleccionar el top N y hacer una copia para evitar advertencias de Pandas
-    df_top = df_conexiones.head(top_n).copy()
-    
-    # Título y etiquetas dinámicas
-    titulo = f"Top {len(df_top)} {col_entidad}es por Número de Revistas Distintas"
+    # Seleccionar el rango de posiciones solicitado y copiar para evitar advertencias de Pandas
+    df_top = df_conexiones.iloc[rango_inicio - 1:rango_fin].copy()
+
+    if df_top.empty:
+        return None
+
+    # Título dinámico: "Top N" si el rango empieza en el puesto 1, o el rango exacto en otro caso
+    if rango_inicio == 1:
+        titulo = f"Top {len(df_top)} {col_entidad}es por Número de Revistas Distintas"
+    else:
+        titulo = f"{col_entidad}es del puesto {rango_inicio} al {rango_fin} por Número de Revistas Distintas"
     label_eje_x = "Número de Revistas Distintas"
     label_eje_y = col_entidad
 
